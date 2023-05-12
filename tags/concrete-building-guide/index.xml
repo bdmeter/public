@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>concrete-building-guide on Bdmeter</title>
+    <link>https://bdmeter.info/tags/concrete-building-guide/</link>
+    <description>Recent content in concrete-building-guide on Bdmeter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [GOISP](https://goisp.net). All Rights Reserved.</copyright>
+    <lastBuildDate>Tue, 06 Sep 2022 22:42:23 +0800</lastBuildDate><atom:link href="https://bdmeter.info/tags/concrete-building-guide/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building guide</title>
+      <link>https://bdmeter.info/docs/installation/building/</link>
+      <pubDate>Tue, 06 Sep 2022 22:42:23 +0800</pubDate>
+      
+      <guid>https://bdmeter.info/docs/installation/building/</guid>
+      <description>Step by step installation process of a building. This guide of installation of a building will help us to know how to build small to large scale category building by self.
+coming soon.. </description>
+    </item>
+    
+  </channel>
+</rss>

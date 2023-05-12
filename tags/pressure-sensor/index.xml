@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pressure-sensor on Bdmeter</title>
+    <link>https://bdmeter.info/tags/pressure-sensor/</link>
+    <description>Recent content in pressure-sensor on Bdmeter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [GOISP](https://goisp.net). All Rights Reserved.</copyright>
+    <lastBuildDate>Sun, 16 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bdmeter.info/tags/pressure-sensor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Industrial Smoke and Chemical Sensors Process Control</title>
+      <link>https://bdmeter.info/blog/2022/01/industrial-smoke-and-chemical-sensors-process-control/</link>
+      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2022/01/industrial-smoke-and-chemical-sensors-process-control/</guid>
+      <description>This article will help you understand and become familiar with other sensors that play a very important part in process control, but may not be encountered on a daily basis. The following are covered in this article:
+■ Position, distance, velocity, and acceleration sensors
+■ Rotation sensors using light and Hall effect sensors
+■ Force, torque, load cells, and balances
+■ Smoke detectors, gas, and chemical sensors in the industry</description>
+    </item>
+    
+  </channel>
+</rss>

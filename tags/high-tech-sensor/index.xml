@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>high-tech-sensor on Bdmeter</title>
+    <link>https://bdmeter.info/tags/high-tech-sensor/</link>
+    <description>Recent content in high-tech-sensor on Bdmeter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [GOISP](https://goisp.net). All Rights Reserved.</copyright>
+    <lastBuildDate>Sat, 18 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bdmeter.info/tags/high-tech-sensor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What are Smoke and Chemical Sensors and their applications</title>
+      <link>https://bdmeter.info/blog/2023/03/what-are-smoke-and-chemical-sensors-and-their-applications/</link>
+      <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2023/03/what-are-smoke-and-chemical-sensors-and-their-applications/</guid>
+      <description>Smoke and Chemical Sensors: The detection of smoke, radiation, and chemicals is of great importance in industrial processing not only as it relates to the safety of humans and the control of environmental pollution both atmospheric and ground but is also used in process control applications to detect the presence, absence, or levels of impurities in processing chemicals.
+Smoke detectors and heat sensors (automatic sprinklers) are now commonplace in the industry for the protection of people, and equipment, and for monitoring and control of chemical reactions.</description>
+    </item>
+    
+    <item>
+      <title>Industrial Smoke and Chemical Sensors Process Control</title>
+      <link>https://bdmeter.info/blog/2022/01/industrial-smoke-and-chemical-sensors-process-control/</link>
+      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2022/01/industrial-smoke-and-chemical-sensors-process-control/</guid>
+      <description>This article will help you understand and become familiar with other sensors that play a very important part in process control, but may not be encountered on a daily basis. The following are covered in this article:
+■ Position, distance, velocity, and acceleration sensors
+■ Rotation sensors using light and Hall effect sensors
+■ Force, torque, load cells, and balances
+■ Smoke detectors, gas, and chemical sensors in the industry</description>
+    </item>
+    
+  </channel>
+</rss>

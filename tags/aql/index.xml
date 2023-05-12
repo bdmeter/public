@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>aql on Bdmeter</title>
+    <link>https://bdmeter.info/tags/aql/</link>
+    <description>Recent content in aql on Bdmeter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [GOISP](https://goisp.net). All Rights Reserved.</copyright>
+    <lastBuildDate>Sun, 28 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bdmeter.info/tags/aql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AQL Inspection System</title>
+      <link>https://bdmeter.info/blog/2021/02/aql-inspection-system/</link>
+      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2021/02/aql-inspection-system/</guid>
+      <description>What is AQL Inspection System? AQL Inspection System to Merchandisers
+AQL stands for Acceptable Quality Level. AQL is an internationally recognized standard for
+inspection. It determines the number of samples to be picked and inspected randomly and the
+maximum defect quantity allowed in order to pass the inspection.
+Here is an example:
+Step 1: First to get customer quality requirement
+**Step 2 : Check AQL table 1 to get batch size</description>
+    </item>
+    
+  </channel>
+</rss>

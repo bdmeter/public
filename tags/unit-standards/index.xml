@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>unit-standards on Bdmeter</title>
+    <link>https://bdmeter.info/tags/unit-standards/</link>
+    <description>Recent content in unit-standards on Bdmeter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [GOISP](https://goisp.net). All Rights Reserved.</copyright>
+    <lastBuildDate>Thu, 16 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bdmeter.info/tags/unit-standards/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Process control and elements in a control loop</title>
+      <link>https://bdmeter.info/blog/2023/03/process-control-and-elements-in-a-control-loop/</link>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2023/03/process-control-and-elements-in-a-control-loop/</guid>
+      <description>Process Control In order to produce a product with consistently high quality, tight process control is necessary. A simple-to-understand example of process control would be the supply of water to a number of cleaning stations, where the water temperature needs to be kept constant in spite of the demand. A simple control block is shown in Fig. 1.1a, steam, and cold water are fed into a heat exchanger, where heat from the steam is used to bring the cold water to the required working temperature.</description>
+    </item>
+    
+  </channel>
+</rss>

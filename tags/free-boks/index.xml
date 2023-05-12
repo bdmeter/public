@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>free-boks on Bdmeter</title>
+    <link>https://bdmeter.info/tags/free-boks/</link>
+    <description>Recent content in free-boks on Bdmeter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [GOISP](https://goisp.net). All Rights Reserved.</copyright>
+    <lastBuildDate>Wed, 20 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bdmeter.info/tags/free-boks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thermodynamics, heat transfer, and fluid flow mechanics</title>
+      <link>https://bdmeter.info/blog/2021/10/thermodynamics-heat-transfer-and-fluid-flow-mechanics/</link>
+      <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2021/10/thermodynamics-heat-transfer-and-fluid-flow-mechanics/</guid>
+      <description>Fluid flow is an important part of most industrial processes; especially those involving the transfer of heat. Frequently, when it is desired to remove heat from the point at which it is generated, some type of fluid is involved in the heat transfer process. Examples of this are the cooling water circulated through a gasoline or diesel engine, the airflow past the windings of a motor, and the flow of water through the core of a nuclear reactor.</description>
+    </item>
+    
+  </channel>
+</rss>
