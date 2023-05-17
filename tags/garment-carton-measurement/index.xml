@@ -1,3 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>garment-carton-measurement on Bdmeter</title><link>http://localhost:1314/tags/garment-carton-measurement/</link><description>Recent content in garment-carton-measurement on Bdmeter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright><lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/tags/garment-carton-measurement/index.xml" rel="self" type="application/rss+xml"/><item><title>CBM Calculation (FedEx Guide)</title><link>http://localhost:1314/blog/2021/03/cbm-calculation-fedex-guide/</link><pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/03/cbm-calculation-fedex-guide/</guid><description>To work at FedEx global shipping, it&amp;rsquo;s important to learn CBM calculation. Why? Because you need to estimate shipping cost to quote price to customers. This is very much important.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>garment-carton-measurement on Bdmeter</title>
+    <link>https://bdmeter.info/tags/garment-carton-measurement/</link>
+    <description>Recent content in garment-carton-measurement on Bdmeter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bdmeter.info/tags/garment-carton-measurement/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CBM Calculation (FedEx Guide)</title>
+      <link>https://bdmeter.info/blog/2021/03/cbm-calculation-fedex-guide/</link>
+      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2021/03/cbm-calculation-fedex-guide/</guid>
+      <description>To work at FedEx global shipping, it&amp;rsquo;s important to learn CBM calculation. Why? Because you need to estimate shipping cost to quote price to customers. This is very much important.
 Fedex Shipping Job Guide
-To calculate CBM, we first need to know the length, width and height of the carton in cm. If carton measurement is in inch, we have to convert measurement in inch. Simply multiply the length, width and height to find cubic centimeter and divide by 1000000 to find cubic meter (CBM).</description></item></channel></rss>
+To calculate CBM, we first need to know the length, width and height of the carton in cm. If carton measurement is in inch, we have to convert measurement in inch. Simply multiply the length, width and height to find cubic centimeter and divide by 1000000 to find cubic meter (CBM).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,2 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>import-port-cost on Bdmeter</title><link>http://localhost:1314/tags/import-port-cost/</link><description>Recent content in import-port-cost on Bdmeter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright><lastBuildDate>Tue, 24 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/tags/import-port-cost/index.xml" rel="self" type="application/rss+xml"/><item><title>Bangladesh Export Import Duty</title><link>http://localhost:1314/blog/2021/08/bangladesh-export-import-duty/</link><pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/08/bangladesh-export-import-duty/</guid><description>Bangladesh Government has export-import operative tariff plan executed and published by Bangladesh custom governing body. This board is under the Bangladesh National Board Of Revenue. Bangladesh customs are under the department of the National Board of Revenue. You can calculate import duty by this plan and this will help you in Bangladesh if you want to import products/materials/anything from the international marketplace.
-Search Bangladesh Import Export Duty Tariff Plan: Download file here ::</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>import-port-cost on Bdmeter</title>
+    <link>https://bdmeter.info/tags/import-port-cost/</link>
+    <description>Recent content in import-port-cost on Bdmeter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright>
+    <lastBuildDate>Tue, 24 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bdmeter.info/tags/import-port-cost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bangladesh Export Import Duty</title>
+      <link>https://bdmeter.info/blog/2021/08/bangladesh-export-import-duty/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2021/08/bangladesh-export-import-duty/</guid>
+      <description>Bangladesh Government has export-import operative tariff plan executed and published by Bangladesh custom governing body. This board is under the Bangladesh National Board Of Revenue. Bangladesh customs are under the department of the National Board of Revenue. You can calculate import duty by this plan and this will help you in Bangladesh if you want to import products/materials/anything from the international marketplace.
+Search Bangladesh Import Export Duty Tariff Plan: Download file here ::</description>
+    </item>
+    
+  </channel>
+</rss>

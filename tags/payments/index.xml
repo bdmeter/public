@@ -1,1 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>payments on Bdmeter</title><link>http://localhost:1314/tags/payments/</link><description>Recent content in payments on Bdmeter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright><lastBuildDate>Sat, 27 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/tags/payments/index.xml" rel="self" type="application/rss+xml"/><item><title>Definition of Terms of Payment</title><link>http://localhost:1314/blog/2021/02/definition-of-terms-of-payment/</link><pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/02/definition-of-terms-of-payment/</guid><description>Documents Against Acceptance (D/A) Arrangement under documentary collection in which an exporter instructs the presenting bank to hand over shipping and title documents to the importer only if the importer accepts the accompanying bill of exchange or draft by signing it. Documents Against Payment (D/P) Arrangement under documentary collection in which an exporter instructs the presenting bank to hand over shipping and title documents to the importer only if the importer fully pays the accompanying bill of exchange or draft.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>payments on Bdmeter</title>
+    <link>https://bdmeter.info/tags/payments/</link>
+    <description>Recent content in payments on Bdmeter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright>
+    <lastBuildDate>Sat, 27 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bdmeter.info/tags/payments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Definition of Terms of Payment</title>
+      <link>https://bdmeter.info/blog/2021/02/definition-of-terms-of-payment/</link>
+      <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2021/02/definition-of-terms-of-payment/</guid>
+      <description>Documents Against Acceptance (D/A) Arrangement under documentary collection in which an exporter instructs the presenting bank to hand over shipping and title documents to the importer only if the importer accepts the accompanying bill of exchange or draft by signing it. Documents Against Payment (D/P) Arrangement under documentary collection in which an exporter instructs the presenting bank to hand over shipping and title documents to the importer only if the importer fully pays the accompanying bill of exchange or draft.</description>
+    </item>
+    
+  </channel>
+</rss>

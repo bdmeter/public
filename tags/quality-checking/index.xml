@@ -1,1 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>quality-checking on Bdmeter</title><link>http://localhost:1314/tags/quality-checking/</link><description>Recent content in quality-checking on Bdmeter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright><lastBuildDate>Sun, 03 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/tags/quality-checking/index.xml" rel="self" type="application/rss+xml"/><item><title>Quality Management System TQM Free Book</title><link>http://localhost:1314/blog/2021/10/quality-management-system-tqm-free-book/</link><pubDate>Sun, 03 Oct 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/10/quality-management-system-tqm-free-book/</guid><description>What is Quality? Quality, cost and productivity are still fundamental concerns for management worldwide. The concept of quality has been around us for a vary long time. The characters for quality appear in ancient Chinese and Indian writings. Quality is the vary essence of humanity. The concept of cost too has been around us for at least 10,000 years. Its beginning can be traced to the commencement of trade activities and bartering.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>quality-checking on Bdmeter</title>
+    <link>https://bdmeter.info/tags/quality-checking/</link>
+    <description>Recent content in quality-checking on Bdmeter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright>
+    <lastBuildDate>Sun, 03 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bdmeter.info/tags/quality-checking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quality Management System TQM Free Book</title>
+      <link>https://bdmeter.info/blog/2021/10/quality-management-system-tqm-free-book/</link>
+      <pubDate>Sun, 03 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2021/10/quality-management-system-tqm-free-book/</guid>
+      <description>What is Quality? Quality, cost and productivity are still fundamental concerns for management worldwide. The concept of quality has been around us for a vary long time. The characters for quality appear in ancient Chinese and Indian writings. Quality is the vary essence of humanity. The concept of cost too has been around us for at least 10,000 years. Its beginning can be traced to the commencement of trade activities and bartering.</description>
+    </item>
+    
+  </channel>
+</rss>

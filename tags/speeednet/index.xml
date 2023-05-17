@@ -1,1 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>speeednet on Bdmeter</title><link>http://localhost:1314/tags/speeednet/</link><description>Recent content in speeednet on Bdmeter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright><lastBuildDate>Wed, 28 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/tags/speeednet/index.xml" rel="self" type="application/rss+xml"/><item><title>What's Khulnaflix</title><link>http://localhost:1314/blog/2022/12/whats-khulnaflix/</link><pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/12/whats-khulnaflix/</guid><description>Khulnaflix is an FTP server in the southeast region of Asia, Khulna BD. Its total size is more than thousands of gigabyte and khulnaflix have millions of happy customers locally. Khulnaflix&amp;rsquo;s name came from the city name Khulna and flix came from the media entertainment place online. So, Khulnaflix comes into life for Khulna and BD as well as all over the world from Khulna. Khulnaflix has better streaming and quality movies live streaming.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>speeednet on Bdmeter</title>
+    <link>https://bdmeter.info/tags/speeednet/</link>
+    <description>Recent content in speeednet on Bdmeter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright>
+    <lastBuildDate>Wed, 28 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bdmeter.info/tags/speeednet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What&#39;s Khulnaflix</title>
+      <link>https://bdmeter.info/blog/2022/12/whats-khulnaflix/</link>
+      <pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2022/12/whats-khulnaflix/</guid>
+      <description>Khulnaflix is an FTP server in the southeast region of Asia, Khulna BD. Its total size is more than thousands of gigabyte and khulnaflix have millions of happy customers locally. Khulnaflix&amp;rsquo;s name came from the city name Khulna and flix came from the media entertainment place online. So, Khulnaflix comes into life for Khulna and BD as well as all over the world from Khulna. Khulnaflix has better streaming and quality movies live streaming.</description>
+    </item>
+    
+  </channel>
+</rss>

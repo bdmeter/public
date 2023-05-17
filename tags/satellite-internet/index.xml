@@ -1,1 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>satellite-internet on Bdmeter</title><link>http://localhost:1314/tags/satellite-internet/</link><description>Recent content in satellite-internet on Bdmeter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright><lastBuildDate>Sat, 06 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/tags/satellite-internet/index.xml" rel="self" type="application/rss+xml"/><item><title>SpaceX internet user total 10000</title><link>http://localhost:1314/blog/2021/02/spacex-internet-user-total-10000/</link><pubDate>Sat, 06 Feb 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/02/spacex-internet-user-total-10000/</guid><description>Starlink SpaceX internet have started it&amp;rsquo;s beta testing Internet service from last year. First accessibility to SpaceX internet to 3 selected countries citizen from USA, Canada, and UK. Recent statistics report is that SpaceX have total 10000 intertnet user now. US news channel CNBC stated that Starlink demands to introduce them as the ideal telecommunication company worldwide. Rubal digital opportunity fund gave millons dollar funding to Satrlink. Regarding this funding, Starlink is trying to expand their satellite internet technology in some other countries.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>satellite-internet on Bdmeter</title>
+    <link>https://bdmeter.info/tags/satellite-internet/</link>
+    <description>Recent content in satellite-internet on Bdmeter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright>
+    <lastBuildDate>Sat, 06 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bdmeter.info/tags/satellite-internet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SpaceX internet user total 10000</title>
+      <link>https://bdmeter.info/blog/2021/02/spacex-internet-user-total-10000/</link>
+      <pubDate>Sat, 06 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2021/02/spacex-internet-user-total-10000/</guid>
+      <description>Starlink SpaceX internet have started it&amp;rsquo;s beta testing Internet service from last year. First accessibility to SpaceX internet to 3 selected countries citizen from USA, Canada, and UK. Recent statistics report is that SpaceX have total 10000 intertnet user now. US news channel CNBC stated that Starlink demands to introduce them as the ideal telecommunication company worldwide. Rubal digital opportunity fund gave millons dollar funding to Satrlink. Regarding this funding, Starlink is trying to expand their satellite internet technology in some other countries.</description>
+    </item>
+    
+  </channel>
+</rss>

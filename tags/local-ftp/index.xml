@@ -1,3 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>local-ftp on Bdmeter</title><link>http://localhost:1314/tags/local-ftp/</link><description>Recent content in local-ftp on Bdmeter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright><lastBuildDate>Sun, 14 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/tags/local-ftp/index.xml" rel="self" type="application/rss+xml"/><item><title>What is digbazi.net</title><link>http://localhost:1314/blog/2021/02/what-is-digbazi.net/</link><pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/02/what-is-digbazi.net/</guid><description>Learn more about digbazi.net - Local FTP server for entertainment and Islamic books
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>local-ftp on Bdmeter</title>
+    <link>https://bdmeter.info/tags/local-ftp/</link>
+    <description>Recent content in local-ftp on Bdmeter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright>
+    <lastBuildDate>Sun, 14 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bdmeter.info/tags/local-ftp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is digbazi.net</title>
+      <link>https://bdmeter.info/blog/2021/02/what-is-digbazi.net/</link>
+      <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2021/02/what-is-digbazi.net/</guid>
+      <description>Learn more about digbazi.net - Local FTP server for entertainment and Islamic books
 HOW TO CONNECT WITH DIGBAZI FTP? digbazi is a largest ftp server in Khulna Bangladesh. digbazi have movie server of hollywood, bollywoo, bangla, international movies, tv shows, gaming server, tutorial, books, documentery, hadish, quran, live tv channel more than 100 channel fully HD all in hone offered only with ssali isp and cogent broadband internet connection.
-Digbazi server address:</description></item></channel></rss>
+Digbazi server address:</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,3 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>wire on Bdmeter</title><link>http://localhost:1314/tags/wire/</link><description>Recent content in wire on Bdmeter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright><lastBuildDate>Sat, 20 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/tags/wire/index.xml" rel="self" type="application/rss+xml"/><item><title>Learn about plastic and polymer processing</title><link>http://localhost:1314/blog/2022/08/learn-about-plastic-and-polymer-processing/</link><pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/08/learn-about-plastic-and-polymer-processing/</guid><description>Melt Processing Melt processing is the most important, most economical way of shaping plastics. It can be used for those thermoplastics with melting points and viscosity low enough not to subject die materials to excessive temperatures and stresses.
-(a) Melt Processing of Thermoplastics: The raw material to be processed is usually supplied in the form of regular shape and even-size granules, because this makes quantity metering easier and quicker and leads to more uniform and predictable heating.</description></item><item><title>Cable Indstry Bangladesh</title><link>http://localhost:1314/blog/2021/01/cable-indstry-bangladesh/</link><pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/01/cable-indstry-bangladesh/</guid><description>Bangladesh is one of the most growing GDP country in Southeast Asian region. According to wiki information, in 2020, Bangladesh&amp;rsquo;s GDP per capita income is estimated as per IMF data at US $5,139 (PPP) and US$2,064 (nominal).
-According to Trading Economics global macro models and analyst, the Bangladesh GDP is projected to trend around 310.00 USD Billion in 2021 and 340.00 USD Billion in 2022, according to our econometric models.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wire on Bdmeter</title>
+    <link>https://bdmeter.info/tags/wire/</link>
+    <description>Recent content in wire on Bdmeter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright>
+    <lastBuildDate>Sat, 20 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bdmeter.info/tags/wire/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learn about plastic and polymer processing</title>
+      <link>https://bdmeter.info/blog/2022/08/learn-about-plastic-and-polymer-processing/</link>
+      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2022/08/learn-about-plastic-and-polymer-processing/</guid>
+      <description>Melt Processing Melt processing is the most important, most economical way of shaping plastics. It can be used for those thermoplastics with melting points and viscosity low enough not to subject die materials to excessive temperatures and stresses.
+(a) Melt Processing of Thermoplastics: The raw material to be processed is usually supplied in the form of regular shape and even-size granules, because this makes quantity metering easier and quicker and leads to more uniform and predictable heating.</description>
+    </item>
+    
+    <item>
+      <title>Cable Indstry Bangladesh</title>
+      <link>https://bdmeter.info/blog/2021/01/cable-indstry-bangladesh/</link>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2021/01/cable-indstry-bangladesh/</guid>
+      <description>Bangladesh is one of the most growing GDP country in Southeast Asian region. According to wiki information, in 2020, Bangladesh&amp;rsquo;s GDP per capita income is estimated as per IMF data at US $5,139 (PPP) and US$2,064 (nominal).
+According to Trading Economics global macro models and analyst, the Bangladesh GDP is projected to trend around 310.00 USD Billion in 2021 and 340.00 USD Billion in 2022, according to our econometric models.</description>
+    </item>
+    
+  </channel>
+</rss>

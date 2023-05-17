@@ -1,3 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ip-tv-service on Bdmeter</title><link>http://localhost:1314/tags/ip-tv-service/</link><description>Recent content in ip-tv-service on Bdmeter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright><lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/tags/ip-tv-service/index.xml" rel="self" type="application/rss+xml"/><item><title>How to setup IP TV in Samsung Smart TV</title><link>http://localhost:1314/blog/2021/01/how-to-setup-ip-tv-in-samsung-smart-tv/</link><pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/01/how-to-setup-ip-tv-in-samsung-smart-tv/</guid><description>Samsung smart TV so much popular now a days because we can see satellite TV channels and IP TV, browsing web, can use smart TV applications and android TV with all android smart phone features. You can see live TV streaming online via IP TV service provider connectivity. Customer can use application to see IP TV and use internet browser to see IP TV live streaming online.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ip-tv-service on Bdmeter</title>
+    <link>https://bdmeter.info/tags/ip-tv-service/</link>
+    <description>Recent content in ip-tv-service on Bdmeter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright>
+    <lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bdmeter.info/tags/ip-tv-service/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to setup IP TV in Samsung Smart TV</title>
+      <link>https://bdmeter.info/blog/2021/01/how-to-setup-ip-tv-in-samsung-smart-tv/</link>
+      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2021/01/how-to-setup-ip-tv-in-samsung-smart-tv/</guid>
+      <description>Samsung smart TV so much popular now a days because we can see satellite TV channels and IP TV, browsing web, can use smart TV applications and android TV with all android smart phone features. You can see live TV streaming online via IP TV service provider connectivity. Customer can use application to see IP TV and use internet browser to see IP TV live streaming online.
 Prerequisite:
-Samsung smart tv or Samsung android TV Broadband internet connectivity.</description></item></channel></rss>
+Samsung smart tv or Samsung android TV Broadband internet connectivity.</description>
+    </item>
+    
+  </channel>
+</rss>

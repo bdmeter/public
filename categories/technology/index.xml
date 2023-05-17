@@ -1,50 +1,376 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>technology on Bdmeter</title><link>http://localhost:1314/categories/technology/</link><description>Recent content in technology on Bdmeter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright><lastBuildDate>Thu, 03 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/categories/technology/index.xml" rel="self" type="application/rss+xml"/><item><title>Learn how to protect your building against wind, storm, or tornado</title><link>http://localhost:1314/blog/2022/11/learn-how-to-protect-your-building-against-wind-storm-or-tornado/</link><pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/11/learn-how-to-protect-your-building-against-wind-storm-or-tornado/</guid><description>For practical design, wind and earthquakes may be treated as horizontal, or lateral, loads. Although wind and seismic loads may have vertical components, these generally are small and readily resisted by columns and bearing walls. Vertical earthquake components can be important in the design of connections as in precast concrete structures. Wind often generates significant uplift forces that require special attention to vertical restraint and lateral support for members in reverse bending.</description></item><item><title>Building construction protection against water, flood, and heavy rainfall</title><link>http://localhost:1314/blog/2022/11/building-construction-protection-against-water-flood-and-heavy-rainfall/</link><pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/11/building-construction-protection-against-water-flood-and-heavy-rainfall/</guid><description>PROTECTION AGAINST WATER Whether thrust against and into a building by a flood, driven into the interior by heavy rain, leaking from plumbing, storm surge, or seeping through the exterior enclosure, water can cause costly damage to a building. Consequently, designers should protect buildings and their contents against water damage.
-Protective measures may be divided into two classes: floodproofing and waterproofing. Floodproofing provides protection against flowing surface water, commonly caused by a river overflowing its banks.</description></item><item><title>Learn major building systems</title><link>http://localhost:1314/blog/2022/08/learn-major-building-systems/</link><pubDate>Sat, 13 Aug 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/08/learn-major-building-systems/</guid><description>The simplest building system consists of only two components. One component is a floor, a flat, horizontal surface on which human activities can take place. The other component is an enclosure that extends over the floor and generally also around it to provide shelter from the weather for human activities.
-The ground may serve as the floor in primitive buildings. In better buildings, however, the floor may be a structural deck laid on the ground or supported above ground on structural members, such as the joist and walls in Fig.</description></item><item><title>Best economical structures of building construction</title><link>http://localhost:1314/blog/2022/07/best-economical-structures-of-building-construction/</link><pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/07/best-economical-structures-of-building-construction/</guid><description>STRUCTURAL STEEL CONSTRUCTION Structural steel is the economical construction material for building applications. It offers high ratios of strength to weight and strength to volume. Thus, structural steel has the advantage of permitting long clear spans for horizontal members and requiring less floor space for columns than other common construction materials. It also can be used in combination with reinforced concrete to provide cost-effective building components. For large industrial buildings, where the structural frame can be exposed, it is often the material of choice.</description></item><item><title>Different types of Steel Grades</title><link>http://localhost:1314/blog/2022/07/different-types-of-steel-grades/</link><pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/07/different-types-of-steel-grades/</guid><description>Structural steel grades are referred to by their corresponding ASTM designation. For example, the most commonly used grade of structural steel is A36, which is produced to meet the requirements of the ASTM A36 specification. This grade offers a good mix of strength, weldability, and cost. In many designs, this specification alone will satisfy designers’ needs. Other specifications, such as A53 for pipe, provide an equivalent grade of steel for that type of product.</description></item><item><title>How To Design Your Building Against Earthquake</title><link>http://localhost:1314/blog/2022/06/how-to-design-your-building-against-earthquake/</link><pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/06/how-to-design-your-building-against-earthquake/</guid><description>Buildings should be designed to withstand minor earthquakes without damage, because they may occur almost everywhere. For major earthquakes, it may not be economical to prevent all damage but collapse should be precluded. Because an earthquake and a high wind are not likely to occur simultaneously, building codes usually do not require that buildings be designed for a combination of large seismic and wind loads. Thus, designers may assume that the full strength of wind bracing is also available to resist drift caused by earthquakes.</description></item><item><title>Learn about different types of industrial trucks &amp; vehicles</title><link>http://localhost:1314/blog/2022/05/learn-about-different-types-of-industrial-trucks-vehicles/</link><pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/05/learn-about-different-types-of-industrial-trucks-vehicles/</guid><description>Industrial vehicles/trucks are one of the most common groups of materials handling equipment used in industry as well as in the day-to-day distribution of goods in warehouses, large stores, transport depots, etc. The basic operation and construction features of some of the common types of industrial trucks will be discussed here. The adjective ‘‘industrial’’ used before this group of vehicles/trucks is to distinguish these from other groups of vehicles like buses, lorries, trucks, etc.</description></item><item><title>Learn About Different Kinds of Sensors: Position and Motion Measurement</title><link>http://localhost:1314/blog/2022/03/learn-about-different-kinds-of-sensors-position-and-motion-measurement/</link><pubDate>Sun, 27 Mar 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/03/learn-about-different-kinds-of-sensors-position-and-motion-measurement/</guid><description>This article will help you understand and become familiar with other sensors that play a very important part in process control, but may not be encountered on a daily basis. The following are covered in this chapter:
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>technology on Bdmeter</title>
+    <link>https://bdmeter.info/categories/technology/</link>
+    <description>Recent content in technology on Bdmeter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright>
+    <lastBuildDate>Thu, 03 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bdmeter.info/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learn how to protect your building against wind, storm, or tornado</title>
+      <link>https://bdmeter.info/blog/2022/11/learn-how-to-protect-your-building-against-wind-storm-or-tornado/</link>
+      <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2022/11/learn-how-to-protect-your-building-against-wind-storm-or-tornado/</guid>
+      <description>For practical design, wind and earthquakes may be treated as horizontal, or lateral, loads. Although wind and seismic loads may have vertical components, these generally are small and readily resisted by columns and bearing walls. Vertical earthquake components can be important in the design of connections as in precast concrete structures. Wind often generates significant uplift forces that require special attention to vertical restraint and lateral support for members in reverse bending.</description>
+    </item>
+    
+    <item>
+      <title>Building construction protection against water, flood, and heavy rainfall</title>
+      <link>https://bdmeter.info/blog/2022/11/building-construction-protection-against-water-flood-and-heavy-rainfall/</link>
+      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2022/11/building-construction-protection-against-water-flood-and-heavy-rainfall/</guid>
+      <description>PROTECTION AGAINST WATER Whether thrust against and into a building by a flood, driven into the interior by heavy rain, leaking from plumbing, storm surge, or seeping through the exterior enclosure, water can cause costly damage to a building. Consequently, designers should protect buildings and their contents against water damage.
+Protective measures may be divided into two classes: floodproofing and waterproofing. Floodproofing provides protection against flowing surface water, commonly caused by a river overflowing its banks.</description>
+    </item>
+    
+    <item>
+      <title>Learn major building systems</title>
+      <link>https://bdmeter.info/blog/2022/08/learn-major-building-systems/</link>
+      <pubDate>Sat, 13 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2022/08/learn-major-building-systems/</guid>
+      <description>The simplest building system consists of only two components. One component is a floor, a flat, horizontal surface on which human activities can take place. The other component is an enclosure that extends over the floor and generally also around it to provide shelter from the weather for human activities.
+The ground may serve as the floor in primitive buildings. In better buildings, however, the floor may be a structural deck laid on the ground or supported above ground on structural members, such as the joist and walls in Fig.</description>
+    </item>
+    
+    <item>
+      <title>Best economical structures of building construction</title>
+      <link>https://bdmeter.info/blog/2022/07/best-economical-structures-of-building-construction/</link>
+      <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2022/07/best-economical-structures-of-building-construction/</guid>
+      <description>STRUCTURAL STEEL CONSTRUCTION Structural steel is the economical construction material for building applications. It offers high ratios of strength to weight and strength to volume. Thus, structural steel has the advantage of permitting long clear spans for horizontal members and requiring less floor space for columns than other common construction materials. It also can be used in combination with reinforced concrete to provide cost-effective building components. For large industrial buildings, where the structural frame can be exposed, it is often the material of choice.</description>
+    </item>
+    
+    <item>
+      <title>Different types of Steel Grades</title>
+      <link>https://bdmeter.info/blog/2022/07/different-types-of-steel-grades/</link>
+      <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2022/07/different-types-of-steel-grades/</guid>
+      <description>Structural steel grades are referred to by their corresponding ASTM designation. For example, the most commonly used grade of structural steel is A36, which is produced to meet the requirements of the ASTM A36 specification. This grade offers a good mix of strength, weldability, and cost. In many designs, this specification alone will satisfy designers’ needs. Other specifications, such as A53 for pipe, provide an equivalent grade of steel for that type of product.</description>
+    </item>
+    
+    <item>
+      <title>How To Design Your Building Against Earthquake</title>
+      <link>https://bdmeter.info/blog/2022/06/how-to-design-your-building-against-earthquake/</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2022/06/how-to-design-your-building-against-earthquake/</guid>
+      <description>Buildings should be designed to withstand minor earthquakes without damage, because they may occur almost everywhere. For major earthquakes, it may not be economical to prevent all damage but collapse should be precluded. Because an earthquake and a high wind are not likely to occur simultaneously, building codes usually do not require that buildings be designed for a combination of large seismic and wind loads. Thus, designers may assume that the full strength of wind bracing is also available to resist drift caused by earthquakes.</description>
+    </item>
+    
+    <item>
+      <title>Learn about different types of industrial trucks &amp; vehicles</title>
+      <link>https://bdmeter.info/blog/2022/05/learn-about-different-types-of-industrial-trucks-vehicles/</link>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2022/05/learn-about-different-types-of-industrial-trucks-vehicles/</guid>
+      <description>Industrial vehicles/trucks are one of the most common groups of materials handling equipment used in industry as well as in the day-to-day distribution of goods in warehouses, large stores, transport depots, etc. The basic operation and construction features of some of the common types of industrial trucks will be discussed here. The adjective ‘‘industrial’’ used before this group of vehicles/trucks is to distinguish these from other groups of vehicles like buses, lorries, trucks, etc.</description>
+    </item>
+    
+    <item>
+      <title>Learn About Different Kinds of Sensors: Position and Motion Measurement</title>
+      <link>https://bdmeter.info/blog/2022/03/learn-about-different-kinds-of-sensors-position-and-motion-measurement/</link>
+      <pubDate>Sun, 27 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2022/03/learn-about-different-kinds-of-sensors-position-and-motion-measurement/</guid>
+      <description>This article will help you understand and become familiar with other sensors that play a very important part in process control, but may not be encountered on a daily basis. The following are covered in this chapter:
 ■ Position, distance, velocity, and acceleration sensors
 ■ Rotation sensors using light and Hall effect sensors
 ■ Force, torque, load cells, and balances
-■ Smoke detectors, gas, and chemical sensors in the industry</description></item><item><title>The Future: Material Handling Using Robots In Workplace</title><link>http://localhost:1314/blog/2022/03/the-future-material-handling-using-robots-in-workplace/</link><pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/03/the-future-material-handling-using-robots-in-workplace/</guid><description>MATERIALS HANDLING AT THE WORKPLACE Feeding parts and components into a machine for their processing and taking them out is an important activity in any discrete mass manufacturing process. This is known as materials handling at the workplace.
+■ Smoke detectors, gas, and chemical sensors in the industry</description>
+    </item>
+    
+    <item>
+      <title>The Future: Material Handling Using Robots In Workplace</title>
+      <link>https://bdmeter.info/blog/2022/03/the-future-material-handling-using-robots-in-workplace/</link>
+      <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2022/03/the-future-material-handling-using-robots-in-workplace/</guid>
+      <description>MATERIALS HANDLING AT THE WORKPLACE Feeding parts and components into a machine for their processing and taking them out is an important activity in any discrete mass manufacturing process. This is known as materials handling at the workplace.
 Operating robots in electronics lab
 Robotic handling in Cable industry
 Robot in complex operation in electroniocs industry
 Robot to handle carton in industry
 Robots ready as an Engineer
 Robot in operation
-Robotic Hand to handle carton on pallet</description></item><item><title>Textile In Civil Engineering: Geotextile</title><link>http://localhost:1314/blog/2022/03/textile-in-civil-engineering-geotextile/</link><pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/03/textile-in-civil-engineering-geotextile/</guid><description>Introduction to geotextiles Although skins, brushwood, and straw–mud composites have been used to improve the soft ground for many thousands of years, it is not realistic to refer to these as ‘geotextiles’. The important factor that separates them from modern geotextiles is that they cannot be made with specific and consistent properties. When modern polymers were developed in the mid 20th century, it became possible to create textiles with designed forecastable performance and to produce them in large quantities with statistically consistent and repeatable properties.</description></item><item><title>Learn About Environmental Biotechnology</title><link>http://localhost:1314/blog/2022/03/learn-about-environmental-biotechnology/</link><pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/03/learn-about-environmental-biotechnology/</guid><description>When modern industrialization started in the 19th century, many people migrated from the agricultural area to the big cities. Public hygiene became a major problem. Human excrement and waste was discharged into open channels, rivers, and lakes. The pollution was disastrous and hygiene-related epidemic diseases, like cholera and typhus, occurred frequently. Therefore, it was an important step forward when public water collection systems and treatment plants were introduced at the end of the 19th century.</description></item><item><title>Learn About Basic Electrical Components</title><link>http://localhost:1314/blog/2022/03/learn-about-basic-electrical-components/</link><pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/03/learn-about-basic-electrical-components/</guid><description>This blog will help to refresh and expand your understanding of basic electrical components and the basic terms used in electricity as required for instrumentation.
+Robotic Hand to handle carton on pallet</description>
+    </item>
+    
+    <item>
+      <title>Textile In Civil Engineering: Geotextile</title>
+      <link>https://bdmeter.info/blog/2022/03/textile-in-civil-engineering-geotextile/</link>
+      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2022/03/textile-in-civil-engineering-geotextile/</guid>
+      <description>Introduction to geotextiles Although skins, brushwood, and straw–mud composites have been used to improve the soft ground for many thousands of years, it is not realistic to refer to these as ‘geotextiles’. The important factor that separates them from modern geotextiles is that they cannot be made with specific and consistent properties. When modern polymers were developed in the mid 20th century, it became possible to create textiles with designed forecastable performance and to produce them in large quantities with statistically consistent and repeatable properties.</description>
+    </item>
+    
+    <item>
+      <title>Learn About Environmental Biotechnology</title>
+      <link>https://bdmeter.info/blog/2022/03/learn-about-environmental-biotechnology/</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2022/03/learn-about-environmental-biotechnology/</guid>
+      <description>When modern industrialization started in the 19th century, many people migrated from the agricultural area to the big cities. Public hygiene became a major problem. Human excrement and waste was discharged into open channels, rivers, and lakes. The pollution was disastrous and hygiene-related epidemic diseases, like cholera and typhus, occurred frequently. Therefore, it was an important step forward when public water collection systems and treatment plants were introduced at the end of the 19th century.</description>
+    </item>
+    
+    <item>
+      <title>Learn About Basic Electrical Components</title>
+      <link>https://bdmeter.info/blog/2022/03/learn-about-basic-electrical-components/</link>
+      <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2022/03/learn-about-basic-electrical-components/</guid>
+      <description>This blog will help to refresh and expand your understanding of basic electrical components and the basic terms used in electricity as required for instrumentation.
 This chapter discusses
 ■ Basic passive components (resistors, capacitors, and inductors) used in electrical circuits
 ■ Applications of Ohm’s law and Kirchoff’s laws
 ■ Use of resistors as voltage dividers
 ■ Effective equivalent circuits for basic devices connected in series and parallel
-■ The Wheatstone bridge</description></item><item><title>Auto Sprinkler System Installation Guidelines</title><link>http://localhost:1314/blog/2022/02/auto-sprinkler-system-installation-guidelines/</link><pubDate>Sat, 26 Feb 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/02/auto-sprinkler-system-installation-guidelines/</guid><description>Automatic fire sprinkler systems have been protecting property in the United States since the late 1800s; in fact, the Standard for the Installation of Sprinkler Systems, 1896 was the first standard developed by the National Fire Protection Association (NFPA). Today the NFPA still develops the most widely accepted standards for the design and installation of sprinkler systems: NFPA 13, Standard for the Installation of Sprinkler Systems; 20, Installation of Centrifugal Fire Pumps; 24, Installation of Private Fire Services Mains and Their Appurtenances; 231, General Storage and 231C, Rack Storage of Materials.</description></item><item><title>Industrial Smoke and Chemical Sensors Process Control</title><link>http://localhost:1314/blog/2022/01/industrial-smoke-and-chemical-sensors-process-control/</link><pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/01/industrial-smoke-and-chemical-sensors-process-control/</guid><description>This article will help you understand and become familiar with other sensors that play a very important part in process control, but may not be encountered on a daily basis. The following are covered in this article:
+■ The Wheatstone bridge</description>
+    </item>
+    
+    <item>
+      <title>Auto Sprinkler System Installation Guidelines</title>
+      <link>https://bdmeter.info/blog/2022/02/auto-sprinkler-system-installation-guidelines/</link>
+      <pubDate>Sat, 26 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2022/02/auto-sprinkler-system-installation-guidelines/</guid>
+      <description>Automatic fire sprinkler systems have been protecting property in the United States since the late 1800s; in fact, the Standard for the Installation of Sprinkler Systems, 1896 was the first standard developed by the National Fire Protection Association (NFPA). Today the NFPA still develops the most widely accepted standards for the design and installation of sprinkler systems: NFPA 13, Standard for the Installation of Sprinkler Systems; 20, Installation of Centrifugal Fire Pumps; 24, Installation of Private Fire Services Mains and Their Appurtenances; 231, General Storage and 231C, Rack Storage of Materials.</description>
+    </item>
+    
+    <item>
+      <title>Industrial Smoke and Chemical Sensors Process Control</title>
+      <link>https://bdmeter.info/blog/2022/01/industrial-smoke-and-chemical-sensors-process-control/</link>
+      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2022/01/industrial-smoke-and-chemical-sensors-process-control/</guid>
+      <description>This article will help you understand and become familiar with other sensors that play a very important part in process control, but may not be encountered on a daily basis. The following are covered in this article:
 ■ Position, distance, velocity, and acceleration sensors
 ■ Rotation sensors using light and Hall effect sensors
 ■ Force, torque, load cells, and balances
-■ Smoke detectors, gas, and chemical sensors in the industry</description></item><item><title>Corporate Resources Management</title><link>http://localhost:1314/blog/2021/12/corporate-resources-management/</link><pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/12/corporate-resources-management/</guid><description>Energy Efficiency Reducing your energy consumption is a great way to reduce both costs and greenhouse gas emissions. Lowering your utility costs and reducing your environmental impact also helps your factory prepare for new policies and regulatory requirements, improve your competitive advantage and grow your business efficiently.
-Conducting an energy audit of your facilities is the best way to start. It will help you assess your energy usage and identify what you can do to lower energy consumption, including changes to behavior, equipment, and processes, and how much can be potentially saved.</description></item><item><title>The theory of mechanisms and machines</title><link>http://localhost:1314/blog/2021/12/the-theory-of-mechanisms-and-machines/</link><pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/12/the-theory-of-mechanisms-and-machines/</guid><description>The Geometry Of Motion The theory of mechanisms and machines is an applied science that is used to understand the relationship between the geometry and motions of the parts of a machine are mechanism and the forces which produce these motions. The subject and therefore this book naturally divides itself into three parts. Business is the groundwork of chapters 6 to 11 where we study methods of design of mechanism and machine components.</description></item><item><title>What is Hydroentanglement in Loom Machine</title><link>http://localhost:1314/blog/2021/11/what-is-hydroentanglement-in-loom-machine/</link><pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/11/what-is-hydroentanglement-in-loom-machine/</guid><description>The process of hydroentanglement was invented as a means of producing an entanglement similar to that made by a needle loom, but using a lighter weight batt. A successful process was developed during the 1960s by Du Pont and was patented.
-However, Du Pont decided in the mid-1970s to dedicate the patents to the public domain, which resulted in a rush of new development work in the major industrial countries, Japan, USA, France, Germany and Britain.</description></item><item><title>Manufacturing Process: Properties of materials</title><link>http://localhost:1314/blog/2021/10/manufacturing-process-properties-of-materials/</link><pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/10/manufacturing-process-properties-of-materials/</guid><description>Different materials possess different properties in varying degrees and therefore behave in different
+■ Smoke detectors, gas, and chemical sensors in the industry</description>
+    </item>
+    
+    <item>
+      <title>Corporate Resources Management</title>
+      <link>https://bdmeter.info/blog/2021/12/corporate-resources-management/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2021/12/corporate-resources-management/</guid>
+      <description>Energy Efficiency Reducing your energy consumption is a great way to reduce both costs and greenhouse gas emissions. Lowering your utility costs and reducing your environmental impact also helps your factory prepare for new policies and regulatory requirements, improve your competitive advantage and grow your business efficiently.
+Conducting an energy audit of your facilities is the best way to start. It will help you assess your energy usage and identify what you can do to lower energy consumption, including changes to behavior, equipment, and processes, and how much can be potentially saved.</description>
+    </item>
+    
+    <item>
+      <title>The theory of mechanisms and machines</title>
+      <link>https://bdmeter.info/blog/2021/12/the-theory-of-mechanisms-and-machines/</link>
+      <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2021/12/the-theory-of-mechanisms-and-machines/</guid>
+      <description>The Geometry Of Motion The theory of mechanisms and machines is an applied science that is used to understand the relationship between the geometry and motions of the parts of a machine are mechanism and the forces which produce these motions. The subject and therefore this book naturally divides itself into three parts. Business is the groundwork of chapters 6 to 11 where we study methods of design of mechanism and machine components.</description>
+    </item>
+    
+    <item>
+      <title>What is Hydroentanglement in Loom Machine</title>
+      <link>https://bdmeter.info/blog/2021/11/what-is-hydroentanglement-in-loom-machine/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2021/11/what-is-hydroentanglement-in-loom-machine/</guid>
+      <description>The process of hydroentanglement was invented as a means of producing an entanglement similar to that made by a needle loom, but using a lighter weight batt. A successful process was developed during the 1960s by Du Pont and was patented.
+However, Du Pont decided in the mid-1970s to dedicate the patents to the public domain, which resulted in a rush of new development work in the major industrial countries, Japan, USA, France, Germany and Britain.</description>
+    </item>
+    
+    <item>
+      <title>Manufacturing Process: Properties of materials</title>
+      <link>https://bdmeter.info/blog/2021/10/manufacturing-process-properties-of-materials/</link>
+      <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2021/10/manufacturing-process-properties-of-materials/</guid>
+      <description>Different materials possess different properties in varying degrees and therefore behave in different
 ways under given conditions. These properties include Mechanical properties, Electrical properties,
 Thermal properties, Chemical properties, Magnetic properties, and Physical properties.
 A design engineer is interested in the behavior of materials under load which is mechanical in
 nature, for the design of machines &amp;amp; structures. Any material subjected to a load either deforms,
-yields, or break, depending upon the magnitude of the load.</description></item><item><title>Beginners guide: Procedure of field welding</title><link>http://localhost:1314/blog/2021/10/beginners-guide-procedure-of-field-welding/</link><pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/10/beginners-guide-procedure-of-field-welding/</guid><description>The main function of a welding sequence is to control distortion due primarily to the effects of welding heat. In general, a large input of heat in a short time tends to produce the greatest distortion. Therefore, it is always advisable, for large joints, to weld in stages, with sufficient time between each stage to assure complete dis- persal of heat, except for heat needed to satisfy interpass temperature requirements. Equally important, and perhaps more efficient from the erector’s viewpoint, are those methods that balance the heat input in such a manner that the distortional effects tend to cancel out.</description></item><item><title>What Is Centrifugal Pumps and Its Characteristics</title><link>http://localhost:1314/blog/2021/10/what-is-centrifugal-pumps-and-its-characteristics/</link><pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/10/what-is-centrifugal-pumps-and-its-characteristics/</guid><description>Centrifugal pumps are one of the most common components found in fluid systems. In order to understand how a fluid system containing a centrifugal pump operates, it is necessary to understand the head and flow relationships for a centrifugal pump.
+yields, or break, depending upon the magnitude of the load.</description>
+    </item>
+    
+    <item>
+      <title>Beginners guide: Procedure of field welding</title>
+      <link>https://bdmeter.info/blog/2021/10/beginners-guide-procedure-of-field-welding/</link>
+      <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2021/10/beginners-guide-procedure-of-field-welding/</guid>
+      <description>The main function of a welding sequence is to control distortion due primarily to the effects of welding heat. In general, a large input of heat in a short time tends to produce the greatest distortion. Therefore, it is always advisable, for large joints, to weld in stages, with sufficient time between each stage to assure complete dis- persal of heat, except for heat needed to satisfy interpass temperature requirements. Equally important, and perhaps more efficient from the erector’s viewpoint, are those methods that balance the heat input in such a manner that the distortional effects tend to cancel out.</description>
+    </item>
+    
+    <item>
+      <title>What Is Centrifugal Pumps and Its Characteristics</title>
+      <link>https://bdmeter.info/blog/2021/10/what-is-centrifugal-pumps-and-its-characteristics/</link>
+      <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2021/10/what-is-centrifugal-pumps-and-its-characteristics/</guid>
+      <description>Centrifugal pumps are one of the most common components found in fluid systems. In order to understand how a fluid system containing a centrifugal pump operates, it is necessary to understand the head and flow relationships for a centrifugal pump.
 EO 1.37 - DEFINE the terms net positive suction head and cavitation.
-EO 1.38 - CALCULATE the new volumetric flow rate, head, or power for a variable speed centrifugal pump using the</description></item><item><title>Building Design And Construction - Principals Of Architecture</title><link>http://localhost:1314/blog/2021/10/building-design-and-construction-principals-of-architecture/</link><pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/10/building-design-and-construction-principals-of-architecture/</guid><description>Sociological changes, new technology in industry and commerce, new building codes, other new laws and regulations, inflationary economies of nations, and advances in building technology place an ever-increasing burden on building designers and constructors. They need more and more knowledge and skill to cope with the demands placed on them.
-The public continually demands more complex buildings than in the past. They must serve more purposes, last longer, and require less maintenance and repair.</description></item><item><title>Dyeing of polyester and cotton blended fabrics</title><link>http://localhost:1314/blog/2021/09/dyeing-of-polyester-and-cotton-blended-fabrics/</link><pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/09/dyeing-of-polyester-and-cotton-blended-fabrics/</guid><description>Classification of the methods for dyeing of P/C blend
+EO 1.38 - CALCULATE the new volumetric flow rate, head, or power for a variable speed centrifugal pump using the</description>
+    </item>
+    
+    <item>
+      <title>Building Design And Construction - Principals Of Architecture</title>
+      <link>https://bdmeter.info/blog/2021/10/building-design-and-construction-principals-of-architecture/</link>
+      <pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2021/10/building-design-and-construction-principals-of-architecture/</guid>
+      <description>Sociological changes, new technology in industry and commerce, new building codes, other new laws and regulations, inflationary economies of nations, and advances in building technology place an ever-increasing burden on building designers and constructors. They need more and more knowledge and skill to cope with the demands placed on them.
+The public continually demands more complex buildings than in the past. They must serve more purposes, last longer, and require less maintenance and repair.</description>
+    </item>
+    
+    <item>
+      <title>Dyeing of polyester and cotton blended fabrics</title>
+      <link>https://bdmeter.info/blog/2021/09/dyeing-of-polyester-and-cotton-blended-fabrics/</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2021/09/dyeing-of-polyester-and-cotton-blended-fabrics/</guid>
+      <description>Classification of the methods for dyeing of P/C blend
 Exhaust dyeing method or batch dyeing method- This is again classiﬁed in the following three groups- a. Two bath dyeing
 b. One bath one step dyeing
 C. One bath two-step dyeing method
 Thermosol Dyeing method - It is again classiﬁed into two groups- a. Continuous dyeing- b. Pad batch process (semi-continuous)
 Note-In continuous dyeing process may be single bath
-or double bath.</description></item><item><title>Introduction of material handling - Download a free PDF book Free</title><link>http://localhost:1314/blog/2021/09/introduction-of-material-handling-download-a-free-pdf-book-free/</link><pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/09/introduction-of-material-handling-download-a-free-pdf-book-free/</guid><description>DEFINITION AND SCOPE OF MATERIALS HANDLING
+or double bath.</description>
+    </item>
+    
+    <item>
+      <title>Introduction of material handling - Download a free PDF book Free</title>
+      <link>https://bdmeter.info/blog/2021/09/introduction-of-material-handling-download-a-free-pdf-book-free/</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2021/09/introduction-of-material-handling-download-a-free-pdf-book-free/</guid>
+      <description>DEFINITION AND SCOPE OF MATERIALS HANDLING
 Expressed in simple language, materials handling is loading, moving, and unloading of materials. To do it safely and economically, different types of tackles, gadgets, and equipment are used, when the materials handling is referred to as mechanical handling of materials.
-Since primitive men discovered the use of wheels and levers, they have been moving materials mechanically. Any human activity involving materials needs material handling. However, in the field of engineering and technology, the term materials handling is used with reference to industrial activity.</description></item><item><title>How to install Air conditioner at home or office</title><link>http://localhost:1314/blog/2021/09/how-to-install-air-conditioner-at-home-or-office/</link><pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/09/how-to-install-air-conditioner-at-home-or-office/</guid><description>Why do you need to install an air conditioner at minimum distance from room ceiling? Why don&amp;rsquo;t your AC working well during summer? Why hottest air decrease AC performance during summer?
-A study by Technical University of Denmark looked into the effects of HVAC (heating, ventilation, and air conditioning) on student performance and found they work better in slightly colder environments, so it might help to keep this in mind for children learning from home.</description></item><item><title>Ringid news update</title><link>http://localhost:1314/blog/2021/09/ringid-news-update/</link><pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/09/ringid-news-update/</guid><description>Today 13th September 2021, our blog reader Mohammad got a response from Ringid customer care helpline after waiting a month. Mohammad had few queries to Ringid, and no one replied him back from Ringid.
+Since primitive men discovered the use of wheels and levers, they have been moving materials mechanically. Any human activity involving materials needs material handling. However, in the field of engineering and technology, the term materials handling is used with reference to industrial activity.</description>
+    </item>
+    
+    <item>
+      <title>How to install Air conditioner at home or office</title>
+      <link>https://bdmeter.info/blog/2021/09/how-to-install-air-conditioner-at-home-or-office/</link>
+      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2021/09/how-to-install-air-conditioner-at-home-or-office/</guid>
+      <description>Why do you need to install an air conditioner at minimum distance from room ceiling? Why don&amp;rsquo;t your AC working well during summer? Why hottest air decrease AC performance during summer?
+A study by Technical University of Denmark looked into the effects of HVAC (heating, ventilation, and air conditioning) on student performance and found they work better in slightly colder environments, so it might help to keep this in mind for children learning from home.</description>
+    </item>
+    
+    <item>
+      <title>Ringid news update</title>
+      <link>https://bdmeter.info/blog/2021/09/ringid-news-update/</link>
+      <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2021/09/ringid-news-update/</guid>
+      <description>Today 13th September 2021, our blog reader Mohammad got a response from Ringid customer care helpline after waiting a month. Mohammad had few queries to Ringid, and no one replied him back from Ringid.
 Ringid is a mobile application platform founded by Ayrin Islam in Ontaro Canada. Ayrin is a successful entrepreneur and CEO. Ringid first launched in 2015, and today Ringid have more than 3 million customers globally.
-Ring id customers support services was very irregular and no one reply on time and they have no helpline number unless app chat options.</description></item><item><title>Textile Dyeing And Printing Book Free Download</title><link>http://localhost:1314/blog/2021/09/textile-dyeing-and-printing-book-free-download/</link><pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/09/textile-dyeing-and-printing-book-free-download/</guid><description>The ultimate aim of education is human refinement. Education should enable the learner to formulate a positive outlook towards life and to accept a stand that suits the well-being of society and the individual as well. The attitude and potential to &amp;rsquo;to work&amp;rsquo; have determined the destiny, progress, and cultural development of the human race. As we all are aware, the objective of education is to form a society and individuals having a positive work culture.</description></item><item><title>Internet/ISP Category Service List Of Bangladesh</title><link>http://localhost:1314/blog/2021/08/internet/isp-category-service-list-of-bangladesh/</link><pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/08/internet/isp-category-service-list-of-bangladesh/</guid><description>Bangladesh is one of the largest population countries in density. From 2005 to 2016, ISP licensed companies decreased from 180 to 119 here in Bangladesh. Bangladesh Government is focusing a sustainable growth in the Telecommunication section all over Bangladesh. In 2021, Bangladesh has a total of 126 licensed ISP and 87 licensed central ISPs.
-License_Title No_Of_Licensed_Company List_pdf_download_link 2G Cellular Mobile Telecom Operator 5 Download_list 3G Cellular Mobile Telecom Operator 4 Download_list 4G/LTE Cellular Mobile Telecom Operator 4 Download_list Broadband Wireless Access (BWA) 4 Download_list Call Centre (International &amp;amp; Domestic) 297 Download_list International Gateway (IGW) Services 24 Download_list Interconnection Exchange (ICX) Services 26 Download_list International Internet Gateway (IIG) Services 34 Download_list National Internet Exchange (NIX) 9 Download_list Nationwide Telecommunication Transmission Network (NTTN) Service Provider 6 Download_list Vehicle Tracking Services 37 Download_list 6Internet Protocol Telephony Service Provider(IPTSP) 36 Download_list Internet Service Provider(ISP) – Nationwide 126 Download_list Internet Service Provider(ISP) – Central Zone 87 Download_list Internet Service Provider(ISP) – Zonal 190 Download_list Internet Service Provider(ISP) – Category A 814 Download_list Internet Service Provider(ISP) – Category B 128 Download_list Internet Service Provider(ISP) – Category C 596 Download_list Public Switched Telephone Network (PSTN) Operator 12 Download_list International Terrestrial Cable (ITC) Services 7 Download_list VSAT User 12 Download_list VSAT Provider 2 Download_list VSAT Provider with HUB 3 Download_list VoIP Service Provider 649 Download_list Tower Sharing Licenses List 4 Download_list TVAS Registration Certificate 183 Download_list Category ISP licensed companies in Bangladesh</description></item><item><title>How to earn 15000 USD in a month</title><link>http://localhost:1314/blog/2021/08/how-to-earn-15000-usd-in-a-month/</link><pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/08/how-to-earn-15000-usd-in-a-month/</guid><description>Did you know that ring ID is very easy to earn a lot of money? Nowadays many people are sitting at home very easily by opening Ring ID account and earning a minimum of 15000 rupees per month. You can invest in Ring ID without any tension. You should see 50-100 ads per month. An ad is 20-30 seconds max. 100 ad will be seen in less than 1 hour. Guaranteed income of 15000 rupees with less than 1 hour daily.</description></item><item><title>Go Broadband Internet</title><link>http://localhost:1314/blog/2021/05/go-broadband-internet/</link><pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/05/go-broadband-internet/</guid><description>https://www.facebook.com/watch/?v=553327139387301
+Ring id customers support services was very irregular and no one reply on time and they have no helpline number unless app chat options.</description>
+    </item>
+    
+    <item>
+      <title>Textile Dyeing And Printing Book Free Download</title>
+      <link>https://bdmeter.info/blog/2021/09/textile-dyeing-and-printing-book-free-download/</link>
+      <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2021/09/textile-dyeing-and-printing-book-free-download/</guid>
+      <description>The ultimate aim of education is human refinement. Education should enable the learner to formulate a positive outlook towards life and to accept a stand that suits the well-being of society and the individual as well. The attitude and potential to &amp;rsquo;to work&amp;rsquo; have determined the destiny, progress, and cultural development of the human race. As we all are aware, the objective of education is to form a society and individuals having a positive work culture.</description>
+    </item>
+    
+    <item>
+      <title>Internet/ISP Category Service List Of Bangladesh</title>
+      <link>https://bdmeter.info/blog/2021/08/internet/isp-category-service-list-of-bangladesh/</link>
+      <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2021/08/internet/isp-category-service-list-of-bangladesh/</guid>
+      <description>Bangladesh is one of the largest population countries in density. From 2005 to 2016, ISP licensed companies decreased from 180 to 119 here in Bangladesh. Bangladesh Government is focusing a sustainable growth in the Telecommunication section all over Bangladesh. In 2021, Bangladesh has a total of 126 licensed ISP and 87 licensed central ISPs.
+License_Title No_Of_Licensed_Company List_pdf_download_link 2G Cellular Mobile Telecom Operator 5 Download_list 3G Cellular Mobile Telecom Operator 4 Download_list 4G/LTE Cellular Mobile Telecom Operator 4 Download_list Broadband Wireless Access (BWA) 4 Download_list Call Centre (International &amp;amp; Domestic) 297 Download_list International Gateway (IGW) Services 24 Download_list Interconnection Exchange (ICX) Services 26 Download_list International Internet Gateway (IIG) Services 34 Download_list National Internet Exchange (NIX) 9 Download_list Nationwide Telecommunication Transmission Network (NTTN) Service Provider 6 Download_list Vehicle Tracking Services 37 Download_list 6Internet Protocol Telephony Service Provider(IPTSP) 36 Download_list Internet Service Provider(ISP) – Nationwide 126 Download_list Internet Service Provider(ISP) – Central Zone 87 Download_list Internet Service Provider(ISP) – Zonal 190 Download_list Internet Service Provider(ISP) – Category A 814 Download_list Internet Service Provider(ISP) – Category B 128 Download_list Internet Service Provider(ISP) – Category C 596 Download_list Public Switched Telephone Network (PSTN) Operator 12 Download_list International Terrestrial Cable (ITC) Services 7 Download_list VSAT User 12 Download_list VSAT Provider 2 Download_list VSAT Provider with HUB 3 Download_list VoIP Service Provider 649 Download_list Tower Sharing Licenses List 4 Download_list TVAS Registration Certificate 183 Download_list Category ISP licensed companies in Bangladesh</description>
+    </item>
+    
+    <item>
+      <title>How to earn 15000 USD in a month</title>
+      <link>https://bdmeter.info/blog/2021/08/how-to-earn-15000-usd-in-a-month/</link>
+      <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2021/08/how-to-earn-15000-usd-in-a-month/</guid>
+      <description>Did you know that ring ID is very easy to earn a lot of money? Nowadays many people are sitting at home very easily by opening Ring ID account and earning a minimum of 15000 rupees per month. You can invest in Ring ID without any tension. You should see 50-100 ads per month. An ad is 20-30 seconds max. 100 ad will be seen in less than 1 hour. Guaranteed income of 15000 rupees with less than 1 hour daily.</description>
+    </item>
+    
+    <item>
+      <title>Go Broadband Internet</title>
+      <link>https://bdmeter.info/blog/2021/05/go-broadband-internet/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2021/05/go-broadband-internet/</guid>
+      <description>https://www.facebook.com/watch/?v=553327139387301
 Get the opportunity to connect with light speed broadband internet service Go Communications. 97% uptime, online support , chatting with engineer, get jobs online via goisp, use world fastest internet technology at home and office. No more hassle, enjoy limitless opportunities with Go ISP
 FOR MORE INFORMATION, visit our website www.goisp.net
-For live chat and Support https://app goisp.net</description></item><item><title>The Secret Of Making An Easy 5k A Month Within The Next 22 Days</title><link>http://localhost:1314/blog/2021/05/the-secret-of-making-an-easy-5k-a-month-within-the-next-22-days/</link><pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/05/the-secret-of-making-an-easy-5k-a-month-within-the-next-22-days/</guid><description>Making money is the big secret of life, it&amp;rsquo;s not so easy to make money. Many many people is trying to earn money, they are doing lots of things but money is not so easy to get much within short time. I have tried lots of things last couple of years. Amazon affiliate, digital marketing, learning programming, social media marketing, Upwork, Fiverr and more. But money is not easy to make online.</description></item><item><title>Speednet Internet broadband service direct results</title><link>http://localhost:1314/blog/2021/02/speednet-internet-broadband-service-direct-results/</link><pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/02/speednet-internet-broadband-service-direct-results/</guid><description>What is Speednet Khulna? Speednet is a broadband internet service provider in Khulna city. Khulna situated on the Southeast side of Bangladesh. Bangladesh is a small country on the Southeast Asia border with India and Myanmar. Bangladesh has the world&amp;rsquo;s largest Sandy beach Cox&amp;rsquo;s Bazaar and the Largest mangrove forest Sundarban. Khulna is a port city name Mongla Port, is the second-largest port of Bangladesh after Chittagong port. Speednet internet supplier started the journey in Khulna city.</description></item><item><title>What is CogentBroadband</title><link>http://localhost:1314/blog/2021/02/what-is-cogentbroadband/</link><pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/02/what-is-cogentbroadband/</guid><description>Cogent Broadband is a 9th generation broadband internet supplier registered in 2019 at Khulna city, southeast part of Bangladesh and a largest port city adjacent with Indian border. Cogent broadband got license from Bangladesh telecommunication board to supply internet in south west zone of Bangladesh. They get zonal license. Cogent is established all latest technologies direct from Taiwan, Singapore and Germany. They have fully installed own cloud server and data center facilities in Khulna area.</description></item><item><title>What is GOISP</title><link>http://localhost:1314/blog/2021/02/what-is-goisp/</link><pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/02/what-is-goisp/</guid><description>GOISP is a 9th generation broadband internet supplier registered in 2019 at Khulna city, southeast part of Bangladesh and a largest port city adjacent with Indian border. Goisp is established all latest technologies direct from Taiwan, Singapore and Germany. They have fully installed own cloud server and data center facilities in Khulna area.
-GOISP internet technology is using fiber optics internet technology and covering khulna to bagherhaat, fultala, noapara, jessore, gopalgonj, madaripur all area.</description></item><item><title>SpaceX internet user total 10000</title><link>http://localhost:1314/blog/2021/02/spacex-internet-user-total-10000/</link><pubDate>Sat, 06 Feb 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/02/spacex-internet-user-total-10000/</guid><description>Starlink SpaceX internet have started it&amp;rsquo;s beta testing Internet service from last year. First accessibility to SpaceX internet to 3 selected countries citizen from USA, Canada, and UK. Recent statistics report is that SpaceX have total 10000 intertnet user now. US news channel CNBC stated that Starlink demands to introduce them as the ideal telecommunication company worldwide. Rubal digital opportunity fund gave millons dollar funding to Satrlink. Regarding this funding, Starlink is trying to expand their satellite internet technology in some other countries.</description></item><item><title>Best Internet Service Provider in Khulna</title><link>http://localhost:1314/blog/2021/02/best-internet-service-provider-in-khulna/</link><pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/02/best-internet-service-provider-in-khulna/</guid><description>Broadband internet is the blessing of the modern age. Khulna is a large city with innovation in information technology, engineering, and industrialization. Khulna is the 3rd largest city in Bangladesh. Khulna is located in the southwest part of Bangladesh. Khulna is a district and a division. Khulna economy is the third largest position, one sea post-Mongla, and has the world&amp;rsquo;s largest Mangrove forest Sundarban. Khulna municipal council was established on 12 December 1884 and Khulna city corporation was established on 6 August 1990.</description></item></channel></rss>
+For live chat and Support https://app goisp.net</description>
+    </item>
+    
+    <item>
+      <title>The Secret Of Making An Easy 5k A Month Within The Next 22 Days</title>
+      <link>https://bdmeter.info/blog/2021/05/the-secret-of-making-an-easy-5k-a-month-within-the-next-22-days/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2021/05/the-secret-of-making-an-easy-5k-a-month-within-the-next-22-days/</guid>
+      <description>Making money is the big secret of life, it&amp;rsquo;s not so easy to make money. Many many people is trying to earn money, they are doing lots of things but money is not so easy to get much within short time. I have tried lots of things last couple of years. Amazon affiliate, digital marketing, learning programming, social media marketing, Upwork, Fiverr and more. But money is not easy to make online.</description>
+    </item>
+    
+    <item>
+      <title>Speednet Internet broadband service direct results</title>
+      <link>https://bdmeter.info/blog/2021/02/speednet-internet-broadband-service-direct-results/</link>
+      <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2021/02/speednet-internet-broadband-service-direct-results/</guid>
+      <description>What is Speednet Khulna? Speednet is a broadband internet service provider in Khulna city. Khulna situated on the Southeast side of Bangladesh. Bangladesh is a small country on the Southeast Asia border with India and Myanmar. Bangladesh has the world&amp;rsquo;s largest Sandy beach Cox&amp;rsquo;s Bazaar and the Largest mangrove forest Sundarban. Khulna is a port city name Mongla Port, is the second-largest port of Bangladesh after Chittagong port. Speednet internet supplier started the journey in Khulna city.</description>
+    </item>
+    
+    <item>
+      <title>What is CogentBroadband</title>
+      <link>https://bdmeter.info/blog/2021/02/what-is-cogentbroadband/</link>
+      <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2021/02/what-is-cogentbroadband/</guid>
+      <description>Cogent Broadband is a 9th generation broadband internet supplier registered in 2019 at Khulna city, southeast part of Bangladesh and a largest port city adjacent with Indian border. Cogent broadband got license from Bangladesh telecommunication board to supply internet in south west zone of Bangladesh. They get zonal license. Cogent is established all latest technologies direct from Taiwan, Singapore and Germany. They have fully installed own cloud server and data center facilities in Khulna area.</description>
+    </item>
+    
+    <item>
+      <title>What is GOISP</title>
+      <link>https://bdmeter.info/blog/2021/02/what-is-goisp/</link>
+      <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2021/02/what-is-goisp/</guid>
+      <description>GOISP is a 9th generation broadband internet supplier registered in 2019 at Khulna city, southeast part of Bangladesh and a largest port city adjacent with Indian border. Goisp is established all latest technologies direct from Taiwan, Singapore and Germany. They have fully installed own cloud server and data center facilities in Khulna area.
+GOISP internet technology is using fiber optics internet technology and covering khulna to bagherhaat, fultala, noapara, jessore, gopalgonj, madaripur all area.</description>
+    </item>
+    
+    <item>
+      <title>SpaceX internet user total 10000</title>
+      <link>https://bdmeter.info/blog/2021/02/spacex-internet-user-total-10000/</link>
+      <pubDate>Sat, 06 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2021/02/spacex-internet-user-total-10000/</guid>
+      <description>Starlink SpaceX internet have started it&amp;rsquo;s beta testing Internet service from last year. First accessibility to SpaceX internet to 3 selected countries citizen from USA, Canada, and UK. Recent statistics report is that SpaceX have total 10000 intertnet user now. US news channel CNBC stated that Starlink demands to introduce them as the ideal telecommunication company worldwide. Rubal digital opportunity fund gave millons dollar funding to Satrlink. Regarding this funding, Starlink is trying to expand their satellite internet technology in some other countries.</description>
+    </item>
+    
+    <item>
+      <title>Best Internet Service Provider in Khulna</title>
+      <link>https://bdmeter.info/blog/2021/02/best-internet-service-provider-in-khulna/</link>
+      <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2021/02/best-internet-service-provider-in-khulna/</guid>
+      <description>Broadband internet is the blessing of the modern age. Khulna is a large city with innovation in information technology, engineering, and industrialization. Khulna is the 3rd largest city in Bangladesh. Khulna is located in the southwest part of Bangladesh. Khulna is a district and a division. Khulna economy is the third largest position, one sea post-Mongla, and has the world&amp;rsquo;s largest Mangrove forest Sundarban. Khulna municipal council was established on 12 December 1884 and Khulna city corporation was established on 6 August 1990.</description>
+    </item>
+    
+  </channel>
+</rss>

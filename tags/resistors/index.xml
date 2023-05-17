@@ -1,7 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>resistors on Bdmeter</title><link>http://localhost:1314/tags/resistors/</link><description>Recent content in resistors on Bdmeter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright><lastBuildDate>Wed, 09 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/tags/resistors/index.xml" rel="self" type="application/rss+xml"/><item><title>Learn About Basic Electrical Components</title><link>http://localhost:1314/blog/2022/03/learn-about-basic-electrical-components/</link><pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/03/learn-about-basic-electrical-components/</guid><description>This blog will help to refresh and expand your understanding of basic electrical components and the basic terms used in electricity as required for instrumentation.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>resistors on Bdmeter</title>
+    <link>https://bdmeter.info/tags/resistors/</link>
+    <description>Recent content in resistors on Bdmeter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright>
+    <lastBuildDate>Wed, 09 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bdmeter.info/tags/resistors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learn About Basic Electrical Components</title>
+      <link>https://bdmeter.info/blog/2022/03/learn-about-basic-electrical-components/</link>
+      <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2022/03/learn-about-basic-electrical-components/</guid>
+      <description>This blog will help to refresh and expand your understanding of basic electrical components and the basic terms used in electricity as required for instrumentation.
 This chapter discusses
 ■ Basic passive components (resistors, capacitors, and inductors) used in electrical circuits
 ■ Applications of Ohm’s law and Kirchoff’s laws
 ■ Use of resistors as voltage dividers
 ■ Effective equivalent circuits for basic devices connected in series and parallel
-■ The Wheatstone bridge</description></item></channel></rss>
+■ The Wheatstone bridge</description>
+    </item>
+    
+  </channel>
+</rss>

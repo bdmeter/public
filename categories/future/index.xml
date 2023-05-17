@@ -1,24 +1,152 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>future on Bdmeter</title><link>http://localhost:1314/categories/future/</link><description>Recent content in future on Bdmeter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright><lastBuildDate>Mon, 08 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/categories/future/index.xml" rel="self" type="application/rss+xml"/><item><title>Greenhouse Gases and Renewable Energy</title><link>http://localhost:1314/blog/2022/08/greenhouse-gases-and-renewable-energy/</link><pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/08/greenhouse-gases-and-renewable-energy/</guid><description>Effect greenhouse What are greenhouse gases (GHG)? Greenhouse gases (GHGs) trap heat within the earth’s atmosphere, contributing to the ‘greenhouse’ effect and causing global warming. These gases include carbon dioxide, methane, nitrous oxide, and water vapor. Industry, including manufacturing, is the second largest global emitter of human-created GHGs. Much of industrial GHG emissions are due to the burning of fossil fuels for heat and power generation.
-Why should I care about GHGs?</description></item><item><title>Different types of Steel Grades</title><link>http://localhost:1314/blog/2022/07/different-types-of-steel-grades/</link><pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/07/different-types-of-steel-grades/</guid><description>Structural steel grades are referred to by their corresponding ASTM designation. For example, the most commonly used grade of structural steel is A36, which is produced to meet the requirements of the ASTM A36 specification. This grade offers a good mix of strength, weldability, and cost. In many designs, this specification alone will satisfy designers’ needs. Other specifications, such as A53 for pipe, provide an equivalent grade of steel for that type of product.</description></item><item><title>How To Design Your Building Against Earthquake</title><link>http://localhost:1314/blog/2022/06/how-to-design-your-building-against-earthquake/</link><pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/06/how-to-design-your-building-against-earthquake/</guid><description>Buildings should be designed to withstand minor earthquakes without damage, because they may occur almost everywhere. For major earthquakes, it may not be economical to prevent all damage but collapse should be precluded. Because an earthquake and a high wind are not likely to occur simultaneously, building codes usually do not require that buildings be designed for a combination of large seismic and wind loads. Thus, designers may assume that the full strength of wind bracing is also available to resist drift caused by earthquakes.</description></item><item><title>The Future: Material Handling Using Robots In Workplace</title><link>http://localhost:1314/blog/2022/03/the-future-material-handling-using-robots-in-workplace/</link><pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/03/the-future-material-handling-using-robots-in-workplace/</guid><description>MATERIALS HANDLING AT THE WORKPLACE Feeding parts and components into a machine for their processing and taking them out is an important activity in any discrete mass manufacturing process. This is known as materials handling at the workplace.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>future on Bdmeter</title>
+    <link>https://bdmeter.info/categories/future/</link>
+    <description>Recent content in future on Bdmeter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 08 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bdmeter.info/categories/future/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Greenhouse Gases and Renewable Energy</title>
+      <link>https://bdmeter.info/blog/2022/08/greenhouse-gases-and-renewable-energy/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2022/08/greenhouse-gases-and-renewable-energy/</guid>
+      <description>Effect greenhouse What are greenhouse gases (GHG)? Greenhouse gases (GHGs) trap heat within the earth’s atmosphere, contributing to the ‘greenhouse’ effect and causing global warming. These gases include carbon dioxide, methane, nitrous oxide, and water vapor. Industry, including manufacturing, is the second largest global emitter of human-created GHGs. Much of industrial GHG emissions are due to the burning of fossil fuels for heat and power generation.
+Why should I care about GHGs?</description>
+    </item>
+    
+    <item>
+      <title>Different types of Steel Grades</title>
+      <link>https://bdmeter.info/blog/2022/07/different-types-of-steel-grades/</link>
+      <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2022/07/different-types-of-steel-grades/</guid>
+      <description>Structural steel grades are referred to by their corresponding ASTM designation. For example, the most commonly used grade of structural steel is A36, which is produced to meet the requirements of the ASTM A36 specification. This grade offers a good mix of strength, weldability, and cost. In many designs, this specification alone will satisfy designers’ needs. Other specifications, such as A53 for pipe, provide an equivalent grade of steel for that type of product.</description>
+    </item>
+    
+    <item>
+      <title>How To Design Your Building Against Earthquake</title>
+      <link>https://bdmeter.info/blog/2022/06/how-to-design-your-building-against-earthquake/</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2022/06/how-to-design-your-building-against-earthquake/</guid>
+      <description>Buildings should be designed to withstand minor earthquakes without damage, because they may occur almost everywhere. For major earthquakes, it may not be economical to prevent all damage but collapse should be precluded. Because an earthquake and a high wind are not likely to occur simultaneously, building codes usually do not require that buildings be designed for a combination of large seismic and wind loads. Thus, designers may assume that the full strength of wind bracing is also available to resist drift caused by earthquakes.</description>
+    </item>
+    
+    <item>
+      <title>The Future: Material Handling Using Robots In Workplace</title>
+      <link>https://bdmeter.info/blog/2022/03/the-future-material-handling-using-robots-in-workplace/</link>
+      <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2022/03/the-future-material-handling-using-robots-in-workplace/</guid>
+      <description>MATERIALS HANDLING AT THE WORKPLACE Feeding parts and components into a machine for their processing and taking them out is an important activity in any discrete mass manufacturing process. This is known as materials handling at the workplace.
 Operating robots in electronics lab
 Robotic handling in Cable industry
 Robot in complex operation in electroniocs industry
 Robot to handle carton in industry
 Robots ready as an Engineer
 Robot in operation
-Robotic Hand to handle carton on pallet</description></item><item><title>What is COP26 And Why Its Matter</title><link>http://localhost:1314/blog/2021/11/what-is-cop26-and-why-its-matter/</link><pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/11/what-is-cop26-and-why-its-matter/</guid><description>UK hosts a summit amongst United Nations countries to talk about global climate changes, how to tackle this situation and what necessary steps should take in immediate action is called COP26.
-It was a plan to host in Glasgow, in a city of Scotland in November 2020 last year and attend more than 200 world countries leader, but due to Coronavirus Pandemic, the COP26 program delayed more than a year.</description></item><item><title>Building Design And Construction - Principals Of Architecture</title><link>http://localhost:1314/blog/2021/10/building-design-and-construction-principals-of-architecture/</link><pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/10/building-design-and-construction-principals-of-architecture/</guid><description>Sociological changes, new technology in industry and commerce, new building codes, other new laws and regulations, inflationary economies of nations, and advances in building technology place an ever-increasing burden on building designers and constructors. They need more and more knowledge and skill to cope with the demands placed on them.
-The public continually demands more complex buildings than in the past. They must serve more purposes, last longer, and require less maintenance and repair.</description></item><item><title>Ringid news update</title><link>http://localhost:1314/blog/2021/09/ringid-news-update/</link><pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/09/ringid-news-update/</guid><description>Today 13th September 2021, our blog reader Mohammad got a response from Ringid customer care helpline after waiting a month. Mohammad had few queries to Ringid, and no one replied him back from Ringid.
+Robotic Hand to handle carton on pallet</description>
+    </item>
+    
+    <item>
+      <title>What is COP26 And Why Its Matter</title>
+      <link>https://bdmeter.info/blog/2021/11/what-is-cop26-and-why-its-matter/</link>
+      <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2021/11/what-is-cop26-and-why-its-matter/</guid>
+      <description>UK hosts a summit amongst United Nations countries to talk about global climate changes, how to tackle this situation and what necessary steps should take in immediate action is called COP26.
+It was a plan to host in Glasgow, in a city of Scotland in November 2020 last year and attend more than 200 world countries leader, but due to Coronavirus Pandemic, the COP26 program delayed more than a year.</description>
+    </item>
+    
+    <item>
+      <title>Building Design And Construction - Principals Of Architecture</title>
+      <link>https://bdmeter.info/blog/2021/10/building-design-and-construction-principals-of-architecture/</link>
+      <pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2021/10/building-design-and-construction-principals-of-architecture/</guid>
+      <description>Sociological changes, new technology in industry and commerce, new building codes, other new laws and regulations, inflationary economies of nations, and advances in building technology place an ever-increasing burden on building designers and constructors. They need more and more knowledge and skill to cope with the demands placed on them.
+The public continually demands more complex buildings than in the past. They must serve more purposes, last longer, and require less maintenance and repair.</description>
+    </item>
+    
+    <item>
+      <title>Ringid news update</title>
+      <link>https://bdmeter.info/blog/2021/09/ringid-news-update/</link>
+      <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2021/09/ringid-news-update/</guid>
+      <description>Today 13th September 2021, our blog reader Mohammad got a response from Ringid customer care helpline after waiting a month. Mohammad had few queries to Ringid, and no one replied him back from Ringid.
 Ringid is a mobile application platform founded by Ayrin Islam in Ontaro Canada. Ayrin is a successful entrepreneur and CEO. Ringid first launched in 2015, and today Ringid have more than 3 million customers globally.
-Ring id customers support services was very irregular and no one reply on time and they have no helpline number unless app chat options.</description></item><item><title>How to earn 15000 USD in a month</title><link>http://localhost:1314/blog/2021/08/how-to-earn-15000-usd-in-a-month/</link><pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/08/how-to-earn-15000-usd-in-a-month/</guid><description>Did you know that ring ID is very easy to earn a lot of money? Nowadays many people are sitting at home very easily by opening Ring ID account and earning a minimum of 15000 rupees per month. You can invest in Ring ID without any tension. You should see 50-100 ads per month. An ad is 20-30 seconds max. 100 ad will be seen in less than 1 hour. Guaranteed income of 15000 rupees with less than 1 hour daily.</description></item><item><title>PERFORMANCE MANAGEMENT GUIDELINES</title><link>http://localhost:1314/blog/2021/03/performance-management-guidelines/</link><pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/03/performance-management-guidelines/</guid><description>Goal Setting &amp;amp; Cascading **Purpose
+Ring id customers support services was very irregular and no one reply on time and they have no helpline number unless app chat options.</description>
+    </item>
+    
+    <item>
+      <title>How to earn 15000 USD in a month</title>
+      <link>https://bdmeter.info/blog/2021/08/how-to-earn-15000-usd-in-a-month/</link>
+      <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2021/08/how-to-earn-15000-usd-in-a-month/</guid>
+      <description>Did you know that ring ID is very easy to earn a lot of money? Nowadays many people are sitting at home very easily by opening Ring ID account and earning a minimum of 15000 rupees per month. You can invest in Ring ID without any tension. You should see 50-100 ads per month. An ad is 20-30 seconds max. 100 ad will be seen in less than 1 hour. Guaranteed income of 15000 rupees with less than 1 hour daily.</description>
+    </item>
+    
+    <item>
+      <title>PERFORMANCE MANAGEMENT GUIDELINES</title>
+      <link>https://bdmeter.info/blog/2021/03/performance-management-guidelines/</link>
+      <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2021/03/performance-management-guidelines/</guid>
+      <description>Goal Setting &amp;amp; Cascading **Purpose
 **Goal setting is a powerful tool that is used to align the team and individual goals to
 Operating Group objectives and strategies. This strategy keeps all levels of the
 organization on the same page. It not only helps improve the attainment of the 3- Year
 Plan strategy but also encourages on-going communication between employees and
-their managers. As well, each individual can see how their job makes a difference in the</description></item><item><title>Fashion Projects</title><link>http://localhost:1314/blog/2021/02/fashion-projects/</link><pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/02/fashion-projects/</guid><description>https://www.linkedin.com/posts/lauren-wadkins-7a7a474b_designer-design-interview-activity-6767423142542491648-rFAv
-Over past few months world have several fashion projects for prospective designer opportunities. Even though they are still looking for more fashion design projects to prepare for next fashion trends. There have ladies items fashion design and those are very much popular globally. They are trying to do much more projects and looking for sample Development from global manufacturer. There are many manufacturer from Asia Europe hub. Fashion designers are looking for fashion show samples and once any design will sold out to brand owner, them Fashion designers will make consumption and pricing for the next season fashion goods.</description></item><item><title>The name of the dream cherished for thousands of years is "Russian Bridge"</title><link>http://localhost:1314/blog/2020/12/the-name-of-the-dream-cherished-for-thousands-of-years-is-russian-bridge/</link><pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2020/12/the-name-of-the-dream-cherished-for-thousands-of-years-is-russian-bridge/</guid><description>The latest span of 150 meters has been placed on pillars 12 and 13. Total 8. The main work of the 15 km long Padma Bridge was successfully completed at around 12 noon yesterday. Through which the long cherished dream of the people of 21 districts of southwestern Bangladesh, direct connection with the capital Dhaka has come true today. The Padma Bridge will be opened for use in June 2022.</description></item><item><title>We need a strong global climate alliance to save our planet: Joe Biden</title><link>http://localhost:1314/blog/2020/12/we-need-a-strong-global-climate-alliance-to-save-our-planet-joe-biden/</link><pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2020/12/we-need-a-strong-global-climate-alliance-to-save-our-planet-joe-biden/</guid><description>Prime Minister Sheikh Hasina has said that a strong global climate alliance is urgently needed to save future generations and the planet from the adverse effects of climate change by reducing carbon emissions.
+their managers. As well, each individual can see how their job makes a difference in the</description>
+    </item>
+    
+    <item>
+      <title>Fashion Projects</title>
+      <link>https://bdmeter.info/blog/2021/02/fashion-projects/</link>
+      <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2021/02/fashion-projects/</guid>
+      <description>https://www.linkedin.com/posts/lauren-wadkins-7a7a474b_designer-design-interview-activity-6767423142542491648-rFAv
+Over past few months world have several fashion projects for prospective designer opportunities. Even though they are still looking for more fashion design projects to prepare for next fashion trends. There have ladies items fashion design and those are very much popular globally. They are trying to do much more projects and looking for sample Development from global manufacturer. There are many manufacturer from Asia Europe hub. Fashion designers are looking for fashion show samples and once any design will sold out to brand owner, them Fashion designers will make consumption and pricing for the next season fashion goods.</description>
+    </item>
+    
+    <item>
+      <title>The name of the dream cherished for thousands of years is &#34;Russian Bridge&#34;</title>
+      <link>https://bdmeter.info/blog/2020/12/the-name-of-the-dream-cherished-for-thousands-of-years-is-russian-bridge/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2020/12/the-name-of-the-dream-cherished-for-thousands-of-years-is-russian-bridge/</guid>
+      <description>The latest span of 150 meters has been placed on pillars 12 and 13. Total 8. The main work of the 15 km long Padma Bridge was successfully completed at around 12 noon yesterday. Through which the long cherished dream of the people of 21 districts of southwestern Bangladesh, direct connection with the capital Dhaka has come true today. The Padma Bridge will be opened for use in June 2022.</description>
+    </item>
+    
+    <item>
+      <title>We need a strong global climate alliance to save our planet: Joe Biden</title>
+      <link>https://bdmeter.info/blog/2020/12/we-need-a-strong-global-climate-alliance-to-save-our-planet-joe-biden/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2020/12/we-need-a-strong-global-climate-alliance-to-save-our-planet-joe-biden/</guid>
+      <description>Prime Minister Sheikh Hasina has said that a strong global climate alliance is urgently needed to save future generations and the planet from the adverse effects of climate change by reducing carbon emissions.
 She said he would like to emphasize the importance of a positive and strong international climate alliance to move towards achieving carbon balance by effectively reducing global carbon emissions before the middle of the century.
-This was stated by the Prime Minister in a pre-recorded speech at a virtual conference titled &amp;lsquo;Thimphu Ambition Summit&amp;rsquo; aimed at accelerating the pace of globalization by 1.</description></item><item><title>Govt can't put youngsters in danger - Joe Biden said</title><link>http://localhost:1314/blog/2020/11/govt-cant-put-youngsters-in-danger-joe-biden-said/</link><pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2020/11/govt-cant-put-youngsters-in-danger-joe-biden-said/</guid><description>President Joe Biden yesterday recognized that remaining at home had been progressively hard for understudies, however, the public authority would not put youngsters&amp;rsquo; lives in danger by returning the instructive organizations.
+This was stated by the Prime Minister in a pre-recorded speech at a virtual conference titled &amp;lsquo;Thimphu Ambition Summit&amp;rsquo; aimed at accelerating the pace of globalization by 1.</description>
+    </item>
+    
+    <item>
+      <title>Govt can&#39;t put youngsters in danger  - Joe Biden said</title>
+      <link>https://bdmeter.info/blog/2020/11/govt-cant-put-youngsters-in-danger-joe-biden-said/</link>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2020/11/govt-cant-put-youngsters-in-danger-joe-biden-said/</guid>
+      <description>President Joe Biden yesterday recognized that remaining at home had been progressively hard for understudies, however, the public authority would not put youngsters&amp;rsquo; lives in danger by returning the instructive organizations.
 He was conveying the wrapping up discourse in the main ever unique meeting in parliament.
 Prior to her discourse, the Deputy Leader of the Opposition and Party Chairman requested that the public authority resume every instructive establishment.
-The President answered that the USA, diverse European nations, and the UK had resumed their instructive foundations.</description></item></channel></rss>
+The President answered that the USA, diverse European nations, and the UK had resumed their instructive foundations.</description>
+    </item>
+    
+  </channel>
+</rss>

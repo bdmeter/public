@@ -1,3 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>system-operating-point on Bdmeter</title><link>http://localhost:1314/tags/system-operating-point/</link><description>Recent content in system-operating-point on Bdmeter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright><lastBuildDate>Sun, 24 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/tags/system-operating-point/index.xml" rel="self" type="application/rss+xml"/><item><title>What Is Centrifugal Pumps and Its Characteristics</title><link>http://localhost:1314/blog/2021/10/what-is-centrifugal-pumps-and-its-characteristics/</link><pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/10/what-is-centrifugal-pumps-and-its-characteristics/</guid><description>Centrifugal pumps are one of the most common components found in fluid systems. In order to understand how a fluid system containing a centrifugal pump operates, it is necessary to understand the head and flow relationships for a centrifugal pump.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>system-operating-point on Bdmeter</title>
+    <link>https://bdmeter.info/tags/system-operating-point/</link>
+    <description>Recent content in system-operating-point on Bdmeter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright>
+    <lastBuildDate>Sun, 24 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bdmeter.info/tags/system-operating-point/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What Is Centrifugal Pumps and Its Characteristics</title>
+      <link>https://bdmeter.info/blog/2021/10/what-is-centrifugal-pumps-and-its-characteristics/</link>
+      <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2021/10/what-is-centrifugal-pumps-and-its-characteristics/</guid>
+      <description>Centrifugal pumps are one of the most common components found in fluid systems. In order to understand how a fluid system containing a centrifugal pump operates, it is necessary to understand the head and flow relationships for a centrifugal pump.
 EO 1.37 - DEFINE the terms net positive suction head and cavitation.
-EO 1.38 - CALCULATE the new volumetric flow rate, head, or power for a variable speed centrifugal pump using the</description></item></channel></rss>
+EO 1.38 - CALCULATE the new volumetric flow rate, head, or power for a variable speed centrifugal pump using the</description>
+    </item>
+    
+  </channel>
+</rss>

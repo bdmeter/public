@@ -1,2 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>loom on Bdmeter</title><link>http://localhost:1314/tags/loom/</link><description>Recent content in loom on Bdmeter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright><lastBuildDate>Sun, 14 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/tags/loom/index.xml" rel="self" type="application/rss+xml"/><item><title>What is Hydroentanglement in Loom Machine</title><link>http://localhost:1314/blog/2021/11/what-is-hydroentanglement-in-loom-machine/</link><pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/11/what-is-hydroentanglement-in-loom-machine/</guid><description>The process of hydroentanglement was invented as a means of producing an entanglement similar to that made by a needle loom, but using a lighter weight batt. A successful process was developed during the 1960s by Du Pont and was patented.
-However, Du Pont decided in the mid-1970s to dedicate the patents to the public domain, which resulted in a rush of new development work in the major industrial countries, Japan, USA, France, Germany and Britain.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>loom on Bdmeter</title>
+    <link>https://bdmeter.info/tags/loom/</link>
+    <description>Recent content in loom on Bdmeter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright>
+    <lastBuildDate>Sun, 14 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bdmeter.info/tags/loom/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is Hydroentanglement in Loom Machine</title>
+      <link>https://bdmeter.info/blog/2021/11/what-is-hydroentanglement-in-loom-machine/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2021/11/what-is-hydroentanglement-in-loom-machine/</guid>
+      <description>The process of hydroentanglement was invented as a means of producing an entanglement similar to that made by a needle loom, but using a lighter weight batt. A successful process was developed during the 1960s by Du Pont and was patented.
+However, Du Pont decided in the mid-1970s to dedicate the patents to the public domain, which resulted in a rush of new development work in the major industrial countries, Japan, USA, France, Germany and Britain.</description>
+    </item>
+    
+  </channel>
+</rss>

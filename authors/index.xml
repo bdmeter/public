@@ -1,1 +1,48 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Authors on Bdmeter</title><link>http://localhost:1314/authors/</link><description>Recent content in Authors on Bdmeter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright><atom:link href="http://localhost:1314/authors/index.xml" rel="self" type="application/rss+xml"/><item><title>Mark-Weber</title><link>http://localhost:1314/authors/mark-weber/</link><pubDate>Fri, 31 Mar 2023 11:47:31 +0800</pubDate><guid>http://localhost:1314/authors/mark-weber/</guid><description/></item><item><title>Bdmeter</title><link>http://localhost:1314/authors/bdmeter/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1314/authors/bdmeter/</guid><description/></item><item><title>Mark Weber</title><link>http://localhost:1314/authors/markweber/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1314/authors/markweber/</guid><description/></item><item><title>Ronibd0</title><link>http://localhost:1314/authors/ronibd0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1314/authors/ronibd0/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Bdmeter</title>
+    <link>https://bdmeter.info/authors/</link>
+    <description>Recent content in Authors on Bdmeter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright>
+    <lastBuildDate>Tue, 16 May 2023 22:42:23 +0800</lastBuildDate><atom:link href="https://bdmeter.info/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bdmeter</title>
+      <link>https://bdmeter.info/authors/bdmeter/</link>
+      <pubDate>Tue, 16 May 2023 22:42:23 +0800</pubDate>
+      
+      <guid>https://bdmeter.info/authors/bdmeter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mark-Weber</title>
+      <link>https://bdmeter.info/authors/mark-weber/</link>
+      <pubDate>Fri, 31 Mar 2023 11:47:31 +0800</pubDate>
+      
+      <guid>https://bdmeter.info/authors/mark-weber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mark Weber</title>
+      <link>https://bdmeter.info/authors/markweber/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/authors/markweber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ronibd0</title>
+      <link>https://bdmeter.info/authors/ronibd0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/authors/ronibd0/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

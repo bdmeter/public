@@ -1,2 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>narketing on Bdmeter</title><link>http://localhost:1314/tags/narketing/</link><description>Recent content in narketing on Bdmeter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright><lastBuildDate>Sat, 27 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/tags/narketing/index.xml" rel="self" type="application/rss+xml"/><item><title>Learn End To End Merchandising Process</title><link>http://localhost:1314/blog/2021/02/learn-end-to-end-merchandising-process/</link><pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/02/learn-end-to-end-merchandising-process/</guid><description>Strategic Marketing Original Idea ‐ Trend &amp;amp; Concept Research The original idea or concept can come from many sources. In this process, the Design team conducts trend and concept research by shopping US and European markets and conducts market research through mediums such as WGSN, WWD and etc., including competitive landscape, consumer research, reviewing sales data, and brainstorming.
-Consumer Research In consumer research, consumer statistics and behavior are studied to understand the consumer, to anticipate his/her product needs.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>narketing on Bdmeter</title>
+    <link>https://bdmeter.info/tags/narketing/</link>
+    <description>Recent content in narketing on Bdmeter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright>
+    <lastBuildDate>Sat, 27 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bdmeter.info/tags/narketing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learn End To End Merchandising Process</title>
+      <link>https://bdmeter.info/blog/2021/02/learn-end-to-end-merchandising-process/</link>
+      <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2021/02/learn-end-to-end-merchandising-process/</guid>
+      <description>Strategic Marketing Original Idea ‐ Trend &amp;amp; Concept Research The original idea or concept can come from many sources. In this process, the Design team conducts trend and concept research by shopping US and European markets and conducts market research through mediums such as WGSN, WWD and etc., including competitive landscape, consumer research, reviewing sales data, and brainstorming.
+Consumer Research In consumer research, consumer statistics and behavior are studied to understand the consumer, to anticipate his/her product needs.</description>
+    </item>
+    
+  </channel>
+</rss>

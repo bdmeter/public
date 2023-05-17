@@ -1,10 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>housekeeping on Bdmeter</title><link>http://localhost:1314/tags/housekeeping/</link><description>Recent content in housekeeping on Bdmeter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright><lastBuildDate>Sat, 03 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/tags/housekeeping/index.xml" rel="self" type="application/rss+xml"/><item><title>Risk Assessment: Cosmetics Manufacturing Process</title><link>http://localhost:1314/blog/2022/09/risk-assessment-cosmetics-manufacturing-process/</link><pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/09/risk-assessment-cosmetics-manufacturing-process/</guid><description>Steps for Process-related Risk Assessment Understand the process flow on how to manufacture the product
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>housekeeping on Bdmeter</title>
+    <link>https://bdmeter.info/tags/housekeeping/</link>
+    <description>Recent content in housekeeping on Bdmeter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright>
+    <lastBuildDate>Sat, 03 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bdmeter.info/tags/housekeeping/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Risk Assessment: Cosmetics Manufacturing Process</title>
+      <link>https://bdmeter.info/blog/2022/09/risk-assessment-cosmetics-manufacturing-process/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2022/09/risk-assessment-cosmetics-manufacturing-process/</guid>
+      <description>Steps for Process-related Risk Assessment Understand the process flow on how to manufacture the product
 Identify the hazards from its process step (task)
 Decide who might be harmed and how
 Evaluate the risks and decide on precaution
 Record your findings and implement them
 Review your assessment and update if necessary
 Cosmetic Flow Production Process Flow Cosmetic Flow Production Process Flow
-Cosmetic Production Process Flow Common EHS Hazards Receiving raw material from W/H</description></item><item><title>Housekeeping Manual of Largest Industry</title><link>http://localhost:1314/blog/2021/02/housekeeping-manual-of-largest-industry/</link><pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/02/housekeeping-manual-of-largest-industry/</guid><description>General Housekeeping Manual, A Guideline for Good Housekeeping Practice in Workplace. This manual is prepared by the Department of SOP, Textile Group of Companies. This edition developed on dates September 2020.
+Cosmetic Production Process Flow Common EHS Hazards Receiving raw material from W/H</description>
+    </item>
+    
+    <item>
+      <title>Housekeeping Manual of Largest Industry</title>
+      <link>https://bdmeter.info/blog/2021/02/housekeeping-manual-of-largest-industry/</link>
+      <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2021/02/housekeeping-manual-of-largest-industry/</guid>
+      <description>General Housekeeping Manual, A Guideline for Good Housekeeping Practice in Workplace. This manual is prepared by the Department of SOP, Textile Group of Companies. This edition developed on dates September 2020.
 This manual is issued for A Textile Group of Companies and can be obtained from SOP Department. Please contact www.bdmeter.info for custom development
-This guideline is not for advertising, endorsement, or commercial purposes. Please acknowledge the source as &amp;ldquo;Guidelines for Good housekeeping Practice in a Workplace&amp;rdquo;, published by the Policy Implementation and Risk Management-Textile Group of Companies.</description></item></channel></rss>
+This guideline is not for advertising, endorsement, or commercial purposes. Please acknowledge the source as &amp;ldquo;Guidelines for Good housekeeping Practice in a Workplace&amp;rdquo;, published by the Policy Implementation and Risk Management-Textile Group of Companies.</description>
+    </item>
+    
+  </channel>
+</rss>

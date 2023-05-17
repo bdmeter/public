@@ -1,6 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>cpt on Bdmeter</title><link>http://localhost:1314/tags/cpt/</link><description>Recent content in cpt on Bdmeter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright><lastBuildDate>Sat, 27 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/tags/cpt/index.xml" rel="self" type="application/rss+xml"/><item><title>Incoterms</title><link>http://localhost:1314/blog/2021/02/incoterms/</link><pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/02/incoterms/</guid><description>Incoterms (International Commercial Terms) Incoterms are the recognized abbreviation for the International Chamber of Commerce Terms
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cpt on Bdmeter</title>
+    <link>https://bdmeter.info/tags/cpt/</link>
+    <description>Recent content in cpt on Bdmeter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright>
+    <lastBuildDate>Sat, 27 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bdmeter.info/tags/cpt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Incoterms</title>
+      <link>https://bdmeter.info/blog/2021/02/incoterms/</link>
+      <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2021/02/incoterms/</guid>
+      <description>Incoterms (International Commercial Terms) Incoterms are the recognized abbreviation for the International Chamber of Commerce Terms
 of Sale.
 The 11 Incoterms are listed below: EXW - Ex-Works, named place where shipment is available to the buyer, not loaded. The
 seller will not contract for any transportation.
 International Carriage NOT Paid by Seller FCA - Free Carrier, unloaded at the seller&amp;rsquo;s dock OR a named place where shipment is
-available to the international carrier or agent, not loaded.</description></item></channel></rss>
+available to the international carrier or agent, not loaded.</description>
+    </item>
+    
+  </channel>
+</rss>

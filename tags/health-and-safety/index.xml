@@ -1,4 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>health-and-safety on Bdmeter</title><link>http://localhost:1314/tags/health-and-safety/</link><description>Recent content in health-and-safety on Bdmeter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright><lastBuildDate>Sun, 04 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/tags/health-and-safety/index.xml" rel="self" type="application/rss+xml"/><item><title>Workplace building safety management</title><link>http://localhost:1314/blog/2022/12/workplace-building-safety-management/</link><pubDate>Sun, 04 Dec 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/12/workplace-building-safety-management/</guid><description>This content will help Engineers, and architects learn about industrial or, warehouse building safety management and help to achieve certificates easily. It’s not easy to get building certificates and this article will help us to know about the step-by-step process to implement building safety in our own business zone and apply to achieve international certificates.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>health-and-safety on Bdmeter</title>
+    <link>https://bdmeter.info/tags/health-and-safety/</link>
+    <description>Recent content in health-and-safety on Bdmeter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright>
+    <lastBuildDate>Sun, 04 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bdmeter.info/tags/health-and-safety/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Workplace building safety management</title>
+      <link>https://bdmeter.info/blog/2022/12/workplace-building-safety-management/</link>
+      <pubDate>Sun, 04 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2022/12/workplace-building-safety-management/</guid>
+      <description>This content will help Engineers, and architects learn about industrial or, warehouse building safety management and help to achieve certificates easily. It’s not easy to get building certificates and this article will help us to know about the step-by-step process to implement building safety in our own business zone and apply to achieve international certificates.
 Evacuation map In case of emergency: Don&amp;rsquo;t panic
-Leave the building in CALM by the nearest exit</description></item><item><title>Safety installation guide</title><link>http://localhost:1314/docs/installation/safety/</link><pubDate>Tue, 06 Sep 2022 22:42:23 +0800</pubDate><guid>http://localhost:1314/docs/installation/safety/</guid><description>Learn how to install safety plan for your home and industry
-coming soon!</description></item></channel></rss>
+Leave the building in CALM by the nearest exit</description>
+    </item>
+    
+    <item>
+      <title>Safety installation guide</title>
+      <link>https://bdmeter.info/docs/installation/safety/</link>
+      <pubDate>Tue, 06 Sep 2022 22:42:23 +0800</pubDate>
+      
+      <guid>https://bdmeter.info/docs/installation/safety/</guid>
+      <description>Learn how to install safety plan for your home and industry
+coming soon! </description>
+    </item>
+    
+  </channel>
+</rss>

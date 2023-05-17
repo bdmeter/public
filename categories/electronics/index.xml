@@ -1,5 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>electronics on Bdmeter</title><link>http://localhost:1314/categories/electronics/</link><description>Recent content in electronics on Bdmeter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright><lastBuildDate>Fri, 31 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/categories/electronics/index.xml" rel="self" type="application/rss+xml"/><item><title>Determination of Moist Air Properties</title><link>http://localhost:1314/blog/2023/03/determination-of-moist-air-properties/</link><pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2023/03/determination-of-moist-air-properties/</guid><description>An air-water mixture is found from the heat and mass balance to be at 60°C (333 K) and 0.025 kg/kg (25 g/kg) absolute humidity. Calculate the other main parameters for the mixture. Take atmospheric pressure as 101,325 Pa.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>electronics on Bdmeter</title>
+    <link>https://bdmeter.info/categories/electronics/</link>
+    <description>Recent content in electronics on Bdmeter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright>
+    <lastBuildDate>Fri, 31 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bdmeter.info/categories/electronics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Determination of Moist Air Properties</title>
+      <link>https://bdmeter.info/blog/2023/03/determination-of-moist-air-properties/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2023/03/determination-of-moist-air-properties/</guid>
+      <description>An air-water mixture is found from the heat and mass balance to be at 60°C (333 K) and 0.025 kg/kg (25 g/kg) absolute humidity. Calculate the other main parameters for the mixture. Take atmospheric pressure as 101,325 Pa.
 Method: Consult item (vi) in Table 12-5 for the calculation methodology.
-From the initial terminology section, specific humidity YW = 0.02439 kg/kg, mole ratio z = 0.0402 kmol/kmol, mole fraction y = 0.</description></item><item><title>What are Smoke and Chemical Sensors and their applications</title><link>http://localhost:1314/blog/2023/03/what-are-smoke-and-chemical-sensors-and-their-applications/</link><pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2023/03/what-are-smoke-and-chemical-sensors-and-their-applications/</guid><description>Smoke and Chemical Sensors: The detection of smoke, radiation, and chemicals is of great importance in industrial processing not only as it relates to the safety of humans and the control of environmental pollution both atmospheric and ground but is also used in process control applications to detect the presence, absence, or levels of impurities in processing chemicals.
-Smoke detectors and heat sensors (automatic sprinklers) are now commonplace in the industry for the protection of people, and equipment, and for monitoring and control of chemical reactions.</description></item><item><title>A study of digital circuits and converting to digital signals</title><link>http://localhost:1314/blog/2022/11/a-study-of-digital-circuits-and-converting-to-digital-signals/</link><pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/11/a-study-of-digital-circuits-and-converting-to-digital-signals/</guid><description>What are Digital circuits and digital signals?
-The study of electronic circuits where the inputs and outputs are limited to two fixed or discrete values or logic levels is called digital electronics. Digital technology would take many signals to do justice, so in this text, we can only scratch the surface. There is a place for both analog and digital circuits in instrumentation. Sensors and instrumentation functions are analog in nature.</description></item></channel></rss>
+From the initial terminology section, specific humidity YW = 0.02439 kg/kg, mole ratio z = 0.0402 kmol/kmol, mole fraction y = 0.</description>
+    </item>
+    
+    <item>
+      <title>What are Smoke and Chemical Sensors and their applications</title>
+      <link>https://bdmeter.info/blog/2023/03/what-are-smoke-and-chemical-sensors-and-their-applications/</link>
+      <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2023/03/what-are-smoke-and-chemical-sensors-and-their-applications/</guid>
+      <description>Smoke and Chemical Sensors: The detection of smoke, radiation, and chemicals is of great importance in industrial processing not only as it relates to the safety of humans and the control of environmental pollution both atmospheric and ground but is also used in process control applications to detect the presence, absence, or levels of impurities in processing chemicals.
+Smoke detectors and heat sensors (automatic sprinklers) are now commonplace in the industry for the protection of people, and equipment, and for monitoring and control of chemical reactions.</description>
+    </item>
+    
+    <item>
+      <title>A study of digital circuits and converting to digital signals</title>
+      <link>https://bdmeter.info/blog/2022/11/a-study-of-digital-circuits-and-converting-to-digital-signals/</link>
+      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2022/11/a-study-of-digital-circuits-and-converting-to-digital-signals/</guid>
+      <description>What are Digital circuits and digital signals?
+The study of electronic circuits where the inputs and outputs are limited to two fixed or discrete values or logic levels is called digital electronics. Digital technology would take many signals to do justice, so in this text, we can only scratch the surface. There is a place for both analog and digital circuits in instrumentation. Sensors and instrumentation functions are analog in nature.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,4 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Docs on Bdmeter</title><link>http://localhost:1314/docs/</link><description>Recent content in Docs on Bdmeter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright><atom:link href="http://localhost:1314/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>Standard Operations Guide</title><link>http://localhost:1314/docs/operations/</link><pubDate>Sun, 06 Mar 2022 22:42:23 +0800</pubDate><guid>http://localhost:1314/docs/operations/</guid><description>&lt;p>This guide will help us to learn about different business and industrial operations&lt;/p>
-&lt;ul>
-&lt;li>coming soon!&lt;/li>
-&lt;/ul></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on Bdmeter</title>
+    <link>https://bdmeter.info/docs/</link>
+    <description>Recent content in Docs on Bdmeter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright>
+    <lastBuildDate>Tue, 16 May 2023 22:42:23 +0800</lastBuildDate><atom:link href="https://bdmeter.info/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Standard Operations Guide</title>
+      <link>https://bdmeter.info/docs/operations/</link>
+      <pubDate>Sun, 06 Mar 2022 22:42:23 +0800</pubDate>
+      
+      <guid>https://bdmeter.info/docs/operations/</guid>
+      <description>&lt;p&gt;This guide will help us to learn about different business and industrial operations&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;coming soon!&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

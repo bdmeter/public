@@ -1,1 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>complaint on Bdmeter</title><link>http://localhost:1314/tags/complaint/</link><description>Recent content in complaint on Bdmeter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright><lastBuildDate>Thu, 11 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/tags/complaint/index.xml" rel="self" type="application/rss+xml"/><item><title>SOP of claim and complaint</title><link>http://localhost:1314/blog/2021/03/sop-of-claim-and-complaint/</link><pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/03/sop-of-claim-and-complaint/</guid><description>Whenever we got a quality complaint and claim, we need to provide a reasonable explanation to the buyer of how and why it happened. To provide this explanation, we need to make a thorough investigation to find out the possible root cause as well as provide the correct action plan to avoid future happening. During the investigation, we need to involve a lot of data and questions. In our past experiences, we spent a lot of time back and forth emails to collect the data and find out the root cause because either we forgot to check this or that.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>complaint on Bdmeter</title>
+    <link>https://bdmeter.info/tags/complaint/</link>
+    <description>Recent content in complaint on Bdmeter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright>
+    <lastBuildDate>Thu, 11 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bdmeter.info/tags/complaint/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SOP of claim and complaint</title>
+      <link>https://bdmeter.info/blog/2021/03/sop-of-claim-and-complaint/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2021/03/sop-of-claim-and-complaint/</guid>
+      <description>Whenever we got a quality complaint and claim, we need to provide a reasonable explanation to the buyer of how and why it happened. To provide this explanation, we need to make a thorough investigation to find out the possible root cause as well as provide the correct action plan to avoid future happening. During the investigation, we need to involve a lot of data and questions. In our past experiences, we spent a lot of time back and forth emails to collect the data and find out the root cause because either we forgot to check this or that.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,1 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>hugene on Bdmeter</title><link>http://localhost:1314/tags/hugene/</link><description>Recent content in hugene on Bdmeter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright><lastBuildDate>Tue, 15 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/tags/hugene/index.xml" rel="self" type="application/rss+xml"/><item><title>Learn About Environmental Biotechnology</title><link>http://localhost:1314/blog/2022/03/learn-about-environmental-biotechnology/</link><pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/03/learn-about-environmental-biotechnology/</guid><description>When modern industrialization started in the 19th century, many people migrated from the agricultural area to the big cities. Public hygiene became a major problem. Human excrement and waste was discharged into open channels, rivers, and lakes. The pollution was disastrous and hygiene-related epidemic diseases, like cholera and typhus, occurred frequently. Therefore, it was an important step forward when public water collection systems and treatment plants were introduced at the end of the 19th century.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugene on Bdmeter</title>
+    <link>https://bdmeter.info/tags/hugene/</link>
+    <description>Recent content in hugene on Bdmeter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright>
+    <lastBuildDate>Tue, 15 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bdmeter.info/tags/hugene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learn About Environmental Biotechnology</title>
+      <link>https://bdmeter.info/blog/2022/03/learn-about-environmental-biotechnology/</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2022/03/learn-about-environmental-biotechnology/</guid>
+      <description>When modern industrialization started in the 19th century, many people migrated from the agricultural area to the big cities. Public hygiene became a major problem. Human excrement and waste was discharged into open channels, rivers, and lakes. The pollution was disastrous and hygiene-related epidemic diseases, like cholera and typhus, occurred frequently. Therefore, it was an important step forward when public water collection systems and treatment plants were introduced at the end of the 19th century.</description>
+    </item>
+    
+  </channel>
+</rss>

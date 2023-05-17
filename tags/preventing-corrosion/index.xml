@@ -1,1 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>preventing-corrosion on Bdmeter</title><link>http://localhost:1314/tags/preventing-corrosion/</link><description>Recent content in preventing-corrosion on Bdmeter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright><lastBuildDate>Wed, 24 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/tags/preventing-corrosion/index.xml" rel="self" type="application/rss+xml"/><item><title>Corrosion of iron and steel: Preventive action to stop corrosion</title><link>http://localhost:1314/blog/2022/08/corrosion-of-iron-and-steel-preventive-action-to-stop-corrosion/</link><pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/08/corrosion-of-iron-and-steel-preventive-action-to-stop-corrosion/</guid><description>Corrosion of ferrous metals is caused by the tendency of iron (anode) to go into solution in water as ferrous hydroxide and displace hydrogen, which in turn combines with dissolved oxygen to form more water. At the same time, the dissolved ferrous hydroxide is converted by more oxygen to the insoluble ferric hydroxide, thereby allowing more iron to go into the solution. Corrosion, therefore, requires liquid water (as in damp air) and oxygen (which is normally present dissolved in the</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>preventing-corrosion on Bdmeter</title>
+    <link>https://bdmeter.info/tags/preventing-corrosion/</link>
+    <description>Recent content in preventing-corrosion on Bdmeter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright>
+    <lastBuildDate>Wed, 24 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bdmeter.info/tags/preventing-corrosion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Corrosion of iron and steel: Preventive action to stop corrosion</title>
+      <link>https://bdmeter.info/blog/2022/08/corrosion-of-iron-and-steel-preventive-action-to-stop-corrosion/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2022/08/corrosion-of-iron-and-steel-preventive-action-to-stop-corrosion/</guid>
+      <description>Corrosion of ferrous metals is caused by the tendency of iron (anode) to go into solution in water as ferrous hydroxide and displace hydrogen, which in turn combines with dissolved oxygen to form more water. At the same time, the dissolved ferrous hydroxide is converted by more oxygen to the insoluble ferric hydroxide, thereby allowing more iron to go into the solution. Corrosion, therefore, requires liquid water (as in damp air) and oxygen (which is normally present dissolved in the</description>
+    </item>
+    
+  </channel>
+</rss>
