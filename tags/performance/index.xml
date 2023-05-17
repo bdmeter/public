@@ -1,22 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>performance on Bdmeter</title>
-    <link>https://bdmeter.info/tags/performance/</link>
-    <description>Recent content in performance on Bdmeter</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [GOISP](https://goisp.net). All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 27 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bdmeter.info/tags/performance/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>KPIs of Quality Management for Clothing Factories</title>
-      <link>https://bdmeter.info/blog/2021/03/kpis-of-quality-management-for-clothing-factories/</link>
-      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2021/03/kpis-of-quality-management-for-clothing-factories/</guid>
-      <description>In the apparel industry, professionals always talk about product quality, defects, and quality systems. To the buyers – the end product what they are receiving from factory, quality should be as per the requirement. No more, no less. Earlier buyers don’t bother how a factory makes quality? How much extra pieces they have processed to achieve all good pieces to handover the buyer?
-On the other side, factories don’t think how much money they are losing through repair work and garment rejection.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>performance on Bdmeter</title><link>http://localhost:1314/tags/performance/</link><description>Recent content in performance on Bdmeter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright><lastBuildDate>Sat, 27 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/tags/performance/index.xml" rel="self" type="application/rss+xml"/><item><title>KPIs of Quality Management for Clothing Factories</title><link>http://localhost:1314/blog/2021/03/kpis-of-quality-management-for-clothing-factories/</link><pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/03/kpis-of-quality-management-for-clothing-factories/</guid><description>In the apparel industry, professionals always talk about product quality, defects, and quality systems. To the buyers – the end product what they are receiving from factory, quality should be as per the requirement. No more, no less. Earlier buyers don’t bother how a factory makes quality? How much extra pieces they have processed to achieve all good pieces to handover the buyer?
+On the other side, factories don’t think how much money they are losing through repair work and garment rejection.</description></item></channel></rss>

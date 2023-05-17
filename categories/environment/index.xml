@@ -1,217 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>environment on Bdmeter</title>
-    <link>https://bdmeter.info/categories/environment/</link>
-    <description>Recent content in environment on Bdmeter</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [GOISP](https://goisp.net). All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 31 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bdmeter.info/categories/environment/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Determination of Moist Air Properties</title>
-      <link>https://bdmeter.info/blog/2023/03/determination-of-moist-air-properties/</link>
-      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2023/03/determination-of-moist-air-properties/</guid>
-      <description>An air-water mixture is found from the heat and mass balance to be at 60°C (333 K) and 0.025 kg/kg (25 g/kg) absolute humidity. Calculate the other main parameters for the mixture. Take atmospheric pressure as 101,325 Pa.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>environment on Bdmeter</title><link>http://localhost:1314/categories/environment/</link><description>Recent content in environment on Bdmeter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright><lastBuildDate>Fri, 31 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/categories/environment/index.xml" rel="self" type="application/rss+xml"/><item><title>Determination of Moist Air Properties</title><link>http://localhost:1314/blog/2023/03/determination-of-moist-air-properties/</link><pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2023/03/determination-of-moist-air-properties/</guid><description>An air-water mixture is found from the heat and mass balance to be at 60°C (333 K) and 0.025 kg/kg (25 g/kg) absolute humidity. Calculate the other main parameters for the mixture. Take atmospheric pressure as 101,325 Pa.
 Method: Consult item (vi) in Table 12-5 for the calculation methodology.
-From the initial terminology section, specific humidity YW = 0.02439 kg/kg, mole ratio z = 0.0402 kmol/kmol, mole fraction y = 0.</description>
-    </item>
-    
-    <item>
-      <title>Greenhouse Gases and Renewable Energy</title>
-      <link>https://bdmeter.info/blog/2022/08/greenhouse-gases-and-renewable-energy/</link>
-      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2022/08/greenhouse-gases-and-renewable-energy/</guid>
-      <description>Effect greenhouse What are greenhouse gases (GHG)? Greenhouse gases (GHGs) trap heat within the earth’s atmosphere, contributing to the ‘greenhouse’ effect and causing global warming. These gases include carbon dioxide, methane, nitrous oxide, and water vapor. Industry, including manufacturing, is the second largest global emitter of human-created GHGs. Much of industrial GHG emissions are due to the burning of fossil fuels for heat and power generation.
-Why should I care about GHGs?</description>
-    </item>
-    
-    <item>
-      <title>Different types of Steel Grades</title>
-      <link>https://bdmeter.info/blog/2022/07/different-types-of-steel-grades/</link>
-      <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2022/07/different-types-of-steel-grades/</guid>
-      <description>Structural steel grades are referred to by their corresponding ASTM designation. For example, the most commonly used grade of structural steel is A36, which is produced to meet the requirements of the ASTM A36 specification. This grade offers a good mix of strength, weldability, and cost. In many designs, this specification alone will satisfy designers’ needs. Other specifications, such as A53 for pipe, provide an equivalent grade of steel for that type of product.</description>
-    </item>
-    
-    <item>
-      <title>How To Design Your Building Against Earthquake</title>
-      <link>https://bdmeter.info/blog/2022/06/how-to-design-your-building-against-earthquake/</link>
-      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2022/06/how-to-design-your-building-against-earthquake/</guid>
-      <description>Buildings should be designed to withstand minor earthquakes without damage, because they may occur almost everywhere. For major earthquakes, it may not be economical to prevent all damage but collapse should be precluded. Because an earthquake and a high wind are not likely to occur simultaneously, building codes usually do not require that buildings be designed for a combination of large seismic and wind loads. Thus, designers may assume that the full strength of wind bracing is also available to resist drift caused by earthquakes.</description>
-    </item>
-    
-    <item>
-      <title>Textile In Civil Engineering: Geotextile</title>
-      <link>https://bdmeter.info/blog/2022/03/textile-in-civil-engineering-geotextile/</link>
-      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2022/03/textile-in-civil-engineering-geotextile/</guid>
-      <description>Introduction to geotextiles Although skins, brushwood, and straw–mud composites have been used to improve the soft ground for many thousands of years, it is not realistic to refer to these as ‘geotextiles’. The important factor that separates them from modern geotextiles is that they cannot be made with specific and consistent properties. When modern polymers were developed in the mid 20th century, it became possible to create textiles with designed forecastable performance and to produce them in large quantities with statistically consistent and repeatable properties.</description>
-    </item>
-    
-    <item>
-      <title>Learn About Environmental Biotechnology</title>
-      <link>https://bdmeter.info/blog/2022/03/learn-about-environmental-biotechnology/</link>
-      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2022/03/learn-about-environmental-biotechnology/</guid>
-      <description>When modern industrialization started in the 19th century, many people migrated from the agricultural area to the big cities. Public hygiene became a major problem. Human excrement and waste was discharged into open channels, rivers, and lakes. The pollution was disastrous and hygiene-related epidemic diseases, like cholera and typhus, occurred frequently. Therefore, it was an important step forward when public water collection systems and treatment plants were introduced at the end of the 19th century.</description>
-    </item>
-    
-    <item>
-      <title>Auto Sprinkler System Installation Guidelines</title>
-      <link>https://bdmeter.info/blog/2022/02/auto-sprinkler-system-installation-guidelines/</link>
-      <pubDate>Sat, 26 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2022/02/auto-sprinkler-system-installation-guidelines/</guid>
-      <description>Automatic fire sprinkler systems have been protecting property in the United States since the late 1800s; in fact, the Standard for the Installation of Sprinkler Systems, 1896 was the first standard developed by the National Fire Protection Association (NFPA). Today the NFPA still develops the most widely accepted standards for the design and installation of sprinkler systems: NFPA 13, Standard for the Installation of Sprinkler Systems; 20, Installation of Centrifugal Fire Pumps; 24, Installation of Private Fire Services Mains and Their Appurtenances; 231, General Storage and 231C, Rack Storage of Materials.</description>
-    </item>
-    
-    <item>
-      <title>Learn About Sustainable Building or Green Building</title>
-      <link>https://bdmeter.info/blog/2022/02/learn-about-sustainable-building-or-green-building/</link>
-      <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2022/02/learn-about-sustainable-building-or-green-building/</guid>
-      <description>What is a sustainable building? For your building to be sustainable, many factors need to be considered. These include air quality, energy
+From the initial terminology section, specific humidity YW = 0.02439 kg/kg, mole ratio z = 0.0402 kmol/kmol, mole fraction y = 0.</description></item><item><title>Greenhouse Gases and Renewable Energy</title><link>http://localhost:1314/blog/2022/08/greenhouse-gases-and-renewable-energy/</link><pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/08/greenhouse-gases-and-renewable-energy/</guid><description>Effect greenhouse What are greenhouse gases (GHG)? Greenhouse gases (GHGs) trap heat within the earth’s atmosphere, contributing to the ‘greenhouse’ effect and causing global warming. These gases include carbon dioxide, methane, nitrous oxide, and water vapor. Industry, including manufacturing, is the second largest global emitter of human-created GHGs. Much of industrial GHG emissions are due to the burning of fossil fuels for heat and power generation.
+Why should I care about GHGs?</description></item><item><title>Different types of Steel Grades</title><link>http://localhost:1314/blog/2022/07/different-types-of-steel-grades/</link><pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/07/different-types-of-steel-grades/</guid><description>Structural steel grades are referred to by their corresponding ASTM designation. For example, the most commonly used grade of structural steel is A36, which is produced to meet the requirements of the ASTM A36 specification. This grade offers a good mix of strength, weldability, and cost. In many designs, this specification alone will satisfy designers’ needs. Other specifications, such as A53 for pipe, provide an equivalent grade of steel for that type of product.</description></item><item><title>How To Design Your Building Against Earthquake</title><link>http://localhost:1314/blog/2022/06/how-to-design-your-building-against-earthquake/</link><pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/06/how-to-design-your-building-against-earthquake/</guid><description>Buildings should be designed to withstand minor earthquakes without damage, because they may occur almost everywhere. For major earthquakes, it may not be economical to prevent all damage but collapse should be precluded. Because an earthquake and a high wind are not likely to occur simultaneously, building codes usually do not require that buildings be designed for a combination of large seismic and wind loads. Thus, designers may assume that the full strength of wind bracing is also available to resist drift caused by earthquakes.</description></item><item><title>Textile In Civil Engineering: Geotextile</title><link>http://localhost:1314/blog/2022/03/textile-in-civil-engineering-geotextile/</link><pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/03/textile-in-civil-engineering-geotextile/</guid><description>Introduction to geotextiles Although skins, brushwood, and straw–mud composites have been used to improve the soft ground for many thousands of years, it is not realistic to refer to these as ‘geotextiles’. The important factor that separates them from modern geotextiles is that they cannot be made with specific and consistent properties. When modern polymers were developed in the mid 20th century, it became possible to create textiles with designed forecastable performance and to produce them in large quantities with statistically consistent and repeatable properties.</description></item><item><title>Learn About Environmental Biotechnology</title><link>http://localhost:1314/blog/2022/03/learn-about-environmental-biotechnology/</link><pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/03/learn-about-environmental-biotechnology/</guid><description>When modern industrialization started in the 19th century, many people migrated from the agricultural area to the big cities. Public hygiene became a major problem. Human excrement and waste was discharged into open channels, rivers, and lakes. The pollution was disastrous and hygiene-related epidemic diseases, like cholera and typhus, occurred frequently. Therefore, it was an important step forward when public water collection systems and treatment plants were introduced at the end of the 19th century.</description></item><item><title>Auto Sprinkler System Installation Guidelines</title><link>http://localhost:1314/blog/2022/02/auto-sprinkler-system-installation-guidelines/</link><pubDate>Sat, 26 Feb 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/02/auto-sprinkler-system-installation-guidelines/</guid><description>Automatic fire sprinkler systems have been protecting property in the United States since the late 1800s; in fact, the Standard for the Installation of Sprinkler Systems, 1896 was the first standard developed by the National Fire Protection Association (NFPA). Today the NFPA still develops the most widely accepted standards for the design and installation of sprinkler systems: NFPA 13, Standard for the Installation of Sprinkler Systems; 20, Installation of Centrifugal Fire Pumps; 24, Installation of Private Fire Services Mains and Their Appurtenances; 231, General Storage and 231C, Rack Storage of Materials.</description></item><item><title>Learn About Sustainable Building or Green Building</title><link>http://localhost:1314/blog/2022/02/learn-about-sustainable-building-or-green-building/</link><pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/02/learn-about-sustainable-building-or-green-building/</guid><description>What is a sustainable building? For your building to be sustainable, many factors need to be considered. These include air quality, energy
 efficiency, and the use of ‘green’ materials among others. This document focuses on 1) building a sustainable building 2) retrofitting and 3) certification.
-Why should I make my buildings sustainable? Apart from the environmental benefits, a sustainable building can reduce your operational costs by as much as 30-50% on your energy usage and 40-50% on your water usage.</description>
-    </item>
-    
-    <item>
-      <title>Industrial Smoke and Chemical Sensors Process Control</title>
-      <link>https://bdmeter.info/blog/2022/01/industrial-smoke-and-chemical-sensors-process-control/</link>
-      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2022/01/industrial-smoke-and-chemical-sensors-process-control/</guid>
-      <description>This article will help you understand and become familiar with other sensors that play a very important part in process control, but may not be encountered on a daily basis. The following are covered in this article:
+Why should I make my buildings sustainable? Apart from the environmental benefits, a sustainable building can reduce your operational costs by as much as 30-50% on your energy usage and 40-50% on your water usage.</description></item><item><title>Industrial Smoke and Chemical Sensors Process Control</title><link>http://localhost:1314/blog/2022/01/industrial-smoke-and-chemical-sensors-process-control/</link><pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/01/industrial-smoke-and-chemical-sensors-process-control/</guid><description>This article will help you understand and become familiar with other sensors that play a very important part in process control, but may not be encountered on a daily basis. The following are covered in this article:
 ■ Position, distance, velocity, and acceleration sensors
 ■ Rotation sensors using light and Hall effect sensors
 ■ Force, torque, load cells, and balances
-■ Smoke detectors, gas, and chemical sensors in the industry</description>
-    </item>
-    
-    <item>
-      <title>Corporate Resources Management</title>
-      <link>https://bdmeter.info/blog/2021/12/corporate-resources-management/</link>
-      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2021/12/corporate-resources-management/</guid>
-      <description>Energy Efficiency Reducing your energy consumption is a great way to reduce both costs and greenhouse gas emissions. Lowering your utility costs and reducing your environmental impact also helps your factory prepare for new policies and regulatory requirements, improve your competitive advantage and grow your business efficiently.
-Conducting an energy audit of your facilities is the best way to start. It will help you assess your energy usage and identify what you can do to lower energy consumption, including changes to behavior, equipment, and processes, and how much can be potentially saved.</description>
-    </item>
-    
-    <item>
-      <title>What is COP26 And Why Its Matter</title>
-      <link>https://bdmeter.info/blog/2021/11/what-is-cop26-and-why-its-matter/</link>
-      <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2021/11/what-is-cop26-and-why-its-matter/</guid>
-      <description>UK hosts a summit amongst United Nations countries to talk about global climate changes, how to tackle this situation and what necessary steps should take in immediate action is called COP26.
-It was a plan to host in Glasgow, in a city of Scotland in November 2020 last year and attend more than 200 world countries leader, but due to Coronavirus Pandemic, the COP26 program delayed more than a year.</description>
-    </item>
-    
-    <item>
-      <title>Building Design And Construction - Principals Of Architecture</title>
-      <link>https://bdmeter.info/blog/2021/10/building-design-and-construction-principals-of-architecture/</link>
-      <pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2021/10/building-design-and-construction-principals-of-architecture/</guid>
-      <description>Sociological changes, new technology in industry and commerce, new building codes, other new laws and regulations, inflationary economies of nations, and advances in building technology place an ever-increasing burden on building designers and constructors. They need more and more knowledge and skill to cope with the demands placed on them.
-The public continually demands more complex buildings than in the past. They must serve more purposes, last longer, and require less maintenance and repair.</description>
-    </item>
-    
-    <item>
-      <title>Stunning Beautiful City Of Khulna</title>
-      <link>https://bdmeter.info/blog/2021/09/stunning-beautiful-city-of-khulna/</link>
-      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2021/09/stunning-beautiful-city-of-khulna/</guid>
-      <description>khulna is the third largest city of Bangladesh after Dhaka city and Chittagong City. Khulna is very old city and third largest economy area of Bangladesh out of others division. Khulna is most popular worldwide for largest mangrove forest specially for grand Royal Bengal tigers, the beautiful Sundari 🌴 tress and stunning beauty of green mangrove forests. Khulna is the second largest sea port city of Bangladesh. All imported cars, vehicles, heavy weight vehicles and carrier oil tanks, cargos entrance from Mongla port situated in khulna city.</description>
-    </item>
-    
-    <item>
-      <title>A list of Government Ministry and Divisions of Bangladesh</title>
-      <link>https://bdmeter.info/blog/2021/08/a-list-of-government-ministry-and-divisions-of-bangladesh/</link>
-      <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2021/08/a-list-of-government-ministry-and-divisions-of-bangladesh/</guid>
-      <description>Download a list of 58 Govt. Ministry and Divisions of Bangladesh.
+■ Smoke detectors, gas, and chemical sensors in the industry</description></item><item><title>Corporate Resources Management</title><link>http://localhost:1314/blog/2021/12/corporate-resources-management/</link><pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/12/corporate-resources-management/</guid><description>Energy Efficiency Reducing your energy consumption is a great way to reduce both costs and greenhouse gas emissions. Lowering your utility costs and reducing your environmental impact also helps your factory prepare for new policies and regulatory requirements, improve your competitive advantage and grow your business efficiently.
+Conducting an energy audit of your facilities is the best way to start. It will help you assess your energy usage and identify what you can do to lower energy consumption, including changes to behavior, equipment, and processes, and how much can be potentially saved.</description></item><item><title>What is COP26 And Why Its Matter</title><link>http://localhost:1314/blog/2021/11/what-is-cop26-and-why-its-matter/</link><pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/11/what-is-cop26-and-why-its-matter/</guid><description>UK hosts a summit amongst United Nations countries to talk about global climate changes, how to tackle this situation and what necessary steps should take in immediate action is called COP26.
+It was a plan to host in Glasgow, in a city of Scotland in November 2020 last year and attend more than 200 world countries leader, but due to Coronavirus Pandemic, the COP26 program delayed more than a year.</description></item><item><title>Building Design And Construction - Principals Of Architecture</title><link>http://localhost:1314/blog/2021/10/building-design-and-construction-principals-of-architecture/</link><pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/10/building-design-and-construction-principals-of-architecture/</guid><description>Sociological changes, new technology in industry and commerce, new building codes, other new laws and regulations, inflationary economies of nations, and advances in building technology place an ever-increasing burden on building designers and constructors. They need more and more knowledge and skill to cope with the demands placed on them.
+The public continually demands more complex buildings than in the past. They must serve more purposes, last longer, and require less maintenance and repair.</description></item><item><title>Stunning Beautiful City Of Khulna</title><link>http://localhost:1314/blog/2021/09/stunning-beautiful-city-of-khulna/</link><pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/09/stunning-beautiful-city-of-khulna/</guid><description>khulna is the third largest city of Bangladesh after Dhaka city and Chittagong City. Khulna is very old city and third largest economy area of Bangladesh out of others division. Khulna is most popular worldwide for largest mangrove forest specially for grand Royal Bengal tigers, the beautiful Sundari 🌴 tress and stunning beauty of green mangrove forests. Khulna is the second largest sea port city of Bangladesh. All imported cars, vehicles, heavy weight vehicles and carrier oil tanks, cargos entrance from Mongla port situated in khulna city.</description></item><item><title>A list of Government Ministry and Divisions of Bangladesh</title><link>http://localhost:1314/blog/2021/08/a-list-of-government-ministry-and-divisions-of-bangladesh/</link><pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/08/a-list-of-government-ministry-and-divisions-of-bangladesh/</guid><description>Download a list of 58 Govt. Ministry and Divisions of Bangladesh.
 The country is Bangladesh, the Capital city is Dhaka. Bangladesh has a total of 58 government ministries and divisions. Bangladesh Prime Minister name is Sheikh Hasina, daughter of the father of nation Sheikh Mujibor Rahman. Bangladesh has a total of 8 divisions, 64 sub-division, 492 Upuzila, and 4554 Union.
-A full list of Bangladesh Ministry and Divisions: Download Here</description>
-    </item>
-    
-    <item>
-      <title>Manual process to slaughter cows to get fresh meat</title>
-      <link>https://bdmeter.info/blog/2021/07/manual-process-to-slaughter-cows-to-get-fresh-meat/</link>
-      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2021/07/manual-process-to-slaughter-cows-to-get-fresh-meat/</guid>
-      <description>ইসলামী আইনে গরু/ চতুষ্পদ জন্তু হালাল উপায়ে জবাই করা অত্যাবশ্যক। গরু হালাল জবাই মুসলিমদের জন্য গ্রহণযোগ্য একমাত্র পদ্ধতি। হালাল জবাইয়ের সংক্ষিপ্ত বিবরণ:
+A full list of Bangladesh Ministry and Divisions: Download Here</description></item><item><title>Manual process to slaughter cows to get fresh meat</title><link>http://localhost:1314/blog/2021/07/manual-process-to-slaughter-cows-to-get-fresh-meat/</link><pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/07/manual-process-to-slaughter-cows-to-get-fresh-meat/</guid><description>ইসলামী আইনে গরু/ চতুষ্পদ জন্তু হালাল উপায়ে জবাই করা অত্যাবশ্যক। গরু হালাল জবাই মুসলিমদের জন্য গ্রহণযোগ্য একমাত্র পদ্ধতি। হালাল জবাইয়ের সংক্ষিপ্ত বিবরণ:
 ১. কুরবানীর জন্য জবাই করতে হবে এমন চতুষ্পদ জন্তু যা মুসলমানদের খাওয়ার জন্য অনুমতিপ্রাপ্ত।
 ২. জবাইয়ের সময় অবশ্যই জীবিত থাকতে হবে।
 হালাল উপায়ে পশু কোরবানি পদ্ধতি
-৩. ধারালো ছুরি ব্যবহার করে জবাই করতে হবে। এমন ছুরি ব্যাবহার করা যাবেনা যার ওজন বেশি এবং ওজনের ভারেই জবাই হয়ে যেতে পারে। যদি ছুটির ওজনের প্রভাবে জবাই করা হয়, তবে সেই মাংস খাওয়া যাবেনা ।</description>
-    </item>
-    
-    <item>
-      <title>Compliance and Sustainability: Conflict Minerals</title>
-      <link>https://bdmeter.info/blog/2021/03/compliance-and-sustainability-conflict-minerals/</link>
-      <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2021/03/compliance-and-sustainability-conflict-minerals/</guid>
-      <description>Learn About Conflict Minerals US guidelines for vendor compliance and sustainability
+৩. ধারালো ছুরি ব্যবহার করে জবাই করতে হবে। এমন ছুরি ব্যাবহার করা যাবেনা যার ওজন বেশি এবং ওজনের ভারেই জবাই হয়ে যেতে পারে। যদি ছুটির ওজনের প্রভাবে জবাই করা হয়, তবে সেই মাংস খাওয়া যাবেনা ।</description></item><item><title>Compliance and Sustainability: Conflict Minerals</title><link>http://localhost:1314/blog/2021/03/compliance-and-sustainability-conflict-minerals/</link><pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/03/compliance-and-sustainability-conflict-minerals/</guid><description>Learn About Conflict Minerals US guidelines for vendor compliance and sustainability
 Index:
-What are Conflict Minerals? Conflict Minerals in Products US Conflict Minerals Laws Auditing and Reporting Requirements Customer’s expectations Continuous Tracking Tracing workflow Reporting – CFSI Beyond USA What are Conflict Minerals? Conflict Minerals refer to raw materials that come from a particular part of the world where conflict is occurring and trading of those materials, perpetuates the fighting. Conflict minerals are mined in conditions of armed conflict and human rights abuses, notably in the Democratic Republic of Congo.</description>
-    </item>
-    
-    <item>
-      <title>Sello oil in Altoona PA on 12 Feb 2021</title>
-      <link>https://bdmeter.info/blog/2021/02/sello-oil-in-altoona-pa-on-12-feb-2021/</link>
-      <pubDate>Fri, 12 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2021/02/sello-oil-in-altoona-pa-on-12-feb-2021/</guid>
-      <description>Sello Oil price update on 12 Feb 2021 What is sello oil? Sello oil (Sel-Lo Oil) is a fuel supplier and distributor in Altoona, PA, United States of America. They deliver different kinds of fuel like Ultra-low-sulfur diesel oil (Dyed ULSD), blended fuel, kerosene fuel, and heating oil. Sello Oil company established in 1988 has been operated by a family in central Pennsylvania. Sello oil company is one of the largest heating oil distributors in central Pennsylvania.</description>
-    </item>
-    
-    <item>
-      <title>26 Canal renovation and management : Dhaka city</title>
-      <link>https://bdmeter.info/blog/2021/01/26-canal-renovation-and-management-dhaka-city/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2021/01/26-canal-renovation-and-management-dhaka-city/</guid>
-      <description>The capital&amp;rsquo;s city enterprises yesterday officially assumed control over the administration and support obligations of 26 channels and 10 kilometres of box ducts from Dhaka Wasa, raising expectation that the city&amp;rsquo;s long-standing water logging issue would be addressed.
-Dhaka Water Supply and Sewerage Authority (Wasa) had been answerable for the 26 trenches (84.5km) and the 10 box ducts (around 10km) since 1988. It additionally takes care of 385km of tempest water waste.</description>
-    </item>
-    
-    <item>
-      <title>We need a strong global climate alliance to save our planet: Joe Biden</title>
-      <link>https://bdmeter.info/blog/2020/12/we-need-a-strong-global-climate-alliance-to-save-our-planet-joe-biden/</link>
-      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2020/12/we-need-a-strong-global-climate-alliance-to-save-our-planet-joe-biden/</guid>
-      <description>Prime Minister Sheikh Hasina has said that a strong global climate alliance is urgently needed to save future generations and the planet from the adverse effects of climate change by reducing carbon emissions.
+What are Conflict Minerals? Conflict Minerals in Products US Conflict Minerals Laws Auditing and Reporting Requirements Customer’s expectations Continuous Tracking Tracing workflow Reporting – CFSI Beyond USA What are Conflict Minerals? Conflict Minerals refer to raw materials that come from a particular part of the world where conflict is occurring and trading of those materials, perpetuates the fighting. Conflict minerals are mined in conditions of armed conflict and human rights abuses, notably in the Democratic Republic of Congo.</description></item><item><title>Sello oil in Altoona PA on 12 Feb 2021</title><link>http://localhost:1314/blog/2021/02/sello-oil-in-altoona-pa-on-12-feb-2021/</link><pubDate>Fri, 12 Feb 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/02/sello-oil-in-altoona-pa-on-12-feb-2021/</guid><description>Sello Oil price update on 12 Feb 2021 What is sello oil? Sello oil (Sel-Lo Oil) is a fuel supplier and distributor in Altoona, PA, United States of America. They deliver different kinds of fuel like Ultra-low-sulfur diesel oil (Dyed ULSD), blended fuel, kerosene fuel, and heating oil. Sello Oil company established in 1988 has been operated by a family in central Pennsylvania. Sello oil company is one of the largest heating oil distributors in central Pennsylvania.</description></item><item><title>26 Canal renovation and management : Dhaka city</title><link>http://localhost:1314/blog/2021/01/26-canal-renovation-and-management-dhaka-city/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/01/26-canal-renovation-and-management-dhaka-city/</guid><description>The capital&amp;rsquo;s city enterprises yesterday officially assumed control over the administration and support obligations of 26 channels and 10 kilometres of box ducts from Dhaka Wasa, raising expectation that the city&amp;rsquo;s long-standing water logging issue would be addressed.
+Dhaka Water Supply and Sewerage Authority (Wasa) had been answerable for the 26 trenches (84.5km) and the 10 box ducts (around 10km) since 1988. It additionally takes care of 385km of tempest water waste.</description></item><item><title>We need a strong global climate alliance to save our planet: Joe Biden</title><link>http://localhost:1314/blog/2020/12/we-need-a-strong-global-climate-alliance-to-save-our-planet-joe-biden/</link><pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2020/12/we-need-a-strong-global-climate-alliance-to-save-our-planet-joe-biden/</guid><description>Prime Minister Sheikh Hasina has said that a strong global climate alliance is urgently needed to save future generations and the planet from the adverse effects of climate change by reducing carbon emissions.
 She said he would like to emphasize the importance of a positive and strong international climate alliance to move towards achieving carbon balance by effectively reducing global carbon emissions before the middle of the century.
-This was stated by the Prime Minister in a pre-recorded speech at a virtual conference titled &amp;lsquo;Thimphu Ambition Summit&amp;rsquo; aimed at accelerating the pace of globalization by 1.</description>
-    </item>
-    
-    <item>
-      <title>We can&#39;t put understudies&#39; lives in danger by resuming schools: Joe Biden</title>
-      <link>https://bdmeter.info/blog/2020/11/we-cant-put-understudies-lives-in-danger-by-resuming-schools-joe-biden/</link>
-      <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2020/11/we-cant-put-understudies-lives-in-danger-by-resuming-schools-joe-biden/</guid>
-      <description>The instructive foundations are not returning now in the midst of the Covid flare-up, as indicated by President Joe Biden.
+This was stated by the Prime Minister in a pre-recorded speech at a virtual conference titled &amp;lsquo;Thimphu Ambition Summit&amp;rsquo; aimed at accelerating the pace of globalization by 1.</description></item><item><title>We can't put understudies' lives in danger by resuming schools: Joe Biden</title><link>http://localhost:1314/blog/2020/11/we-cant-put-understudies-lives-in-danger-by-resuming-schools-joe-biden/</link><pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2020/11/we-cant-put-understudies-lives-in-danger-by-resuming-schools-joe-biden/</guid><description>The instructive foundations are not returning now in the midst of the Covid flare-up, as indicated by President Joe Biden.
 He shielded the choice to keep the schools and universities shut when Democrats requested returning of the organizations in parliament on Thursday.
-&amp;ldquo;Schools and universities have been shut since March and the public authority has dispatched an &amp;lsquo;auto-pass&amp;rsquo; framework while workplaces and courts have stayed open. I don&amp;rsquo;t perceive any rationale in keeping just the instructive organizations shut,&amp;rdquo; said the representative head of the resistance in parliament.</description>
-    </item>
-    
-  </channel>
-</rss>
+&amp;ldquo;Schools and universities have been shut since March and the public authority has dispatched an &amp;lsquo;auto-pass&amp;rsquo; framework while workplaces and courts have stayed open. I don&amp;rsquo;t perceive any rationale in keeping just the instructive organizations shut,&amp;rdquo; said the representative head of the resistance in parliament.</description></item></channel></rss>

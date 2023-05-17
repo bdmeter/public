@@ -1,22 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>killing on Bdmeter</title>
-    <link>https://bdmeter.info/tags/killing/</link>
-    <description>Recent content in killing on Bdmeter</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [GOISP](https://goisp.net). All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 26 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://bdmeter.info/tags/killing/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>28 domestic workers killed , tortured in 9months : speakers</title>
-      <link>https://bdmeter.info/blog/2020/11/28-domestic-workers-killed-tortured-in-9months-speakers/</link>
-      <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2020/11/28-domestic-workers-killed-tortured-in-9months-speakers/</guid>
-      <description>Speaker at a seminar said 28 domestic workers were killed and tortured including 10 mysterious death.
-In the first nine months of this year.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>killing on Bdmeter</title><link>http://localhost:1314/tags/killing/</link><description>Recent content in killing on Bdmeter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright><lastBuildDate>Thu, 26 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/tags/killing/index.xml" rel="self" type="application/rss+xml"/><item><title>28 domestic workers killed , tortured in 9months : speakers</title><link>http://localhost:1314/blog/2020/11/28-domestic-workers-killed-tortured-in-9months-speakers/</link><pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2020/11/28-domestic-workers-killed-tortured-in-9months-speakers/</guid><description>Speaker at a seminar said 28 domestic workers were killed and tortured including 10 mysterious death.
+In the first nine months of this year.</description></item></channel></rss>

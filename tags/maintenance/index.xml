@@ -1,32 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>maintenance on Bdmeter</title>
-    <link>https://bdmeter.info/tags/maintenance/</link>
-    <description>Recent content in maintenance on Bdmeter</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [GOISP](https://goisp.net). All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 08 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bdmeter.info/tags/maintenance/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Textile Sewing Machine Maintenance Checklist</title>
-      <link>https://bdmeter.info/blog/2022/07/textile-sewing-machine-maintenance-checklist/</link>
-      <pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2022/07/textile-sewing-machine-maintenance-checklist/</guid>
-      <description>This article is about learning how to prepare a textile/garment sewing process maintenance checklist and the way to accomplish this procedure as periodic maintenance.
-SEWING MAINTENANCE CHECKLIST Many Retail, Brand-name Marketing, Mail Order, and Sourcing Companies are visiting existing and potential Contractor sewing facilities and evaluating their sewing capabilities for producing quality products for their customers. In many cases, they even rate the vendor and give the plant a grade based on their observations during their visit.</description>
-    </item>
-    
-    <item>
-      <title>Standard Operating Procedure of A Small Business</title>
-      <link>https://bdmeter.info/blog/2021/02/standard-operating-procedure-of-a-small-business/</link>
-      <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2021/02/standard-operating-procedure-of-a-small-business/</guid>
-      <description>A Standard Operating Procedure or [SOP](https://en.wikipedia.org/wiki/Standard_operating_procedure#:~:text=A%20standard%20operating%20procedure%20(SOP,to%20comply%20with%20industry%20regulations.) means is structured documentation that provides step-by-step guidelines and instructions on how to do a particular business activity, such as production or record keeping. We need SOP in a company with different operations in different areas.
-Example of business operating procedure manual: Standard operating procedures or SOP needs to develop as a structured documented office word or pdf file and manual printed copy for management approval.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>maintenance on Bdmeter</title><link>http://localhost:1314/tags/maintenance/</link><description>Recent content in maintenance on Bdmeter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright><lastBuildDate>Fri, 08 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/tags/maintenance/index.xml" rel="self" type="application/rss+xml"/><item><title>Textile Sewing Machine Maintenance Checklist</title><link>http://localhost:1314/blog/2022/07/textile-sewing-machine-maintenance-checklist/</link><pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/07/textile-sewing-machine-maintenance-checklist/</guid><description>This article is about learning how to prepare a textile/garment sewing process maintenance checklist and the way to accomplish this procedure as periodic maintenance.
+SEWING MAINTENANCE CHECKLIST Many Retail, Brand-name Marketing, Mail Order, and Sourcing Companies are visiting existing and potential Contractor sewing facilities and evaluating their sewing capabilities for producing quality products for their customers. In many cases, they even rate the vendor and give the plant a grade based on their observations during their visit.</description></item><item><title>Standard Operating Procedure of A Small Business</title><link>http://localhost:1314/blog/2021/02/standard-operating-procedure-of-a-small-business/</link><pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/02/standard-operating-procedure-of-a-small-business/</guid><description>A Standard Operating Procedure or [SOP](https://en.wikipedia.org/wiki/Standard_operating_procedure#:~:text=A%20standard%20operating%20procedure%20(SOP,to%20comply%20with%20industry%20regulations.) means is structured documentation that provides step-by-step guidelines and instructions on how to do a particular business activity, such as production or record keeping. We need SOP in a company with different operations in different areas.
+Example of business operating procedure manual: Standard operating procedures or SOP needs to develop as a structured documented office word or pdf file and manual printed copy for management approval.</description></item></channel></rss>

@@ -1,28 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>printing-factory on Bdmeter</title>
-    <link>https://bdmeter.info/tags/printing-factory/</link>
-    <description>Recent content in printing-factory on Bdmeter</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [GOISP](https://goisp.net). All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bdmeter.info/tags/printing-factory/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Garment Printing Capacity Calculation Process</title>
-      <link>https://bdmeter.info/blog/2021/03/garment-printing-capacity-calculation-process/</link>
-      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2021/03/garment-printing-capacity-calculation-process/</guid>
-      <description>Print Production capacity calculation Area: Screen Printing (Machine &amp;amp; manual)
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>printing-factory on Bdmeter</title><link>http://localhost:1314/tags/printing-factory/</link><description>Recent content in printing-factory on Bdmeter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright><lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/tags/printing-factory/index.xml" rel="self" type="application/rss+xml"/><item><title>Garment Printing Capacity Calculation Process</title><link>http://localhost:1314/blog/2021/03/garment-printing-capacity-calculation-process/</link><pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/03/garment-printing-capacity-calculation-process/</guid><description>Print Production capacity calculation Area: Screen Printing (Machine &amp;amp; manual)
 Objectives: To identify printing machine production capacity and set printing target plan to achieve ultimate goal.
 Machine type:
 Name: M&amp;amp;R Printing machine No of Wings: 10 wings Machine quantity: 01 pc
 Table type: Properties: Artificial leather &amp;amp; Glass
 No. of table: 12 tables Average color: 06 color
 Average printing area: (8*8) sq. inch
-Printing Capacity calculation: For manual printing (Table),</description>
-    </item>
-    
-  </channel>
-</rss>
+Printing Capacity calculation: For manual printing (Table),</description></item></channel></rss>

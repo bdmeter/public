@@ -1,93 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Guide on Bdmeter</title>
-    <link>https://bdmeter.info/series/guide/</link>
-    <description>Recent content in Guide on Bdmeter</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [GOISP](https://goisp.net). All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 16 Oct 2022 22:42:23 +0800</lastBuildDate><atom:link href="https://bdmeter.info/series/guide/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Industrial financial plan</title>
-      <link>https://bdmeter.info/docs/installation/industry/financial-plan/</link>
-      <pubDate>Sun, 16 Oct 2022 22:42:23 +0800</pubDate>
-      
-      <guid>https://bdmeter.info/docs/installation/industry/financial-plan/</guid>
-      <description>Learn how to prepare financial plan to setup a new industry with Bdmeter
-coming soon! </description>
-    </item>
-    
-    <item>
-      <title>Industrial management installation guide</title>
-      <link>https://bdmeter.info/docs/installation/management/industrial-management/</link>
-      <pubDate>Sun, 16 Oct 2022 22:42:23 +0800</pubDate>
-      
-      <guid>https://bdmeter.info/docs/installation/management/industrial-management/</guid>
-      <description>Learn about industrial management installation
-coming soon! </description>
-    </item>
-    
-    <item>
-      <title>Building guide</title>
-      <link>https://bdmeter.info/docs/installation/building/</link>
-      <pubDate>Tue, 06 Sep 2022 22:42:23 +0800</pubDate>
-      
-      <guid>https://bdmeter.info/docs/installation/building/</guid>
-      <description>Step by step installation process of a building. This guide of installation of a building will help us to know how to build small to large scale category building by self.
-coming soon.. </description>
-    </item>
-    
-    <item>
-      <title>Safety installation guide</title>
-      <link>https://bdmeter.info/docs/installation/safety/</link>
-      <pubDate>Tue, 06 Sep 2022 22:42:23 +0800</pubDate>
-      
-      <guid>https://bdmeter.info/docs/installation/safety/</guid>
-      <description>Learn how to install safety plan for your home and industry
-coming soon! </description>
-    </item>
-    
-    <item>
-      <title>Business plan guide</title>
-      <link>https://bdmeter.info/docs/installation/industry/business-plan/</link>
-      <pubDate>Sun, 04 Sep 2022 22:42:23 +0800</pubDate>
-      
-      <guid>https://bdmeter.info/docs/installation/industry/business-plan/</guid>
-      <description>This guide show you how to create a business plan initially to develop a industry.
-coming soon! </description>
-    </item>
-    
-    <item>
-      <title>Corporate management installation guide</title>
-      <link>https://bdmeter.info/docs/installation/management/corporate-management/</link>
-      <pubDate>Sun, 04 Sep 2022 22:42:23 +0800</pubDate>
-      
-      <guid>https://bdmeter.info/docs/installation/management/corporate-management/</guid>
-      <description>Learn about installation of corporate management for your business
-coming soon! </description>
-    </item>
-    
-    <item>
-      <title>Standard Operations Guide</title>
-      <link>https://bdmeter.info/docs/operations/</link>
-      <pubDate>Sun, 06 Mar 2022 22:42:23 +0800</pubDate>
-      
-      <guid>https://bdmeter.info/docs/operations/</guid>
-      <description>&lt;p&gt;This guide will help us to learn about different business and industrial operations&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;coming soon!&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    
-    <item>
-      <title>Example Post with an Featured Image</title>
-      <link>https://bdmeter.info/blog/2022/02/example-post-with-an-featured-image/</link>
-      <pubDate>Fri, 04 Feb 2022 20:26:48 +0800</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2022/02/example-post-with-an-featured-image/</guid>
-      <description>&lt;p&gt;The example post with an featured image.&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Guide on Bdmeter</title><link>http://localhost:1314/series/guide/</link><description>Recent content in Guide on Bdmeter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright><lastBuildDate>Sun, 16 Oct 2022 22:42:23 +0800</lastBuildDate><atom:link href="http://localhost:1314/series/guide/index.xml" rel="self" type="application/rss+xml"/><item><title>The Industrial Revolution: A Transformational Era Shaping Our Modern World</title><link>http://localhost:1314/docs/installation/industry/industry-revolution/</link><pubDate>Tue, 16 May 2023 22:42:23 +0800</pubDate><guid>http://localhost:1314/docs/installation/industry/industry-revolution/</guid><description>The Industrial Revolution stands as a turning point in human history, marking a radical shift from agrarian societies to industrialized nations. Spanning from the late 18th to the early 19th century, this transformative period brought about profound changes in technology, manufacturing, transportation, and society at large. In this 15,000-word blog, we will delve into the various facets of the Industrial Revolution, exploring its causes, impact, and lasting legacy.
+I. Prelude to Change: The Factors Igniting the Industrial Revolution 1.</description></item><item><title>Industrial financial plan</title><link>http://localhost:1314/docs/installation/industry/financial-plan/</link><pubDate>Sun, 16 Oct 2022 22:42:23 +0800</pubDate><guid>http://localhost:1314/docs/installation/industry/financial-plan/</guid><description>Learn how to prepare financial plan to setup a new industry with Bdmeter
+coming soon!</description></item><item><title>Industrial management installation guide</title><link>http://localhost:1314/docs/installation/management/industrial-management/</link><pubDate>Sun, 16 Oct 2022 22:42:23 +0800</pubDate><guid>http://localhost:1314/docs/installation/management/industrial-management/</guid><description>Learn about industrial management installation
+coming soon!</description></item><item><title>Building guide</title><link>http://localhost:1314/docs/installation/building/</link><pubDate>Tue, 06 Sep 2022 22:42:23 +0800</pubDate><guid>http://localhost:1314/docs/installation/building/</guid><description>Step by step installation process of a building. This guide of installation of a building will help us to know how to build small to large scale category building by self.
+coming soon..</description></item><item><title>Safety installation guide</title><link>http://localhost:1314/docs/installation/safety/</link><pubDate>Tue, 06 Sep 2022 22:42:23 +0800</pubDate><guid>http://localhost:1314/docs/installation/safety/</guid><description>Learn how to install safety plan for your home and industry
+coming soon!</description></item><item><title>Business plan guide</title><link>http://localhost:1314/docs/installation/industry/business-plan/</link><pubDate>Sun, 04 Sep 2022 22:42:23 +0800</pubDate><guid>http://localhost:1314/docs/installation/industry/business-plan/</guid><description>This guide show you how to create a business plan initially to develop a industry.
+coming soon!</description></item><item><title>Corporate management installation guide</title><link>http://localhost:1314/docs/installation/management/corporate-management/</link><pubDate>Sun, 04 Sep 2022 22:42:23 +0800</pubDate><guid>http://localhost:1314/docs/installation/management/corporate-management/</guid><description>Learn about installation of corporate management for your business
+coming soon!</description></item><item><title>Standard Operations Guide</title><link>http://localhost:1314/docs/operations/</link><pubDate>Sun, 06 Mar 2022 22:42:23 +0800</pubDate><guid>http://localhost:1314/docs/operations/</guid><description>&lt;p>This guide will help us to learn about different business and industrial operations&lt;/p>
+&lt;ul>
+&lt;li>coming soon!&lt;/li>
+&lt;/ul></description></item><item><title>Example Post with an Featured Image</title><link>http://localhost:1314/blog/2022/02/example-post-with-an-featured-image/</link><pubDate>Fri, 04 Feb 2022 20:26:48 +0800</pubDate><guid>http://localhost:1314/blog/2022/02/example-post-with-an-featured-image/</guid><description>&lt;p>The example post with an featured image.&lt;/p></description></item></channel></rss>

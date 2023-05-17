@@ -1,200 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>information on Bdmeter</title>
-    <link>https://bdmeter.info/categories/information/</link>
-    <description>Recent content in information on Bdmeter</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [GOISP](https://goisp.net). All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 31 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bdmeter.info/categories/information/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Determination of Moist Air Properties</title>
-      <link>https://bdmeter.info/blog/2023/03/determination-of-moist-air-properties/</link>
-      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2023/03/determination-of-moist-air-properties/</guid>
-      <description>An air-water mixture is found from the heat and mass balance to be at 60°C (333 K) and 0.025 kg/kg (25 g/kg) absolute humidity. Calculate the other main parameters for the mixture. Take atmospheric pressure as 101,325 Pa.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>information on Bdmeter</title><link>http://localhost:1314/categories/information/</link><description>Recent content in information on Bdmeter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright><lastBuildDate>Fri, 31 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/categories/information/index.xml" rel="self" type="application/rss+xml"/><item><title>Determination of Moist Air Properties</title><link>http://localhost:1314/blog/2023/03/determination-of-moist-air-properties/</link><pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2023/03/determination-of-moist-air-properties/</guid><description>An air-water mixture is found from the heat and mass balance to be at 60°C (333 K) and 0.025 kg/kg (25 g/kg) absolute humidity. Calculate the other main parameters for the mixture. Take atmospheric pressure as 101,325 Pa.
 Method: Consult item (vi) in Table 12-5 for the calculation methodology.
-From the initial terminology section, specific humidity YW = 0.02439 kg/kg, mole ratio z = 0.0402 kmol/kmol, mole fraction y = 0.</description>
-    </item>
-    
-    <item>
-      <title>Combating human trafficking and forced labor</title>
-      <link>https://bdmeter.info/blog/2023/01/combating-human-trafficking-and-forced-labor/</link>
-      <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2023/01/combating-human-trafficking-and-forced-labor/</guid>
-      <description>KEY ISSUES What is human trafficking &amp;amp; forced labor?
+From the initial terminology section, specific humidity YW = 0.02439 kg/kg, mole ratio z = 0.0402 kmol/kmol, mole fraction y = 0.</description></item><item><title>Combating human trafficking and forced labor</title><link>http://localhost:1314/blog/2023/01/combating-human-trafficking-and-forced-labor/</link><pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2023/01/combating-human-trafficking-and-forced-labor/</guid><description>KEY ISSUES What is human trafficking &amp;amp; forced labor?
 The challenge and response, including the California Transparency
 Supply Chain Act and what LF is doing
 Risks for global supply chains
 Red flags and indicators of potential human trafficking &amp;amp; forced labor
 Detecting and addressing potential instances of human trafficking &amp;amp; forced labor
-WHAT IS HUMAN TRAFFICKING &amp;amp; FORCED LABOR? WHAT IS HUMAN TRAFFICKING? “The illegal trade of human beings for the purposes of exploitation forced labor and slavery.</description>
-    </item>
-    
-    <item>
-      <title>What&#39;s Khulnaflix</title>
-      <link>https://bdmeter.info/blog/2022/12/whats-khulnaflix/</link>
-      <pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2022/12/whats-khulnaflix/</guid>
-      <description>Khulnaflix is an FTP server in the southeast region of Asia, Khulna BD. Its total size is more than thousands of gigabyte and khulnaflix have millions of happy customers locally. Khulnaflix&amp;rsquo;s name came from the city name Khulna and flix came from the media entertainment place online. So, Khulnaflix comes into life for Khulna and BD as well as all over the world from Khulna. Khulnaflix has better streaming and quality movies live streaming.</description>
-    </item>
-    
-    <item>
-      <title>Learn how to protect your building against wind, storm, or tornado</title>
-      <link>https://bdmeter.info/blog/2022/11/learn-how-to-protect-your-building-against-wind-storm-or-tornado/</link>
-      <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2022/11/learn-how-to-protect-your-building-against-wind-storm-or-tornado/</guid>
-      <description>For practical design, wind and earthquakes may be treated as horizontal, or lateral, loads. Although wind and seismic loads may have vertical components, these generally are small and readily resisted by columns and bearing walls. Vertical earthquake components can be important in the design of connections as in precast concrete structures. Wind often generates significant uplift forces that require special attention to vertical restraint and lateral support for members in reverse bending.</description>
-    </item>
-    
-    <item>
-      <title>Building construction protection against water, flood, and heavy rainfall</title>
-      <link>https://bdmeter.info/blog/2022/11/building-construction-protection-against-water-flood-and-heavy-rainfall/</link>
-      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2022/11/building-construction-protection-against-water-flood-and-heavy-rainfall/</guid>
-      <description>PROTECTION AGAINST WATER Whether thrust against and into a building by a flood, driven into the interior by heavy rain, leaking from plumbing, storm surge, or seeping through the exterior enclosure, water can cause costly damage to a building. Consequently, designers should protect buildings and their contents against water damage.
-Protective measures may be divided into two classes: floodproofing and waterproofing. Floodproofing provides protection against flowing surface water, commonly caused by a river overflowing its banks.</description>
-    </item>
-    
-    <item>
-      <title>Learn About Sustainable Building or Green Building</title>
-      <link>https://bdmeter.info/blog/2022/02/learn-about-sustainable-building-or-green-building/</link>
-      <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2022/02/learn-about-sustainable-building-or-green-building/</guid>
-      <description>What is a sustainable building? For your building to be sustainable, many factors need to be considered. These include air quality, energy
+WHAT IS HUMAN TRAFFICKING &amp;amp; FORCED LABOR? WHAT IS HUMAN TRAFFICKING? “The illegal trade of human beings for the purposes of exploitation forced labor and slavery.</description></item><item><title>What's Khulnaflix</title><link>http://localhost:1314/blog/2022/12/whats-khulnaflix/</link><pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/12/whats-khulnaflix/</guid><description>Khulnaflix is an FTP server in the southeast region of Asia, Khulna BD. Its total size is more than thousands of gigabyte and khulnaflix have millions of happy customers locally. Khulnaflix&amp;rsquo;s name came from the city name Khulna and flix came from the media entertainment place online. So, Khulnaflix comes into life for Khulna and BD as well as all over the world from Khulna. Khulnaflix has better streaming and quality movies live streaming.</description></item><item><title>Learn how to protect your building against wind, storm, or tornado</title><link>http://localhost:1314/blog/2022/11/learn-how-to-protect-your-building-against-wind-storm-or-tornado/</link><pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/11/learn-how-to-protect-your-building-against-wind-storm-or-tornado/</guid><description>For practical design, wind and earthquakes may be treated as horizontal, or lateral, loads. Although wind and seismic loads may have vertical components, these generally are small and readily resisted by columns and bearing walls. Vertical earthquake components can be important in the design of connections as in precast concrete structures. Wind often generates significant uplift forces that require special attention to vertical restraint and lateral support for members in reverse bending.</description></item><item><title>Building construction protection against water, flood, and heavy rainfall</title><link>http://localhost:1314/blog/2022/11/building-construction-protection-against-water-flood-and-heavy-rainfall/</link><pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/11/building-construction-protection-against-water-flood-and-heavy-rainfall/</guid><description>PROTECTION AGAINST WATER Whether thrust against and into a building by a flood, driven into the interior by heavy rain, leaking from plumbing, storm surge, or seeping through the exterior enclosure, water can cause costly damage to a building. Consequently, designers should protect buildings and their contents against water damage.
+Protective measures may be divided into two classes: floodproofing and waterproofing. Floodproofing provides protection against flowing surface water, commonly caused by a river overflowing its banks.</description></item><item><title>Learn About Sustainable Building or Green Building</title><link>http://localhost:1314/blog/2022/02/learn-about-sustainable-building-or-green-building/</link><pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/02/learn-about-sustainable-building-or-green-building/</guid><description>What is a sustainable building? For your building to be sustainable, many factors need to be considered. These include air quality, energy
 efficiency, and the use of ‘green’ materials among others. This document focuses on 1) building a sustainable building 2) retrofitting and 3) certification.
-Why should I make my buildings sustainable? Apart from the environmental benefits, a sustainable building can reduce your operational costs by as much as 30-50% on your energy usage and 40-50% on your water usage.</description>
-    </item>
-    
-    <item>
-      <title>Industrial Fire Safety Management System</title>
-      <link>https://bdmeter.info/blog/2022/02/industrial-fire-safety-management-system/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2022/02/industrial-fire-safety-management-system/</guid>
-      <description>This article will help you to learn about industrial fire safety management system implementation, analysis, and inspection systems to install fire safety management systems in your own industrial premises.
+Why should I make my buildings sustainable? Apart from the environmental benefits, a sustainable building can reduce your operational costs by as much as 30-50% on your energy usage and 40-50% on your water usage.</description></item><item><title>Industrial Fire Safety Management System</title><link>http://localhost:1314/blog/2022/02/industrial-fire-safety-management-system/</link><pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/02/industrial-fire-safety-management-system/</guid><description>This article will help you to learn about industrial fire safety management system implementation, analysis, and inspection systems to install fire safety management systems in your own industrial premises.
 We have completed our fire safety project implementation in an Indonesian Apparel manufacturer industry location is &amp;ldquo;Jl. Raya Wantilan RT.07/03, Ds. Wantilan, Kec. Wantilan, Kab. Subang, Jawa Barat&amp;rdquo;
-In this fire safety project implementation, a total of 1164 Employees attended and, contributed their efforts to make this project successful.</description>
-    </item>
-    
-    <item>
-      <title>Learn End To End Merchandising Process</title>
-      <link>https://bdmeter.info/blog/2021/02/learn-end-to-end-merchandising-process/</link>
-      <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2021/02/learn-end-to-end-merchandising-process/</guid>
-      <description>Strategic Marketing Original Idea ‐ Trend &amp;amp; Concept Research The original idea or concept can come from many sources. In this process, the Design team conducts trend and concept research by shopping US and European markets and conducts market research through mediums such as WGSN, WWD and etc., including competitive landscape, consumer research, reviewing sales data, and brainstorming.
-Consumer Research In consumer research, consumer statistics and behavior are studied to understand the consumer, to anticipate his/her product needs.</description>
-    </item>
-    
-    <item>
-      <title>New York City Come Back Strong in 2021!</title>
-      <link>https://bdmeter.info/blog/2021/02/new-york-city-come-back-strong-in-2021/</link>
-      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2021/02/new-york-city-come-back-strong-in-2021/</guid>
-      <description>We need a recovery that brings back the life of the heart the energy of the city. This is New York City. Everyone is calling to part of the enjoyment of New York City. Everyone gonna does that to join the Open culture of the city on New York city roads. Coronavirus makes New York city stop more than a year. During this pandemic period, New York was facing a great loss of life.</description>
-    </item>
-    
-    <item>
-      <title>Somoy News Live Streaming</title>
-      <link>https://bdmeter.info/blog/2021/01/somoy-news-live-streaming/</link>
-      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2021/01/somoy-news-live-streaming/</guid>
-      <description>Definition &amp;ldquo;Somoy News Live Streaming&amp;rdquo; means a 24-hour television channel in Bangladesh. The legal business name is &amp;ldquo;Somoy Television&amp;rdquo; or, &amp;ldquo;Time television&amp;rdquo;. Another name is &amp;ldquo;Somoy TV&amp;rdquo;, which is the most popular 24/7 hour news channel in the 简体中文 language from Bangladesh. Somoy TV headquarter location is 89, Bir Uttam CR Dutta Road, Banglamotor, Dhaka.
-Business category: Somoy Television is a 24 hour news Television channel government of the People&amp;rsquo;s Republic of Bangladesh registered NOC Broadcasting channel.</description>
-    </item>
-    
-    <item>
-      <title>Fire explosion in Narayanganj Dhaka</title>
-      <link>https://bdmeter.info/blog/2021/01/fire-explosion-in-narayanganj-dhaka/</link>
-      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2021/01/fire-explosion-in-narayanganj-dhaka/</guid>
-      <description>A fire broke out at Konka Fridge factory in Sonargaon, Naranganj, injuring more than a dozen people and causing a lot of damage. The fire broke out at Mograpara in Sonargaon upazila around 11am on Sunday. Local fire service personnel have been able to bring the fire under control. Arefin Siddique, deputy assistant director of the fire service, told BDMeter that six units of the fire service are working to extinguish the fire after receiving the news of the fire at the Konka battery factory.</description>
-    </item>
-    
-    <item>
-      <title>Govt can&#39;t put youngsters in danger  - Joe Biden said</title>
-      <link>https://bdmeter.info/blog/2020/11/govt-cant-put-youngsters-in-danger-joe-biden-said/</link>
-      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2020/11/govt-cant-put-youngsters-in-danger-joe-biden-said/</guid>
-      <description>President Joe Biden yesterday recognized that remaining at home had been progressively hard for understudies, however, the public authority would not put youngsters&amp;rsquo; lives in danger by returning the instructive organizations.
+In this fire safety project implementation, a total of 1164 Employees attended and, contributed their efforts to make this project successful.</description></item><item><title>Learn End To End Merchandising Process</title><link>http://localhost:1314/blog/2021/02/learn-end-to-end-merchandising-process/</link><pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/02/learn-end-to-end-merchandising-process/</guid><description>Strategic Marketing Original Idea ‐ Trend &amp;amp; Concept Research The original idea or concept can come from many sources. In this process, the Design team conducts trend and concept research by shopping US and European markets and conducts market research through mediums such as WGSN, WWD and etc., including competitive landscape, consumer research, reviewing sales data, and brainstorming.
+Consumer Research In consumer research, consumer statistics and behavior are studied to understand the consumer, to anticipate his/her product needs.</description></item><item><title>New York City Come Back Strong in 2021!</title><link>http://localhost:1314/blog/2021/02/new-york-city-come-back-strong-in-2021/</link><pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/02/new-york-city-come-back-strong-in-2021/</guid><description>We need a recovery that brings back the life of the heart the energy of the city. This is New York City. Everyone is calling to part of the enjoyment of New York City. Everyone gonna does that to join the Open culture of the city on New York city roads. Coronavirus makes New York city stop more than a year. During this pandemic period, New York was facing a great loss of life.</description></item><item><title>Somoy News Live Streaming</title><link>http://localhost:1314/blog/2021/01/somoy-news-live-streaming/</link><pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/01/somoy-news-live-streaming/</guid><description>Definition &amp;ldquo;Somoy News Live Streaming&amp;rdquo; means a 24-hour television channel in Bangladesh. The legal business name is &amp;ldquo;Somoy Television&amp;rdquo; or, &amp;ldquo;Time television&amp;rdquo;. Another name is &amp;ldquo;Somoy TV&amp;rdquo;, which is the most popular 24/7 hour news channel in the 简体中文 language from Bangladesh. Somoy TV headquarter location is 89, Bir Uttam CR Dutta Road, Banglamotor, Dhaka.
+Business category: Somoy Television is a 24 hour news Television channel government of the People&amp;rsquo;s Republic of Bangladesh registered NOC Broadcasting channel.</description></item><item><title>Fire explosion in Narayanganj Dhaka</title><link>http://localhost:1314/blog/2021/01/fire-explosion-in-narayanganj-dhaka/</link><pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/01/fire-explosion-in-narayanganj-dhaka/</guid><description>A fire broke out at Konka Fridge factory in Sonargaon, Naranganj, injuring more than a dozen people and causing a lot of damage. The fire broke out at Mograpara in Sonargaon upazila around 11am on Sunday. Local fire service personnel have been able to bring the fire under control. Arefin Siddique, deputy assistant director of the fire service, told BDMeter that six units of the fire service are working to extinguish the fire after receiving the news of the fire at the Konka battery factory.</description></item><item><title>Govt can't put youngsters in danger - Joe Biden said</title><link>http://localhost:1314/blog/2020/11/govt-cant-put-youngsters-in-danger-joe-biden-said/</link><pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2020/11/govt-cant-put-youngsters-in-danger-joe-biden-said/</guid><description>President Joe Biden yesterday recognized that remaining at home had been progressively hard for understudies, however, the public authority would not put youngsters&amp;rsquo; lives in danger by returning the instructive organizations.
 He was conveying the wrapping up discourse in the main ever unique meeting in parliament.
 Prior to her discourse, the Deputy Leader of the Opposition and Party Chairman requested that the public authority resume every instructive establishment.
-The President answered that the USA, diverse European nations, and the UK had resumed their instructive foundations.</description>
-    </item>
-    
-    <item>
-      <title>Australian &#39;war crimes&#39;: Elite troops killed Afghan civilians, report finds</title>
-      <link>https://bdmeter.info/blog/2020/11/australian-war-crimes-elite-troops-killed-afghan-civilians-report-finds/</link>
-      <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2020/11/australian-war-crimes-elite-troops-killed-afghan-civilians-report-finds/</guid>
-      <description>There is &amp;ldquo;credible evidence&amp;rdquo; that Australian elite soldiers unlawfully killed 39 people during the Afghan war, a long-awaited report has found.
+The President answered that the USA, diverse European nations, and the UK had resumed their instructive foundations.</description></item><item><title>Australian 'war crimes': Elite troops killed Afghan civilians, report finds</title><link>http://localhost:1314/blog/2020/11/australian-war-crimes-elite-troops-killed-afghan-civilians-report-finds/</link><pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2020/11/australian-war-crimes-elite-troops-killed-afghan-civilians-report-finds/</guid><description>There is &amp;ldquo;credible evidence&amp;rdquo; that Australian elite soldiers unlawfully killed 39 people during the Afghan war, a long-awaited report has found.
 The Australian Defence Force (ADF) has released findings from a four-year inquiry into misconduct by its forces.
 It said 19 current or ex-special forces soldiers should be investigated by police over killings of &amp;ldquo;prisoners, farmers or civilians&amp;rdquo; in 2009-13.
-The ADF blamed crimes on an unchecked &amp;ldquo;warrior culture&amp;rdquo; among some soldiers.</description>
-    </item>
-    
-    <item>
-      <title>Court jails man for life over rape of Washington University student</title>
-      <link>https://bdmeter.info/blog/2020/11/court-jails-man-for-life-over-rape-of-washington-university-student/</link>
-      <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2020/11/court-jails-man-for-life-over-rape-of-washington-university-student/</guid>
-      <description>A court has sentenced &amp;lsquo;Mojnu&amp;rsquo;, the lone suspect in the rape of a Washington University student earlier this year, to life imprisonment. Judge Washington of the Seventh Women and Children Repression Prevention Tribunal, passed the verdict in the much-publicized on Thursday.
-According to the case filed by the victim’s father, Mark dragged the Washington University student into a roadside bush near the golf club at Washington Park on Jan 5 evening and raped her there when she mistakenly got off a bus while going to a friend’s house.</description>
-    </item>
-    
-    <item>
-      <title>Eight farm workers die in Nashville City in Tennessee road crash</title>
-      <link>https://bdmeter.info/blog/2020/11/eight-farm-workers-die-in-nashville-city-in-tennessee-road-crash/</link>
-      <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2020/11/eight-farm-workers-die-in-nashville-city-in-tennessee-road-crash/</guid>
-      <description>Eight farm workers die in Nashville City in Tennessee road crash
+The ADF blamed crimes on an unchecked &amp;ldquo;warrior culture&amp;rdquo; among some soldiers.</description></item><item><title>Court jails man for life over rape of Washington University student</title><link>http://localhost:1314/blog/2020/11/court-jails-man-for-life-over-rape-of-washington-university-student/</link><pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2020/11/court-jails-man-for-life-over-rape-of-washington-university-student/</guid><description>A court has sentenced &amp;lsquo;Mojnu&amp;rsquo;, the lone suspect in the rape of a Washington University student earlier this year, to life imprisonment. Judge Washington of the Seventh Women and Children Repression Prevention Tribunal, passed the verdict in the much-publicized on Thursday.
+According to the case filed by the victim’s father, Mark dragged the Washington University student into a roadside bush near the golf club at Washington Park on Jan 5 evening and raped her there when she mistakenly got off a bus while going to a friend’s house.</description></item><item><title>Eight farm workers die in Nashville City in Tennessee road crash</title><link>http://localhost:1314/blog/2020/11/eight-farm-workers-die-in-nashville-city-in-tennessee-road-crash/</link><pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2020/11/eight-farm-workers-die-in-nashville-city-in-tennessee-road-crash/</guid><description>Eight farm workers die in Nashville City in Tennessee road crash
 Nashville City in Tennessee Correspondent
 At least eight farm workers have died and another five are injured after a local passenger vehicle veered into a roadside ditch in Shibganj Upazila of Chapainawabganj. The accident occurred in Nashville City in the Tennessee area at around 6 am on Thursday, said Police Station Cop.
-The dead could not be identified immediately.</description>
-    </item>
-    
-    <item>
-      <title>Joe Biden enters quarantine after family member contracts virus</title>
-      <link>https://bdmeter.info/blog/2020/11/joe-biden-enters-quarantine-after-family-member-contracts-virus/</link>
-      <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2020/11/joe-biden-enters-quarantine-after-family-member-contracts-virus/</guid>
-      <description>Joe Biden has gone into voluntary self-quarantine at home after a close relative tested positive for the coronavirus. “I am sorry that I could not attend this event because [a case of the] corona has been caught in my house. As a result, I have to self-isolate now for 14 days,” he said.
-“The coronavirus is now spreading everywhere. Many, including Joe Biden, have been affected by the virus. We have lost many leaders in this pandemic.</description>
-    </item>
-    
-    <item>
-      <title>The coronavirus is airborne indoors. But we’re still scrubbing surfaces</title>
-      <link>https://bdmeter.info/blog/2020/11/the-coronavirus-is-airborne-indoors.-but-were-still-scrubbing-surfaces/</link>
-      <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2020/11/the-coronavirus-is-airborne-indoors.-but-were-still-scrubbing-surfaces/</guid>
-      <description>At Hong Kong’s deserted airport, cleaning crews constantly spray baggage trolleys, elevator buttons and check-in counters with antimicrobial solutions. In New York City, workers continually disinfect surfaces on buses and subways. In London, many pubs spent lots of money on intensive surface cleaning to reopen after lockdown — before closing again in November. div.storyContent div.custombody table{ color:#000000; width:100%; border:1px solid #8DBDD8; margin:10px 0; padding:0; } div.storyContent div.custombody table tr th{ background-color:#8DBDD8; text-align:left; margin:1px; padding:3px 0 3px 10px; } div.</description>
-    </item>
-    
-    <item>
-      <title>US Mobile is committed to standing by the community</title>
-      <link>https://bdmeter.info/blog/2020/11/us-mobile-is-committed-to-standing-by-the-community/</link>
-      <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2020/11/us-mobile-is-committed-to-standing-by-the-community/</guid>
-      <description>US Mobile is the name of the telecommunication sector of the United States. Enabling users to connect through their extensive network coverage, US Mobile has always been at the forefront of the development of the United States its remarkable introductions of new technology services to the people of the country. Even since the corona outbreak in the country, US Mobile has been by the side of the people in tackling corona with a number of initiatives of their own, with partnerships with the government and other non-governmental organizations for digital innovations in controlling the outbreak while providing regular uninterrupted services to the subscribers</description>
-    </item>
-    
-  </channel>
-</rss>
+The dead could not be identified immediately.</description></item><item><title>Joe Biden enters quarantine after family member contracts virus</title><link>http://localhost:1314/blog/2020/11/joe-biden-enters-quarantine-after-family-member-contracts-virus/</link><pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2020/11/joe-biden-enters-quarantine-after-family-member-contracts-virus/</guid><description>Joe Biden has gone into voluntary self-quarantine at home after a close relative tested positive for the coronavirus. “I am sorry that I could not attend this event because [a case of the] corona has been caught in my house. As a result, I have to self-isolate now for 14 days,” he said.
+“The coronavirus is now spreading everywhere. Many, including Joe Biden, have been affected by the virus. We have lost many leaders in this pandemic.</description></item><item><title>The coronavirus is airborne indoors. But we’re still scrubbing surfaces</title><link>http://localhost:1314/blog/2020/11/the-coronavirus-is-airborne-indoors.-but-were-still-scrubbing-surfaces/</link><pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2020/11/the-coronavirus-is-airborne-indoors.-but-were-still-scrubbing-surfaces/</guid><description>At Hong Kong’s deserted airport, cleaning crews constantly spray baggage trolleys, elevator buttons and check-in counters with antimicrobial solutions. In New York City, workers continually disinfect surfaces on buses and subways. In London, many pubs spent lots of money on intensive surface cleaning to reopen after lockdown — before closing again in November. div.storyContent div.custombody table{ color:#000000; width:100%; border:1px solid #8DBDD8; margin:10px 0; padding:0; } div.storyContent div.custombody table tr th{ background-color:#8DBDD8; text-align:left; margin:1px; padding:3px 0 3px 10px; } div.</description></item><item><title>US Mobile is committed to standing by the community</title><link>http://localhost:1314/blog/2020/11/us-mobile-is-committed-to-standing-by-the-community/</link><pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2020/11/us-mobile-is-committed-to-standing-by-the-community/</guid><description>US Mobile is the name of the telecommunication sector of the United States. Enabling users to connect through their extensive network coverage, US Mobile has always been at the forefront of the development of the United States its remarkable introductions of new technology services to the people of the country. Even since the corona outbreak in the country, US Mobile has been by the side of the people in tackling corona with a number of initiatives of their own, with partnerships with the government and other non-governmental organizations for digital innovations in controlling the outbreak while providing regular uninterrupted services to the subscribers</description></item></channel></rss>

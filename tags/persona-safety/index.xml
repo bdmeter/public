@@ -1,22 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>persona-safety on Bdmeter</title>
-    <link>https://bdmeter.info/tags/persona-safety/</link>
-    <description>Recent content in persona-safety on Bdmeter</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [GOISP](https://goisp.net). All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 06 Sep 2022 22:42:23 +0800</lastBuildDate><atom:link href="https://bdmeter.info/tags/persona-safety/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Safety installation guide</title>
-      <link>https://bdmeter.info/docs/installation/safety/</link>
-      <pubDate>Tue, 06 Sep 2022 22:42:23 +0800</pubDate>
-      
-      <guid>https://bdmeter.info/docs/installation/safety/</guid>
-      <description>Learn how to install safety plan for your home and industry
-coming soon! </description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>persona-safety on Bdmeter</title><link>http://localhost:1314/tags/persona-safety/</link><description>Recent content in persona-safety on Bdmeter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright><lastBuildDate>Tue, 06 Sep 2022 22:42:23 +0800</lastBuildDate><atom:link href="http://localhost:1314/tags/persona-safety/index.xml" rel="self" type="application/rss+xml"/><item><title>Safety installation guide</title><link>http://localhost:1314/docs/installation/safety/</link><pubDate>Tue, 06 Sep 2022 22:42:23 +0800</pubDate><guid>http://localhost:1314/docs/installation/safety/</guid><description>Learn how to install safety plan for your home and industry
+coming soon!</description></item></channel></rss>

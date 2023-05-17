@@ -1,22 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>regulatory on Bdmeter</title>
-    <link>https://bdmeter.info/tags/regulatory/</link>
-    <description>Recent content in regulatory on Bdmeter</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [GOISP](https://goisp.net). All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 20 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bdmeter.info/tags/regulatory/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Corporate Resources Management</title>
-      <link>https://bdmeter.info/blog/2021/12/corporate-resources-management/</link>
-      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2021/12/corporate-resources-management/</guid>
-      <description>Energy Efficiency Reducing your energy consumption is a great way to reduce both costs and greenhouse gas emissions. Lowering your utility costs and reducing your environmental impact also helps your factory prepare for new policies and regulatory requirements, improve your competitive advantage and grow your business efficiently.
-Conducting an energy audit of your facilities is the best way to start. It will help you assess your energy usage and identify what you can do to lower energy consumption, including changes to behavior, equipment, and processes, and how much can be potentially saved.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>regulatory on Bdmeter</title><link>http://localhost:1314/tags/regulatory/</link><description>Recent content in regulatory on Bdmeter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright><lastBuildDate>Mon, 20 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/tags/regulatory/index.xml" rel="self" type="application/rss+xml"/><item><title>Corporate Resources Management</title><link>http://localhost:1314/blog/2021/12/corporate-resources-management/</link><pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/12/corporate-resources-management/</guid><description>Energy Efficiency Reducing your energy consumption is a great way to reduce both costs and greenhouse gas emissions. Lowering your utility costs and reducing your environmental impact also helps your factory prepare for new policies and regulatory requirements, improve your competitive advantage and grow your business efficiently.
+Conducting an energy audit of your facilities is the best way to start. It will help you assess your energy usage and identify what you can do to lower energy consumption, including changes to behavior, equipment, and processes, and how much can be potentially saved.</description></item></channel></rss>

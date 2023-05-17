@@ -1,250 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>industry on Bdmeter</title>
-    <link>https://bdmeter.info/categories/industry/</link>
-    <description>Recent content in industry on Bdmeter</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [GOISP](https://goisp.net). All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 31 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bdmeter.info/categories/industry/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Determination of Moist Air Properties</title>
-      <link>https://bdmeter.info/blog/2023/03/determination-of-moist-air-properties/</link>
-      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2023/03/determination-of-moist-air-properties/</guid>
-      <description>An air-water mixture is found from the heat and mass balance to be at 60°C (333 K) and 0.025 kg/kg (25 g/kg) absolute humidity. Calculate the other main parameters for the mixture. Take atmospheric pressure as 101,325 Pa.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>industry on Bdmeter</title><link>http://localhost:1314/categories/industry/</link><description>Recent content in industry on Bdmeter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright><lastBuildDate>Fri, 31 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/categories/industry/index.xml" rel="self" type="application/rss+xml"/><item><title>The Industrial Revolution: A Transformational Era Shaping Our Modern World</title><link>http://localhost:1314/docs/installation/industry/industry-revolution/</link><pubDate>Tue, 16 May 2023 22:42:23 +0800</pubDate><guid>http://localhost:1314/docs/installation/industry/industry-revolution/</guid><description>The Industrial Revolution stands as a turning point in human history, marking a radical shift from agrarian societies to industrialized nations. Spanning from the late 18th to the early 19th century, this transformative period brought about profound changes in technology, manufacturing, transportation, and society at large. In this 15,000-word blog, we will delve into the various facets of the Industrial Revolution, exploring its causes, impact, and lasting legacy.
+I. Prelude to Change: The Factors Igniting the Industrial Revolution 1.</description></item><item><title>Determination of Moist Air Properties</title><link>http://localhost:1314/blog/2023/03/determination-of-moist-air-properties/</link><pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2023/03/determination-of-moist-air-properties/</guid><description>An air-water mixture is found from the heat and mass balance to be at 60°C (333 K) and 0.025 kg/kg (25 g/kg) absolute humidity. Calculate the other main parameters for the mixture. Take atmospheric pressure as 101,325 Pa.
 Method: Consult item (vi) in Table 12-5 for the calculation methodology.
-From the initial terminology section, specific humidity YW = 0.02439 kg/kg, mole ratio z = 0.0402 kmol/kmol, mole fraction y = 0.</description>
-    </item>
-    
-    <item>
-      <title>Cementitious materials and their classification</title>
-      <link>https://bdmeter.info/blog/2023/02/cementitious-materials-and-their-classification/</link>
-      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2023/02/cementitious-materials-and-their-classification/</guid>
-      <description>Cementitious materials include the many products that are mixed with either water or some other liquid or both to form a cementing paste that may be formed or molded while plastic but will set into a rigid shape. When sand is added to the paste, mortar is formed. A combination of coarse and fine aggregate (sand) added to the paste forms concrete.
-Types of cementitious materials There are many varieties of cement and numerous ways of classification.</description>
-    </item>
-    
-    <item>
-      <title>Building protection system against lightning and thundering</title>
-      <link>https://bdmeter.info/blog/2023/01/building-protection-system-against-lightning-and-thundering/</link>
-      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2023/01/building-protection-system-against-lightning-and-thundering/</guid>
-      <description>What is lightning or Thunder? Lightning, a high-voltage, high-current electrical discharge between clouds and the ground, may strike and destroy life and property anywhere thunderstorms have occurred in the past. Buildings and their occupants, however, can be protected against this hazard by the installation of a special electrical system. Because an incomplete or poor installation can cause worse damage or injuries than no protection at all, a lightning-protection system should be designed and installed by experts.</description>
-    </item>
-    
-    <item>
-      <title>Building protection against fire</title>
-      <link>https://bdmeter.info/blog/2023/01/building-protection-against-fire/</link>
-      <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2023/01/building-protection-against-fire/</guid>
-      <description>There are two distinct aspects of building fire protection: life safety and property protection. Although providing for one aspect generally results in some protection for the other, the two goals are not mutually inclusive. A program that provides for prompt notification and evacuation of occupants meets the objectives for life safety but provides no protection for the property. Conversely, it is possible that adequate building protection might not be sufficient for the protection of life.</description>
-    </item>
-    
-    <item>
-      <title>Sel-Lo Oil Price update on 13 Jan 2023</title>
-      <link>https://bdmeter.info/blog/2023/01/sel-lo-oil-price-update-on-13-jan-2023/</link>
-      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2023/01/sel-lo-oil-price-update-on-13-jan-2023/</guid>
-      <description>Sel-Lo Oil latest price update on 13 Jan 2023 | Prices last changed on 1/13/23 | Heating Oil
+From the initial terminology section, specific humidity YW = 0.02439 kg/kg, mole ratio z = 0.0402 kmol/kmol, mole fraction y = 0.</description></item><item><title>Cementitious materials and their classification</title><link>http://localhost:1314/blog/2023/02/cementitious-materials-and-their-classification/</link><pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2023/02/cementitious-materials-and-their-classification/</guid><description>Cementitious materials include the many products that are mixed with either water or some other liquid or both to form a cementing paste that may be formed or molded while plastic but will set into a rigid shape. When sand is added to the paste, mortar is formed. A combination of coarse and fine aggregate (sand) added to the paste forms concrete.
+Types of cementitious materials There are many varieties of cement and numerous ways of classification.</description></item><item><title>Building protection system against lightning and thundering</title><link>http://localhost:1314/blog/2023/01/building-protection-system-against-lightning-and-thundering/</link><pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2023/01/building-protection-system-against-lightning-and-thundering/</guid><description>What is lightning or Thunder? Lightning, a high-voltage, high-current electrical discharge between clouds and the ground, may strike and destroy life and property anywhere thunderstorms have occurred in the past. Buildings and their occupants, however, can be protected against this hazard by the installation of a special electrical system. Because an incomplete or poor installation can cause worse damage or injuries than no protection at all, a lightning-protection system should be designed and installed by experts.</description></item><item><title>Building protection against fire</title><link>http://localhost:1314/blog/2023/01/building-protection-against-fire/</link><pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2023/01/building-protection-against-fire/</guid><description>There are two distinct aspects of building fire protection: life safety and property protection. Although providing for one aspect generally results in some protection for the other, the two goals are not mutually inclusive. A program that provides for prompt notification and evacuation of occupants meets the objectives for life safety but provides no protection for the property. Conversely, it is possible that adequate building protection might not be sufficient for the protection of life.</description></item><item><title>Sel-Lo Oil Price update on 13 Jan 2023</title><link>http://localhost:1314/blog/2023/01/sel-lo-oil-price-update-on-13-jan-2023/</link><pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2023/01/sel-lo-oil-price-update-on-13-jan-2023/</guid><description>Sel-Lo Oil latest price update on 13 Jan 2023 | Prices last changed on 1/13/23 | Heating Oil
 $ | Blend
 $ | Kerosene
 $ | Dyed ULSD (Off-Road)
 $ 100 Gallon Minimum 3.99 4.79 5.59 4.09 Over 200 Gallons 3.95 4.75 5.55 4.09 Over 400 Gallons 3.93 4.73 5.53 4.05 Over 800 Gallons 3.91 4.71 5.51 4.05 Over 1200 Gallons 3.87 4.67 5.47 4.01 Table: Sel-Lo oil price
-Get Sel-Lo Oil Price trend from 2016 to 2023 If you have problem to see preview of above Sel-Lo oil price chart, please click on link: Click to see Sel-Lo oil price change trend chart</description>
-    </item>
-    
-    <item>
-      <title>Combating human trafficking and forced labor</title>
-      <link>https://bdmeter.info/blog/2023/01/combating-human-trafficking-and-forced-labor/</link>
-      <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2023/01/combating-human-trafficking-and-forced-labor/</guid>
-      <description>KEY ISSUES What is human trafficking &amp;amp; forced labor?
+Get Sel-Lo Oil Price trend from 2016 to 2023 If you have problem to see preview of above Sel-Lo oil price chart, please click on link: Click to see Sel-Lo oil price change trend chart</description></item><item><title>Combating human trafficking and forced labor</title><link>http://localhost:1314/blog/2023/01/combating-human-trafficking-and-forced-labor/</link><pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2023/01/combating-human-trafficking-and-forced-labor/</guid><description>KEY ISSUES What is human trafficking &amp;amp; forced labor?
 The challenge and response, including the California Transparency
 Supply Chain Act and what LF is doing
 Risks for global supply chains
 Red flags and indicators of potential human trafficking &amp;amp; forced labor
 Detecting and addressing potential instances of human trafficking &amp;amp; forced labor
-WHAT IS HUMAN TRAFFICKING &amp;amp; FORCED LABOR? WHAT IS HUMAN TRAFFICKING? “The illegal trade of human beings for the purposes of exploitation forced labor and slavery.</description>
-    </item>
-    
-    <item>
-      <title>Sello oil price update 07-Jan-2023</title>
-      <link>https://bdmeter.info/blog/2023/01/sello-oil-price-update-07-jan-2023/</link>
-      <pubDate>Fri, 06 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2023/01/sello-oil-price-update-07-jan-2023/</guid>
-      <description>Sel-Lo Oil&amp;rsquo;s latest price update on 07 Jan 2023 | Prices last changed on 1/07/23 | Heating Oil
+WHAT IS HUMAN TRAFFICKING &amp;amp; FORCED LABOR? WHAT IS HUMAN TRAFFICKING? “The illegal trade of human beings for the purposes of exploitation forced labor and slavery.</description></item><item><title>Sello oil price update 07-Jan-2023</title><link>http://localhost:1314/blog/2023/01/sello-oil-price-update-07-jan-2023/</link><pubDate>Fri, 06 Jan 2023 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2023/01/sello-oil-price-update-07-jan-2023/</guid><description>Sel-Lo Oil&amp;rsquo;s latest price update on 07 Jan 2023 | Prices last changed on 1/07/23 | Heating Oil
 $ | Blend
 $ | Kerosene
 $ | Dyed ULSD (Off-Road)
 $ 100 Gallon Minimum 3.99 4.79 5.59 4.09 Over 200 Gallons 3.95 4.75 5.55 4.09 Over 400 Gallons 3.93 4.73 5.53 4.05 Over 800 Gallons 3.91 4.71 5.51 4.05 Over 1200 Gallons 3.87 4.67 5.47 4.01 Table: Sel-Lo oil price
-Get Sel-Lo Oil Price trend from 2016 to 2023 If you have problem to see preview of above Sel-Lo oil price chart, please click on link: Click to see Sel-Lo oil price change trend chart</description>
-    </item>
-    
-    <item>
-      <title>Sustainable Design, Building, and Renovation</title>
-      <link>https://bdmeter.info/blog/2023/01/sustainable-design-building-and-renovation/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2023/01/sustainable-design-building-and-renovation/</guid>
-      <description>for New Construction, Major Renovation, and Commercial Interiors Introduction Sustainable Design, Building, and Renovation Suggestions present a menu of options that can be adopted or implemented to integrate sustainable design, equipment, materials and other elements into new buildings and major renovations. The Suggestions include elements scored by the Leadership in Energy and Environmental Design (LEED) standard, as well as the best practices Bdmeter has implemented in our global network.
-Suppliers worldwide are encouraged to adopt as many of the items in these Suggestions whenever feasible and applicable to your location and operations.</description>
-    </item>
-    
-    <item>
-      <title>What&#39;s Khulnaflix</title>
-      <link>https://bdmeter.info/blog/2022/12/whats-khulnaflix/</link>
-      <pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2022/12/whats-khulnaflix/</guid>
-      <description>Khulnaflix is an FTP server in the southeast region of Asia, Khulna BD. Its total size is more than thousands of gigabyte and khulnaflix have millions of happy customers locally. Khulnaflix&amp;rsquo;s name came from the city name Khulna and flix came from the media entertainment place online. So, Khulnaflix comes into life for Khulna and BD as well as all over the world from Khulna. Khulnaflix has better streaming and quality movies live streaming.</description>
-    </item>
-    
-    <item>
-      <title>Zoning and building codes</title>
-      <link>https://bdmeter.info/blog/2022/12/zoning-and-building-codes/</link>
-      <pubDate>Sun, 25 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2022/12/zoning-and-building-codes/</guid>
-      <description>Many of the restrictions encountered in building design are imposed by legal regulations. While all must be met, those in building codes are the most significant because they affect almost every part of a building. Building codes are established under the police powers of a state to protect the health, welfare, and safety of communities. A code is administered by a building official of the municipality or state that adopts it by legislation.</description>
-    </item>
-    
-    <item>
-      <title>Learn how to protect your building against wind, storm, or tornado</title>
-      <link>https://bdmeter.info/blog/2022/11/learn-how-to-protect-your-building-against-wind-storm-or-tornado/</link>
-      <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2022/11/learn-how-to-protect-your-building-against-wind-storm-or-tornado/</guid>
-      <description>For practical design, wind and earthquakes may be treated as horizontal, or lateral, loads. Although wind and seismic loads may have vertical components, these generally are small and readily resisted by columns and bearing walls. Vertical earthquake components can be important in the design of connections as in precast concrete structures. Wind often generates significant uplift forces that require special attention to vertical restraint and lateral support for members in reverse bending.</description>
-    </item>
-    
-    <item>
-      <title>A study of digital circuits and converting to digital signals</title>
-      <link>https://bdmeter.info/blog/2022/11/a-study-of-digital-circuits-and-converting-to-digital-signals/</link>
-      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2022/11/a-study-of-digital-circuits-and-converting-to-digital-signals/</guid>
-      <description>What are Digital circuits and digital signals?
-The study of electronic circuits where the inputs and outputs are limited to two fixed or discrete values or logic levels is called digital electronics. Digital technology would take many signals to do justice, so in this text, we can only scratch the surface. There is a place for both analog and digital circuits in instrumentation. Sensors and instrumentation functions are analog in nature.</description>
-    </item>
-    
-    <item>
-      <title>Building construction protection against water, flood, and heavy rainfall</title>
-      <link>https://bdmeter.info/blog/2022/11/building-construction-protection-against-water-flood-and-heavy-rainfall/</link>
-      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2022/11/building-construction-protection-against-water-flood-and-heavy-rainfall/</guid>
-      <description>PROTECTION AGAINST WATER Whether thrust against and into a building by a flood, driven into the interior by heavy rain, leaking from plumbing, storm surge, or seeping through the exterior enclosure, water can cause costly damage to a building. Consequently, designers should protect buildings and their contents against water damage.
-Protective measures may be divided into two classes: floodproofing and waterproofing. Floodproofing provides protection against flowing surface water, commonly caused by a river overflowing its banks.</description>
-    </item>
-    
-    <item>
-      <title>Light and sight: Lighting control system</title>
-      <link>https://bdmeter.info/blog/2022/09/light-and-sight-lighting-control-system/</link>
-      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2022/09/light-and-sight-lighting-control-system/</guid>
-      <description>Lighting is part of the environmental control system, which also includes sound control and heating, ventilation, and air conditioning (HVAC), within a building.
+Get Sel-Lo Oil Price trend from 2016 to 2023 If you have problem to see preview of above Sel-Lo oil price chart, please click on link: Click to see Sel-Lo oil price change trend chart</description></item><item><title>Sustainable Design, Building, and Renovation</title><link>http://localhost:1314/blog/2023/01/sustainable-design-building-and-renovation/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2023/01/sustainable-design-building-and-renovation/</guid><description>for New Construction, Major Renovation, and Commercial Interiors Introduction Sustainable Design, Building, and Renovation Suggestions present a menu of options that can be adopted or implemented to integrate sustainable design, equipment, materials and other elements into new buildings and major renovations. The Suggestions include elements scored by the Leadership in Energy and Environmental Design (LEED) standard, as well as the best practices Bdmeter has implemented in our global network.
+Suppliers worldwide are encouraged to adopt as many of the items in these Suggestions whenever feasible and applicable to your location and operations.</description></item><item><title>What's Khulnaflix</title><link>http://localhost:1314/blog/2022/12/whats-khulnaflix/</link><pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/12/whats-khulnaflix/</guid><description>Khulnaflix is an FTP server in the southeast region of Asia, Khulna BD. Its total size is more than thousands of gigabyte and khulnaflix have millions of happy customers locally. Khulnaflix&amp;rsquo;s name came from the city name Khulna and flix came from the media entertainment place online. So, Khulnaflix comes into life for Khulna and BD as well as all over the world from Khulna. Khulnaflix has better streaming and quality movies live streaming.</description></item><item><title>Zoning and building codes</title><link>http://localhost:1314/blog/2022/12/zoning-and-building-codes/</link><pubDate>Sun, 25 Dec 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/12/zoning-and-building-codes/</guid><description>Many of the restrictions encountered in building design are imposed by legal regulations. While all must be met, those in building codes are the most significant because they affect almost every part of a building. Building codes are established under the police powers of a state to protect the health, welfare, and safety of communities. A code is administered by a building official of the municipality or state that adopts it by legislation.</description></item><item><title>Learn how to protect your building against wind, storm, or tornado</title><link>http://localhost:1314/blog/2022/11/learn-how-to-protect-your-building-against-wind-storm-or-tornado/</link><pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/11/learn-how-to-protect-your-building-against-wind-storm-or-tornado/</guid><description>For practical design, wind and earthquakes may be treated as horizontal, or lateral, loads. Although wind and seismic loads may have vertical components, these generally are small and readily resisted by columns and bearing walls. Vertical earthquake components can be important in the design of connections as in precast concrete structures. Wind often generates significant uplift forces that require special attention to vertical restraint and lateral support for members in reverse bending.</description></item><item><title>A study of digital circuits and converting to digital signals</title><link>http://localhost:1314/blog/2022/11/a-study-of-digital-circuits-and-converting-to-digital-signals/</link><pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/11/a-study-of-digital-circuits-and-converting-to-digital-signals/</guid><description>What are Digital circuits and digital signals?
+The study of electronic circuits where the inputs and outputs are limited to two fixed or discrete values or logic levels is called digital electronics. Digital technology would take many signals to do justice, so in this text, we can only scratch the surface. There is a place for both analog and digital circuits in instrumentation. Sensors and instrumentation functions are analog in nature.</description></item><item><title>Building construction protection against water, flood, and heavy rainfall</title><link>http://localhost:1314/blog/2022/11/building-construction-protection-against-water-flood-and-heavy-rainfall/</link><pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/11/building-construction-protection-against-water-flood-and-heavy-rainfall/</guid><description>PROTECTION AGAINST WATER Whether thrust against and into a building by a flood, driven into the interior by heavy rain, leaking from plumbing, storm surge, or seeping through the exterior enclosure, water can cause costly damage to a building. Consequently, designers should protect buildings and their contents against water damage.
+Protective measures may be divided into two classes: floodproofing and waterproofing. Floodproofing provides protection against flowing surface water, commonly caused by a river overflowing its banks.</description></item><item><title>Light and sight: Lighting control system</title><link>http://localhost:1314/blog/2022/09/light-and-sight-lighting-control-system/</link><pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/09/light-and-sight-lighting-control-system/</guid><description>Lighting is part of the environmental control system, which also includes sound control and heating, ventilation, and air conditioning (HVAC), within a building.
 The prime purpose of a lighting system is to provide good visibility for the execution of the tasks to be performed within the building. With good visibility, occupants can execute their tasks comfortably, efficiently, and safely.
-Lighting also is desirable for other purposes. For example, it can be used to develop color effects for pleasure or accident prevention.</description>
-    </item>
-    
-    <item>
-      <title>Risk Assessment: Cosmetics Manufacturing Process</title>
-      <link>https://bdmeter.info/blog/2022/09/risk-assessment-cosmetics-manufacturing-process/</link>
-      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2022/09/risk-assessment-cosmetics-manufacturing-process/</guid>
-      <description>Steps for Process-related Risk Assessment Understand the process flow on how to manufacture the product
+Lighting also is desirable for other purposes. For example, it can be used to develop color effects for pleasure or accident prevention.</description></item><item><title>Risk Assessment: Cosmetics Manufacturing Process</title><link>http://localhost:1314/blog/2022/09/risk-assessment-cosmetics-manufacturing-process/</link><pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/09/risk-assessment-cosmetics-manufacturing-process/</guid><description>Steps for Process-related Risk Assessment Understand the process flow on how to manufacture the product
 Identify the hazards from its process step (task)
 Decide who might be harmed and how
 Evaluate the risks and decide on precaution
 Record your findings and implement them
 Review your assessment and update if necessary
 Cosmetic Flow Production Process Flow Cosmetic Flow Production Process Flow
-Cosmetic Production Process Flow Common EHS Hazards Receiving raw material from W/H</description>
-    </item>
-    
-    <item>
-      <title>Building stones and it&#39;s properties</title>
-      <link>https://bdmeter.info/blog/2022/08/building-stones-and-its-properties/</link>
-      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2022/08/building-stones-and-its-properties/</guid>
-      <description>Principal building stones generally used in the United States are limestones, marbles, granites, and sandstones. Other stones such as serpentine and quartzite are used locally but to a much lesser extent. Stone, in general, makes an excellent
+Cosmetic Production Process Flow Common EHS Hazards Receiving raw material from W/H</description></item><item><title>Building stones and it's properties</title><link>http://localhost:1314/blog/2022/08/building-stones-and-its-properties/</link><pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/08/building-stones-and-its-properties/</guid><description>Principal building stones generally used in the United States are limestones, marbles, granites, and sandstones. Other stones such as serpentine and quartzite are used locally but to a much lesser extent. Stone, in general, makes an excellent
 building material, if properly selected on the basis of experience; but the cost may be relatively high.
-The properties of stone depend on what nature has provided. Therefore, the designer does not have the choice of properties and colors available in some of the manufactured building units.</description>
-    </item>
-    
-    <item>
-      <title>Corrosion of iron and steel: Preventive action to stop corrosion</title>
-      <link>https://bdmeter.info/blog/2022/08/corrosion-of-iron-and-steel-preventive-action-to-stop-corrosion/</link>
-      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2022/08/corrosion-of-iron-and-steel-preventive-action-to-stop-corrosion/</guid>
-      <description>Corrosion of ferrous metals is caused by the tendency of iron (anode) to go into solution in water as ferrous hydroxide and displace hydrogen, which in turn combines with dissolved oxygen to form more water. At the same time, the dissolved ferrous hydroxide is converted by more oxygen to the insoluble ferric hydroxide, thereby allowing more iron to go into the solution. Corrosion, therefore, requires liquid water (as in damp air) and oxygen (which is normally present dissolved in the</description>
-    </item>
-    
-    <item>
-      <title>Learn about plastic and polymer processing</title>
-      <link>https://bdmeter.info/blog/2022/08/learn-about-plastic-and-polymer-processing/</link>
-      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2022/08/learn-about-plastic-and-polymer-processing/</guid>
-      <description>Melt Processing Melt processing is the most important, most economical way of shaping plastics. It can be used for those thermoplastics with melting points and viscosity low enough not to subject die materials to excessive temperatures and stresses.
-(a) Melt Processing of Thermoplastics: The raw material to be processed is usually supplied in the form of regular shape and even-size granules, because this makes quantity metering easier and quicker and leads to more uniform and predictable heating.</description>
-    </item>
-    
-    <item>
-      <title>Steps for Process-related Risk  Assessment in the Plastic Toys Industry</title>
-      <link>https://bdmeter.info/blog/2022/08/steps-for-process-related-risk-assessment-in-the-plastic-toys-industry/</link>
-      <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2022/08/steps-for-process-related-risk-assessment-in-the-plastic-toys-industry/</guid>
-      <description>Understand the process flow on how to manufacture the product. Identify the hazards from its process step (task). Decide who might be harmed and how. Evaluate the risks and decide on precautions. Record your findings and implement them 6. Review your assessment and update if necessary. Plastic Toys Production Process Flow: Fig: process flow of toys production
-Types of Materials used for Injection Molding SL. Material name Description Applications 1 Acetal Strong, rigid, excellent fatigue resistance, excellent creep resistance, chemical resistance, moisture resistance, naturally opaque white, low/medium cost Bearings, cams, gears, handles, plumbing components, rollers, rotors, slide guides, valves 2 Acrylic Rigid, brittle, scratch resistant, transparent, optical clarity, low/medium cost Display stands, knobs, lenses, light housings, panels, reflectors, signs, shelves, trays 3 Acrylonitrile Butadiene Styrene Strong, flexible, low mold shrinkage (tight tolerances), chemical resistance, electroplating capability, naturally opaque, low/medium cost Automotive (consoles, panels, trim, vents), boxes, gauges, housings, inhalers, toys 4 Cellulose Acetate Tough, transparent, high cost Handles, eyeglass frames 5 Polyamide 6 (Nylon) High strength, fatigue resistance, chemical resistance, low creep, low friction, almost opaque/white, medium/high cost Bearings, bushings, gears, rollers, wheels 6 Polyamide 6/6 (Nylon) High strength, fatigue resistance, chemical resistance, low creep, low friction, almost opaque/white, medium/high cost Handles, levers, small housings, zip ties 7 Polyamide 11+12 (Nylon) High strength, fatigue resistance, chemical resistance, low creep, low friction, almost opaque to clear, very high cost Air filters, eyeglass frames, safety masks 8 Polycarbonate Very tough, temperature resistance, dimensional stability, transparent, high cost Automotive (panels, lenses, consoles), bottles, containers, housings, light covers, reflectors, safety helmets, and shields 9 Polyester - Thermoplastic Rigid, heat resistance, chemical resistance, medium/high cost Automotive (filters, handles, pumps), bearings, cams, electrical components (connectors, sensors), gears, housings, rollers, switches, valves 10 Polyether Tough, very high chemical resistance, clear, very high-cost Sulphone Valves 11 Polyetheretherketone Strong, thermal stability, chemical resistance, abrasion resistance, low moisture absorption Aircraft components, electrical connectors, pump impellers, seals 12 Polyetherimide Heat resistance, flame resistance, transparent (amber color) Electrical components (connectors, boards, switches), covers, shields, surgical tools 13 Polyethylene - Low Density Lightweight, tough and flexible, excellent chemical resistance, natural waxy appearance, low cost Kitchenware, housings, covers, and containers 14 Polyethylene - High Density Tough and stiff, excellent chemical resistance, natural waxy appearance, low cost Chair seats, housings, covers, and containers 15 Polyphenylene Oxide Tough, heat resistance, flame resistance, dimensional stability, low water absorption, electroplating capability, high cost Automotive (housings, panels), electrical components, housings, plumbing components 16 Polyphenylene Sulphide Very high strength, heat resistance, brown, very high cost Bearings, covers, fuel system components, guides, switches, and shields 17 Polypropylene Lightweight, heat resistance, high chemical resistance, scratch resistance, natural waxy appearance, tough and stiff, low cost.</description>
-    </item>
-    
-    <item>
-      <title>Textile Sewing Machine Maintenance Checklist</title>
-      <link>https://bdmeter.info/blog/2022/07/textile-sewing-machine-maintenance-checklist/</link>
-      <pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2022/07/textile-sewing-machine-maintenance-checklist/</guid>
-      <description>This article is about learning how to prepare a textile/garment sewing process maintenance checklist and the way to accomplish this procedure as periodic maintenance.
-SEWING MAINTENANCE CHECKLIST Many Retail, Brand-name Marketing, Mail Order, and Sourcing Companies are visiting existing and potential Contractor sewing facilities and evaluating their sewing capabilities for producing quality products for their customers. In many cases, they even rate the vendor and give the plant a grade based on their observations during their visit.</description>
-    </item>
-    
-    <item>
-      <title>Learn About Sustainable Building or Green Building</title>
-      <link>https://bdmeter.info/blog/2022/02/learn-about-sustainable-building-or-green-building/</link>
-      <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2022/02/learn-about-sustainable-building-or-green-building/</guid>
-      <description>What is a sustainable building? For your building to be sustainable, many factors need to be considered. These include air quality, energy
+The properties of stone depend on what nature has provided. Therefore, the designer does not have the choice of properties and colors available in some of the manufactured building units.</description></item><item><title>Corrosion of iron and steel: Preventive action to stop corrosion</title><link>http://localhost:1314/blog/2022/08/corrosion-of-iron-and-steel-preventive-action-to-stop-corrosion/</link><pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/08/corrosion-of-iron-and-steel-preventive-action-to-stop-corrosion/</guid><description>Corrosion of ferrous metals is caused by the tendency of iron (anode) to go into solution in water as ferrous hydroxide and displace hydrogen, which in turn combines with dissolved oxygen to form more water. At the same time, the dissolved ferrous hydroxide is converted by more oxygen to the insoluble ferric hydroxide, thereby allowing more iron to go into the solution. Corrosion, therefore, requires liquid water (as in damp air) and oxygen (which is normally present dissolved in the</description></item><item><title>Learn about plastic and polymer processing</title><link>http://localhost:1314/blog/2022/08/learn-about-plastic-and-polymer-processing/</link><pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/08/learn-about-plastic-and-polymer-processing/</guid><description>Melt Processing Melt processing is the most important, most economical way of shaping plastics. It can be used for those thermoplastics with melting points and viscosity low enough not to subject die materials to excessive temperatures and stresses.
+(a) Melt Processing of Thermoplastics: The raw material to be processed is usually supplied in the form of regular shape and even-size granules, because this makes quantity metering easier and quicker and leads to more uniform and predictable heating.</description></item><item><title>Steps for Process-related Risk Assessment in the Plastic Toys Industry</title><link>http://localhost:1314/blog/2022/08/steps-for-process-related-risk-assessment-in-the-plastic-toys-industry/</link><pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/08/steps-for-process-related-risk-assessment-in-the-plastic-toys-industry/</guid><description>Understand the process flow on how to manufacture the product. Identify the hazards from its process step (task). Decide who might be harmed and how. Evaluate the risks and decide on precautions. Record your findings and implement them 6. Review your assessment and update if necessary. Plastic Toys Production Process Flow: Fig: process flow of toys production
+Types of Materials used for Injection Molding SL. Material name Description Applications 1 Acetal Strong, rigid, excellent fatigue resistance, excellent creep resistance, chemical resistance, moisture resistance, naturally opaque white, low/medium cost Bearings, cams, gears, handles, plumbing components, rollers, rotors, slide guides, valves 2 Acrylic Rigid, brittle, scratch resistant, transparent, optical clarity, low/medium cost Display stands, knobs, lenses, light housings, panels, reflectors, signs, shelves, trays 3 Acrylonitrile Butadiene Styrene Strong, flexible, low mold shrinkage (tight tolerances), chemical resistance, electroplating capability, naturally opaque, low/medium cost Automotive (consoles, panels, trim, vents), boxes, gauges, housings, inhalers, toys 4 Cellulose Acetate Tough, transparent, high cost Handles, eyeglass frames 5 Polyamide 6 (Nylon) High strength, fatigue resistance, chemical resistance, low creep, low friction, almost opaque/white, medium/high cost Bearings, bushings, gears, rollers, wheels 6 Polyamide 6/6 (Nylon) High strength, fatigue resistance, chemical resistance, low creep, low friction, almost opaque/white, medium/high cost Handles, levers, small housings, zip ties 7 Polyamide 11+12 (Nylon) High strength, fatigue resistance, chemical resistance, low creep, low friction, almost opaque to clear, very high cost Air filters, eyeglass frames, safety masks 8 Polycarbonate Very tough, temperature resistance, dimensional stability, transparent, high cost Automotive (panels, lenses, consoles), bottles, containers, housings, light covers, reflectors, safety helmets, and shields 9 Polyester - Thermoplastic Rigid, heat resistance, chemical resistance, medium/high cost Automotive (filters, handles, pumps), bearings, cams, electrical components (connectors, sensors), gears, housings, rollers, switches, valves 10 Polyether Tough, very high chemical resistance, clear, very high-cost Sulphone Valves 11 Polyetheretherketone Strong, thermal stability, chemical resistance, abrasion resistance, low moisture absorption Aircraft components, electrical connectors, pump impellers, seals 12 Polyetherimide Heat resistance, flame resistance, transparent (amber color) Electrical components (connectors, boards, switches), covers, shields, surgical tools 13 Polyethylene - Low Density Lightweight, tough and flexible, excellent chemical resistance, natural waxy appearance, low cost Kitchenware, housings, covers, and containers 14 Polyethylene - High Density Tough and stiff, excellent chemical resistance, natural waxy appearance, low cost Chair seats, housings, covers, and containers 15 Polyphenylene Oxide Tough, heat resistance, flame resistance, dimensional stability, low water absorption, electroplating capability, high cost Automotive (housings, panels), electrical components, housings, plumbing components 16 Polyphenylene Sulphide Very high strength, heat resistance, brown, very high cost Bearings, covers, fuel system components, guides, switches, and shields 17 Polypropylene Lightweight, heat resistance, high chemical resistance, scratch resistance, natural waxy appearance, tough and stiff, low cost.</description></item><item><title>Textile Sewing Machine Maintenance Checklist</title><link>http://localhost:1314/blog/2022/07/textile-sewing-machine-maintenance-checklist/</link><pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/07/textile-sewing-machine-maintenance-checklist/</guid><description>This article is about learning how to prepare a textile/garment sewing process maintenance checklist and the way to accomplish this procedure as periodic maintenance.
+SEWING MAINTENANCE CHECKLIST Many Retail, Brand-name Marketing, Mail Order, and Sourcing Companies are visiting existing and potential Contractor sewing facilities and evaluating their sewing capabilities for producing quality products for their customers. In many cases, they even rate the vendor and give the plant a grade based on their observations during their visit.</description></item><item><title>Learn About Sustainable Building or Green Building</title><link>http://localhost:1314/blog/2022/02/learn-about-sustainable-building-or-green-building/</link><pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/02/learn-about-sustainable-building-or-green-building/</guid><description>What is a sustainable building? For your building to be sustainable, many factors need to be considered. These include air quality, energy
 efficiency, and the use of ‘green’ materials among others. This document focuses on 1) building a sustainable building 2) retrofitting and 3) certification.
-Why should I make my buildings sustainable? Apart from the environmental benefits, a sustainable building can reduce your operational costs by as much as 30-50% on your energy usage and 40-50% on your water usage.</description>
-    </item>
-    
-    <item>
-      <title>Industrial Fire Safety Management System</title>
-      <link>https://bdmeter.info/blog/2022/02/industrial-fire-safety-management-system/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2022/02/industrial-fire-safety-management-system/</guid>
-      <description>This article will help you to learn about industrial fire safety management system implementation, analysis, and inspection systems to install fire safety management systems in your own industrial premises.
+Why should I make my buildings sustainable? Apart from the environmental benefits, a sustainable building can reduce your operational costs by as much as 30-50% on your energy usage and 40-50% on your water usage.</description></item><item><title>Industrial Fire Safety Management System</title><link>http://localhost:1314/blog/2022/02/industrial-fire-safety-management-system/</link><pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/02/industrial-fire-safety-management-system/</guid><description>This article will help you to learn about industrial fire safety management system implementation, analysis, and inspection systems to install fire safety management systems in your own industrial premises.
 We have completed our fire safety project implementation in an Indonesian Apparel manufacturer industry location is &amp;ldquo;Jl. Raya Wantilan RT.07/03, Ds. Wantilan, Kec. Wantilan, Kab. Subang, Jawa Barat&amp;rdquo;
-In this fire safety project implementation, a total of 1164 Employees attended and, contributed their efforts to make this project successful.</description>
-    </item>
-    
-  </channel>
-</rss>
+In this fire safety project implementation, a total of 1164 Employees attended and, contributed their efforts to make this project successful.</description></item></channel></rss>

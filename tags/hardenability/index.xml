@@ -1,26 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>hardenability on Bdmeter</title>
-    <link>https://bdmeter.info/tags/hardenability/</link>
-    <description>Recent content in hardenability on Bdmeter</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [GOISP](https://goisp.net). All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 26 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bdmeter.info/tags/hardenability/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Manufacturing Process: Properties of materials</title>
-      <link>https://bdmeter.info/blog/2021/10/manufacturing-process-properties-of-materials/</link>
-      <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2021/10/manufacturing-process-properties-of-materials/</guid>
-      <description>Different materials possess different properties in varying degrees and therefore behave in different
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>hardenability on Bdmeter</title><link>http://localhost:1314/tags/hardenability/</link><description>Recent content in hardenability on Bdmeter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright><lastBuildDate>Tue, 26 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/tags/hardenability/index.xml" rel="self" type="application/rss+xml"/><item><title>Manufacturing Process: Properties of materials</title><link>http://localhost:1314/blog/2021/10/manufacturing-process-properties-of-materials/</link><pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/10/manufacturing-process-properties-of-materials/</guid><description>Different materials possess different properties in varying degrees and therefore behave in different
 ways under given conditions. These properties include Mechanical properties, Electrical properties,
 Thermal properties, Chemical properties, Magnetic properties, and Physical properties.
 A design engineer is interested in the behavior of materials under load which is mechanical in
 nature, for the design of machines &amp;amp; structures. Any material subjected to a load either deforms,
-yields, or break, depending upon the magnitude of the load.</description>
-    </item>
-    
-  </channel>
-</rss>
+yields, or break, depending upon the magnitude of the load.</description></item></channel></rss>

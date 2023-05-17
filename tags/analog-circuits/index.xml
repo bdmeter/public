@@ -1,22 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>analog-circuits on Bdmeter</title>
-    <link>https://bdmeter.info/tags/analog-circuits/</link>
-    <description>Recent content in analog-circuits on Bdmeter</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [GOISP](https://goisp.net). All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 02 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bdmeter.info/tags/analog-circuits/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>A study of digital circuits and converting to digital signals</title>
-      <link>https://bdmeter.info/blog/2022/11/a-study-of-digital-circuits-and-converting-to-digital-signals/</link>
-      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2022/11/a-study-of-digital-circuits-and-converting-to-digital-signals/</guid>
-      <description>What are Digital circuits and digital signals?
-The study of electronic circuits where the inputs and outputs are limited to two fixed or discrete values or logic levels is called digital electronics. Digital technology would take many signals to do justice, so in this text, we can only scratch the surface. There is a place for both analog and digital circuits in instrumentation. Sensors and instrumentation functions are analog in nature.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>analog-circuits on Bdmeter</title><link>http://localhost:1314/tags/analog-circuits/</link><description>Recent content in analog-circuits on Bdmeter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright><lastBuildDate>Wed, 02 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/tags/analog-circuits/index.xml" rel="self" type="application/rss+xml"/><item><title>A study of digital circuits and converting to digital signals</title><link>http://localhost:1314/blog/2022/11/a-study-of-digital-circuits-and-converting-to-digital-signals/</link><pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2022/11/a-study-of-digital-circuits-and-converting-to-digital-signals/</guid><description>What are Digital circuits and digital signals?
+The study of electronic circuits where the inputs and outputs are limited to two fixed or discrete values or logic levels is called digital electronics. Digital technology would take many signals to do justice, so in this text, we can only scratch the surface. There is a place for both analog and digital circuits in instrumentation. Sensors and instrumentation functions are analog in nature.</description></item></channel></rss>

@@ -1,22 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>fabric-inspection on Bdmeter</title>
-    <link>https://bdmeter.info/tags/fabric-inspection/</link>
-    <description>Recent content in fabric-inspection on Bdmeter</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [GOISP](https://goisp.net). All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 25 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bdmeter.info/tags/fabric-inspection/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Fabric Inspection Standard Procedures</title>
-      <link>https://bdmeter.info/blog/2021/02/fabric-inspection-standard-procedures/</link>
-      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2021/02/fabric-inspection-standard-procedures/</guid>
-      <description>In general, There are two type of fabrics need to inspect during fabric manufacturing.
-Greige fabric inspection Final fabric inspection GREIGE FABRIC INSPECTION PROCEDURE: PROCESS DEFINITION: Shell Fabric inspection: Greige fabric inspection process defined as a system of visual assessment through an inspection machine to detect and identify the knitting faults in the fabric produced by a Circular Knit Machine. Collar &amp;amp; Cuff inspection: Expected quality verification of Collar and Cuff fabric produced in Flat Knit Machine is called collar cuff inspection.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>fabric-inspection on Bdmeter</title><link>http://localhost:1314/tags/fabric-inspection/</link><description>Recent content in fabric-inspection on Bdmeter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright><lastBuildDate>Thu, 25 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/tags/fabric-inspection/index.xml" rel="self" type="application/rss+xml"/><item><title>Fabric Inspection Standard Procedures</title><link>http://localhost:1314/blog/2021/02/fabric-inspection-standard-procedures/</link><pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/02/fabric-inspection-standard-procedures/</guid><description>In general, There are two type of fabrics need to inspect during fabric manufacturing.
+Greige fabric inspection Final fabric inspection GREIGE FABRIC INSPECTION PROCEDURE: PROCESS DEFINITION: Shell Fabric inspection: Greige fabric inspection process defined as a system of visual assessment through an inspection machine to detect and identify the knitting faults in the fabric produced by a Circular Knit Machine. Collar &amp;amp; Cuff inspection: Expected quality verification of Collar and Cuff fabric produced in Flat Knit Machine is called collar cuff inspection.</description></item></channel></rss>

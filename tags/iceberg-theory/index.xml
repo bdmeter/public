@@ -1,22 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>iceberg-theory on Bdmeter</title>
-    <link>https://bdmeter.info/tags/iceberg-theory/</link>
-    <description>Recent content in iceberg-theory on Bdmeter</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [GOISP](https://goisp.net). All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 28 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bdmeter.info/tags/iceberg-theory/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Industrial Hazard Identification &amp; Risk Assessment</title>
-      <link>https://bdmeter.info/blog/2021/12/industrial-hazard-identification-risk-assessment/</link>
-      <pubDate>Tue, 28 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2021/12/industrial-hazard-identification-risk-assessment/</guid>
-      <description>What Industrial Supplier Compliance Manual said? Hazard identification and risk assessment (HIRA) should be
-performed for all activities conducted at the facility, and include off-site activities are related to the Supplier’s business. HIRA should be contradicted at least once (1) per year EHS risk assessment should include Why we need Hazard Identification and Risk Assessment at Workplace Level? As part of the key aspects of Risk Management, it aims to:- Reduce the likelihood and consequence of a workplace incident that may result in injury or disease Free from significant risks in the factory workplace Control risks and prevent workplace injuries The Risk Pyramid</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>iceberg-theory on Bdmeter</title><link>http://localhost:1314/tags/iceberg-theory/</link><description>Recent content in iceberg-theory on Bdmeter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright><lastBuildDate>Tue, 28 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/tags/iceberg-theory/index.xml" rel="self" type="application/rss+xml"/><item><title>Industrial Hazard Identification &amp; Risk Assessment</title><link>http://localhost:1314/blog/2021/12/industrial-hazard-identification-risk-assessment/</link><pubDate>Tue, 28 Dec 2021 00:00:00 +0000</pubDate><guid>http://localhost:1314/blog/2021/12/industrial-hazard-identification-risk-assessment/</guid><description>What Industrial Supplier Compliance Manual said? Hazard identification and risk assessment (HIRA) should be
+performed for all activities conducted at the facility, and include off-site activities are related to the Supplier’s business. HIRA should be contradicted at least once (1) per year EHS risk assessment should include Why we need Hazard Identification and Risk Assessment at Workplace Level? As part of the key aspects of Risk Management, it aims to:- Reduce the likelihood and consequence of a workplace incident that may result in injury or disease Free from significant risks in the factory workplace Control risks and prevent workplace injuries The Risk Pyramid</description></item></channel></rss>
