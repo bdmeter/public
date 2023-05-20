@@ -2,16 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://bdmeter.info/</loc>
+    <lastmod>2023-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdmeter.info/blog/</loc>
+    <lastmod>2023-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdmeter.info/categories/business/</loc>
+    <lastmod>2023-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdmeter.info/categories/</loc>
+    <lastmod>2023-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdmeter.info/categories/health-and-safety/</loc>
+    <lastmod>2023-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdmeter.info/blog/2023/05/occupational-health-and-safety-systems/</loc>
+    <lastmod>2023-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdmeter.info/tags/occupational-health/</loc>
+    <lastmod>2023-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdmeter.info/tags/occupational-safety/</loc>
+    <lastmod>2023-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdmeter.info/tags/safety-system/</loc>
+    <lastmod>2023-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdmeter.info/tags/</loc>
+    <lastmod>2023-05-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://bdmeter.info/authors/</loc>
     <lastmod>2023-05-16T22:42:23+08:00</lastmod>
   </url><url>
-    <loc>https://bdmeter.info/</loc>
-    <lastmod>2023-05-16T22:42:23+08:00</lastmod>
-  </url><url>
     <loc>https://bdmeter.info/authors/bdmeter/</loc>
-    <lastmod>2023-05-16T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>https://bdmeter.info/categories/</loc>
     <lastmod>2023-05-16T22:42:23+08:00</lastmod>
   </url><url>
     <loc>https://bdmeter.info/docs/</loc>
@@ -35,17 +59,11 @@
     <loc>https://bdmeter.info/series/</loc>
     <lastmod>2023-05-16T22:42:23+08:00</lastmod>
   </url><url>
-    <loc>https://bdmeter.info/tags/</loc>
-    <lastmod>2023-05-16T22:42:23+08:00</lastmod>
-  </url><url>
     <loc>https://bdmeter.info/tags/tech-revolution/</loc>
     <lastmod>2023-05-16T22:42:23+08:00</lastmod>
   </url><url>
     <loc>https://bdmeter.info/docs/installation/industry/industry-revolution/</loc>
     <lastmod>2023-05-16T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>https://bdmeter.info/blog/</loc>
-    <lastmod>2023-05-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bdmeter.info/blog/2023/05/building-costs/</loc>
     <lastmod>2023-05-07T00:00:00+00:00</lastmod>
@@ -300,9 +318,6 @@
     <lastmod>2023-03-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bdmeter.info/tags/building-materials/</loc>
-    <lastmod>2023-03-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bdmeter.info/categories/business/</loc>
     <lastmod>2023-03-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bdmeter.info/tags/cement/</loc>
@@ -1362,9 +1377,6 @@
     <lastmod>2022-09-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bdmeter.info/tags/medium-size-vessels/</loc>
-    <lastmod>2022-09-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bdmeter.info/tags/occupational-safety/</loc>
     <lastmod>2022-09-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bdmeter.info/tags/packaging-materials/</loc>

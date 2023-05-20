@@ -7,7 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 16 May 2023 22:42:23 +0800</lastBuildDate><atom:link href="https://bdmeter.info/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bdmeter.info/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>business</title>
+      <link>https://bdmeter.info/categories/business/</link>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/categories/business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Health and Safety</title>
+      <link>https://bdmeter.info/categories/health-and-safety/</link>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/categories/health-and-safety/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>industry</title>
       <link>https://bdmeter.info/categories/industry/</link>
@@ -158,15 +176,6 @@
       <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://bdmeter.info/categories/weather/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>business</title>
-      <link>https://bdmeter.info/categories/business/</link>
-      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/categories/business/</guid>
       <description></description>
     </item>
     
