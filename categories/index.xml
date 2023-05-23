@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 20 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bdmeter.info/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bdmeter.info/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>building-materials</title>
+      <link>https://bdmeter.info/categories/building-materials/</link>
+      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/categories/building-materials/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>business</title>
       <link>https://bdmeter.info/categories/business/</link>
@@ -59,15 +68,6 @@
       <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://bdmeter.info/categories/apparel-fashion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>building-materials</title>
-      <link>https://bdmeter.info/categories/building-materials/</link>
-      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/categories/building-materials/</guid>
       <description></description>
     </item>
     
