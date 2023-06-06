@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Electrical &amp; Electronics on Bdmeter</title>
+    <link>https://bdmeter.info/categories/electrical-electronics/</link>
+    <description>Recent content in Electrical &amp; Electronics on Bdmeter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright>
+    <lastBuildDate>Sun, 04 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bdmeter.info/categories/electrical-electronics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AC Electricity: The basic passive components in ac circuits</title>
+      <link>https://bdmeter.info/blog/2023/06/ac-electricity-the-basic-passive-components-in-ac-circuits/</link>
+      <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2023/06/ac-electricity-the-basic-passive-components-in-ac-circuits/</guid>
+      <description>Introduction Three basic components, resistors, capacitors, and inductors, are very important elements in electrical circuits as individual devices, or together. Resistors are used as loads, delays, and current limiting devices. Capacitors are used as dc blocking devices, in level shifting, integrating, differentiating, frequency determination, selection, and delay circuits. Inductors are used for frequency selection and ac blocking, in analog meter movements and relays, and are the basis for transformers and motors.</description>
+    </item>
+    
+  </channel>
+</rss>

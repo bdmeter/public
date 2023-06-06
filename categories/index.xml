@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 23 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bdmeter.info/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bdmeter.info/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Electrical &amp; Electronics</title>
+      <link>https://bdmeter.info/categories/electrical-electronics/</link>
+      <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/categories/electrical-electronics/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>building-materials</title>
       <link>https://bdmeter.info/categories/building-materials/</link>

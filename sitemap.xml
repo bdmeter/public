@@ -2,25 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://bdmeter.info/blog/2023/06/ac-electricity-the-basic-passive-components-in-ac-circuits/</loc>
+    <lastmod>2023-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdmeter.info/</loc>
+    <lastmod>2023-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdmeter.info/blog/</loc>
+    <lastmod>2023-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdmeter.info/tags/capacitors/</loc>
+    <lastmod>2023-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdmeter.info/categories/</loc>
+    <lastmod>2023-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdmeter.info/tags/circuits/</loc>
+    <lastmod>2023-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdmeter.info/tags/current-flow/</loc>
+    <lastmod>2023-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdmeter.info/categories/electrical-electronics/</loc>
+    <lastmod>2023-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdmeter.info/tags/impedance/</loc>
+    <lastmod>2023-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdmeter.info/tags/inductors/</loc>
+    <lastmod>2023-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdmeter.info/tags/instrumentation/</loc>
+    <lastmod>2023-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdmeter.info/tags/magnetic-fields/</loc>
+    <lastmod>2023-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdmeter.info/tags/resistance/</loc>
+    <lastmod>2023-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdmeter.info/tags/resistors/</loc>
+    <lastmod>2023-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdmeter.info/tags/resonant/</loc>
+    <lastmod>2023-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdmeter.info/tags/</loc>
+    <lastmod>2023-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdmeter.info/tags/transformers/</loc>
+    <lastmod>2023-06-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://bdmeter.info/tags/admixtures/</loc>
     <lastmod>2023-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bdmeter.info/blog/2023/05/admixtures-for-concrete-in-building-construction/</loc>
     <lastmod>2023-05-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bdmeter.info/</loc>
-    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bdmeter.info/blog/</loc>
-    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://bdmeter.info/tags/building-concrete/</loc>
     <lastmod>2023-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bdmeter.info/categories/building-materials/</loc>
-    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bdmeter.info/categories/</loc>
     <lastmod>2023-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bdmeter.info/tags/chemical-admixtures/</loc>
@@ -33,9 +75,6 @@
     <lastmod>2023-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bdmeter.info/tags/mineral-admixtures/</loc>
-    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bdmeter.info/tags/</loc>
     <lastmod>2023-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bdmeter.info/categories/business/</loc>
@@ -939,9 +978,6 @@
     <lastmod>2022-11-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bdmeter.info/tags/circuit-electronic/</loc>
-    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bdmeter.info/tags/circuits/</loc>
     <lastmod>2022-11-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bdmeter.info/tags/coal-tar-pitch/</loc>
@@ -2543,9 +2579,6 @@
     <loc>https://bdmeter.info/tags/capacitor/</loc>
     <lastmod>2022-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bdmeter.info/tags/capacitors/</loc>
-    <lastmod>2022-03-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://bdmeter.info/tags/cross-sectional-area-of-the-coil/</loc>
     <lastmod>2022-03-09T00:00:00+00:00</lastmod>
   </url><url>
@@ -2588,16 +2621,10 @@
     <loc>https://bdmeter.info/tags/henries/</loc>
     <lastmod>2022-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bdmeter.info/tags/impedance/</loc>
-    <lastmod>2022-03-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://bdmeter.info/tags/impedances/</loc>
     <lastmod>2022-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bdmeter.info/tags/inductance/</loc>
-    <lastmod>2022-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bdmeter.info/tags/inductors/</loc>
     <lastmod>2022-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bdmeter.info/tags/kirchoffs-laws/</loc>
@@ -2624,13 +2651,7 @@
     <loc>https://bdmeter.info/tags/permeability-of-the-core-of-the-coil/</loc>
     <lastmod>2022-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bdmeter.info/tags/resistance/</loc>
-    <lastmod>2022-03-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://bdmeter.info/tags/resistor-formulas/</loc>
-    <lastmod>2022-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bdmeter.info/tags/resistors/</loc>
     <lastmod>2022-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bdmeter.info/tags/rms/</loc>
@@ -4023,9 +4044,6 @@
     <lastmod>2021-09-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bdmeter.info/blog/2021/09/industrial-instrumentation-and-process-control/</loc>
-    <lastmod>2021-09-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bdmeter.info/tags/instrumentation/</loc>
     <lastmod>2021-09-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bdmeter.info/tags/sop-download/</loc>
