@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inkscape tools on Bdmeter</title>
+    <link>https://bdmeter.info/tags/inkscape-tools/</link>
+    <description>Recent content in Inkscape tools on Bdmeter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright>
+    <lastBuildDate>Thu, 06 Apr 2023 01:44:59 +0800</lastBuildDate><atom:link href="https://bdmeter.info/tags/inkscape-tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to create Rectangle, Circle and Straigt line using Inkscape</title>
+      <link>https://bdmeter.info/techtalk/-create-rectangle-circle-and-straigt-line-using-inkscape/</link>
+      <pubDate>Thu, 06 Apr 2023 01:44:59 +0800</pubDate>
+      
+      <guid>https://bdmeter.info/techtalk/-create-rectangle-circle-and-straigt-line-using-inkscape/</guid>
+      <description>Create Rectangle, Circle and Straigt line using Inkscape Today we will learn how to create Rectangle, Circle and Straigt line using Inkscape.
+Inkscape is a great design tool to create SVG images. Using Inkscape you can learn different designs very easily.
+First you have to open Inkscape and follow below steps:
+Select File –&amp;gt; New from Template –&amp;gt; Select your required template.
+Then For straight line, select Draw Baizer curve and Straight lines tool.</description>
+    </item>
+    
+  </channel>
+</rss>

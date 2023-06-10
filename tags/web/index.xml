@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web on Bdmeter</title>
+    <link>https://bdmeter.info/tags/web/</link>
+    <description>Recent content in Web on Bdmeter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright>
+    <lastBuildDate>Thu, 06 Apr 2023 01:44:59 +0800</lastBuildDate><atom:link href="https://bdmeter.info/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How To Create Google Sitemap</title>
+      <link>https://bdmeter.info/techtalk/how-to-create-google-sitemap/</link>
+      <pubDate>Thu, 06 Apr 2023 01:44:59 +0800</pubDate>
+      
+      <guid>https://bdmeter.info/techtalk/how-to-create-google-sitemap/</guid>
+      <description>How To Create Google Sitemap in Ubuntu 20.04 Today we will learn how to create Google Sitemap. Google Sitemap is very important because you need to do page ranking with Google Sitemap. Sitemap is a type of mapping where there will be links to all the pages of your website. You can easily create a sitemap on the Linux operating system.
+With Sitemap you can crawl any website online, but WordPress site php coding.</description>
+    </item>
+    
+  </channel>
+</rss>
