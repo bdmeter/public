@@ -102,14 +102,5 @@ coming soon! </description>
 &lt;/ul&gt;</description>
     </item>
     
-    <item>
-      <title>Example Post with an Featured Image</title>
-      <link>https://bdmeter.info/blog/2022/02/example-post-with-an-featured-image/</link>
-      <pubDate>Fri, 04 Feb 2022 20:26:48 +0800</pubDate>
-      
-      <guid>https://bdmeter.info/blog/2022/02/example-post-with-an-featured-image/</guid>
-      <description>&lt;p&gt;The example post with an featured image.&lt;/p&gt;</description>
-    </item>
-    
   </channel>
 </rss>
