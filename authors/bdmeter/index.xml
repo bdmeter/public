@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 16 May 2023 22:42:23 +0800</lastBuildDate><atom:link href="https://bdmeter.info/authors/bdmeter/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Jun 2023 22:42:23 +0800</lastBuildDate><atom:link href="https://bdmeter.info/authors/bdmeter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Business plan guide</title>
+      <link>https://bdmeter.info/docs/installation/industry/business-plan/</link>
+      <pubDate>Fri, 16 Jun 2023 22:42:23 +0800</pubDate>
+      
+      <guid>https://bdmeter.info/docs/installation/industry/business-plan/</guid>
+      <description>This guide show you how to create a business plan initially to develop a freelancr platform.
+Example 1: Business plan for a freelancer agency Certainly! Below is a business plan for a freelancing platform that leverages the capabilities of GPT-4 to refine project descriptions until they are complete enough for an accurate evaluation.
+Executive Summary Business Name: ClarityFreelance Business Structure: Online Freelancing Platform Location: Web-based with global access Unique Value Proposition: Leveraging AI (GPT-4) to streamline and optimize project descriptions for a more effective freelancing experience.</description>
+    </item>
+    
     <item>
       <title>The Industrial Revolution: A Transformational Era Shaping Our Modern World</title>
       <link>https://bdmeter.info/docs/installation/industry/industry-revolution/</link>
@@ -57,7 +68,9 @@ coming soon! </description>
       
       <guid>https://bdmeter.info/docs/installation/building/</guid>
       <description>Step by step installation process of a building. This guide of installation of a building will help us to know how to build small to large scale category building by self.
-coming soon.. </description>
+PRINCIPLES OF ARCHITECTURE A building is an assemblage that is firmly attached to the ground and that provides
+SYSTEMS DESIGN AND ANALYSIS Systems design comprises a logical series of steps that leads to the best
+TRADITIONAL CONSTRUCTION PROCEDURES Systems design of buildings requires a different approach to design and</description>
     </item>
     
     <item>
@@ -67,16 +80,6 @@ coming soon.. </description>
       
       <guid>https://bdmeter.info/docs/installation/safety/</guid>
       <description>Learn how to install safety plan for your home and industry
-coming soon! </description>
-    </item>
-    
-    <item>
-      <title>Business plan guide</title>
-      <link>https://bdmeter.info/docs/installation/industry/business-plan/</link>
-      <pubDate>Sun, 04 Sep 2022 22:42:23 +0800</pubDate>
-      
-      <guid>https://bdmeter.info/docs/installation/industry/business-plan/</guid>
-      <description>This guide show you how to create a business plan initially to develop a industry.
 coming soon! </description>
     </item>
     

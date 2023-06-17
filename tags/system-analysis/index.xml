@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>system-analysis on Bdmeter</title>
+    <link>https://bdmeter.info/tags/system-analysis/</link>
+    <description>Recent content in system-analysis on Bdmeter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright>
+    <lastBuildDate>Sat, 17 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bdmeter.info/tags/system-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building systems design and analysis</title>
+      <link>https://bdmeter.info/blog/2023/06/building-systems-design-and-analysis/</link>
+      <pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2023/06/building-systems-design-and-analysis/</guid>
+      <description>Systems design comprises a logical series of steps that leads to the best decision for a given set of conditions. The procedure requires:
+Analysis of a building as a system.
+Synthesis, or selection of components, to form a system that meets specific objectives while subject to constraints, or variables controllable by designers.
+Appraisal of system performance, including comparisons with alternative systems.
+Feedback to analysis and synthesis of information obtained in system evaluation, to improve the design.</description>
+    </item>
+    
+  </channel>
+</rss>
