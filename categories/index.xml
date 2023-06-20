@@ -7,7 +7,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 17 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bdmeter.info/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Jun 2023 13:50:51 +0800</lastBuildDate><atom:link href="https://bdmeter.info/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>technology</title>
+      <link>https://bdmeter.info/categories/technology/</link>
+      <pubDate>Mon, 19 Jun 2023 13:50:51 +0800</pubDate>
+      
+      <guid>https://bdmeter.info/categories/technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>environment</title>
+      <link>https://bdmeter.info/categories/environment/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/categories/environment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Health</title>
+      <link>https://bdmeter.info/categories/health/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/categories/health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>weather</title>
+      <link>https://bdmeter.info/categories/weather/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/categories/weather/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>building-materials</title>
       <link>https://bdmeter.info/categories/building-materials/</link>
@@ -153,15 +189,6 @@
     </item>
     
     <item>
-      <title>environment</title>
-      <link>https://bdmeter.info/categories/environment/</link>
-      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/categories/environment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>healthcare</title>
       <link>https://bdmeter.info/categories/healthcare/</link>
       <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
@@ -225,15 +252,6 @@
     </item>
     
     <item>
-      <title>weather</title>
-      <link>https://bdmeter.info/categories/weather/</link>
-      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/categories/weather/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>human-resource</title>
       <link>https://bdmeter.info/categories/human-resource/</link>
       <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
@@ -248,15 +266,6 @@
       <pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://bdmeter.info/categories/media-entertainment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>technology</title>
-      <link>https://bdmeter.info/categories/technology/</link>
-      <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bdmeter.info/categories/technology/</guid>
       <description></description>
     </item>
     

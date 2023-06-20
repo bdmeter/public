@@ -1,8 +1,1 @@
-# Hello, human. If you're reading this, you should work at Bdmeter!
 User-agent: *
-Disallow: /js/
-Disallow: /css/
-Disallow: /.build/
-
-Sitemap: https://bdmeter.info/sitemap.xml
-Sitemap: https://www.bdmeter.info/sitemap.xml
